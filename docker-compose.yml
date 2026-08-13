@@ -1,0 +1,16 @@
+services:
+  api:
+    build: .
+    ports:
+      - "3000:3000"
+    environment:
+      HOST: 0.0.0.0
+      PORT: 3000
+      REFRESH_INTERVAL_MS: 600000
+      SOURCE_HEADLESS: "true"
+    volumes:
+      - supreme-values-data:/app/data
+    restart: unless-stopped
+
+volumes:
+  supreme-values-data:
