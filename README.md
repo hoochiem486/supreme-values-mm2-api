@@ -166,3 +166,5 @@ https://hoochiem486.github.io/supreme-values-mm2-api
 On GitHub Free, make the repository public. Then open **Settings → Pages** and set **Source** to **GitHub Actions**. Open **Actions → Refresh and publish MM2 values → Run workflow** for the first deployment.
 
 For a client environment with an HTTP request function, use `roblox/Client/MM2ValuesPages.lua`. It downloads `values.json` once and performs subsequent item lookups from its local table.
+
+For LLM integration, schema details, lookup behavior, and ready-to-paste instructions, see [`LLM_USAGE.md`](LLM_USAGE.md). The workflow also publishes it at `https://hoochiem486.github.io/supreme-values-mm2-api/llms.txt`.

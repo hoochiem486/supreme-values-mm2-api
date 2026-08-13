@@ -18,16 +18,19 @@ test("exports full, health, lookup, and individual-item JSON files", async (cont
   };
 
   const outputDir = path.join(temporaryRoot, "docs");
-  await exportStaticDataset(dataset, { outputDir });
+  const guideFile = path.join(temporaryRoot, "LLM_USAGE.md");
+  await fs.writeFile(guideFile, "# Test guide\n", "utf8");
+  await exportStaticDataset(dataset, { outputDir, guideFile });
 
   const values = JSON.parse(await fs.readFile(path.join(outputDir, "values.json"), "utf8"));
   const health = JSON.parse(await fs.readFile(path.join(outputDir, "health.json"), "utf8"));
   const lookup = JSON.parse(await fs.readFile(path.join(outputDir, "lookup.json"), "utf8"));
   const item = JSON.parse(await fs.readFile(path.join(outputDir, "values", "godlies", "test-item.json"), "utf8"));
+  const guide = await fs.readFile(path.join(outputDir, "llms.txt"), "utf8");
 
   assert.equal(values.count, 1);
   assert.equal(health.status, "ok");
   assert.equal(lookup.byId["godlies:test-item"], "values/godlies/test-item.json");
   assert.equal(item.name, "Test Item");
+  assert.equal(guide, "# Test guide\n");
 });
-

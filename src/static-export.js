@@ -65,6 +65,10 @@ export async function exportStaticDataset(dataset, options = {}) {
   await fs.mkdir(nextDir, { recursive: true });
   await fs.writeFile(path.join(nextDir, ".nojekyll"), "", "utf8");
 
+  const guideFile = path.resolve(options.guideFile || "LLM_USAGE.md");
+  const guide = await fs.readFile(guideFile, "utf8");
+  await fs.writeFile(path.join(nextDir, "llms.txt"), guide, "utf8");
+
   await writeJson(path.join(nextDir, "values.json"), { ...dataset, cache });
   await writeJson(path.join(nextDir, "health.json"), {
     status: "ok",
@@ -118,4 +122,3 @@ export async function exportStaticDataset(dataset, options = {}) {
   await swapDirectories(nextDir, outputDir, previousDir);
   return { outputDir, count: dataset.count, publishedAt };
 }
-
