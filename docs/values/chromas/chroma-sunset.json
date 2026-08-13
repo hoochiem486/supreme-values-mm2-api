@@ -7,14 +7,10 @@
   "valueType": "numeric",
   "tieredValue": null,
   "valueDisplay": "9,250",
-  "range": {
-    "min": 9250,
-    "max": 9400,
-    "display": "9,250 - 9,400"
-  },
+  "range": null,
   "score": 0.9698375870069605,
   "scoreClass": "val-top",
-  "stability": "Doing Well",
+  "stability": "Stable",
   "demand": 6,
   "rarity": 5,
   "origin": "Summer 2025 (Tier 25)",
@@ -24,8 +20,8 @@
     "CSunset",
     "CSS"
   ],
-  "flippability": "Flippable",
-  "riseChance": 35,
+  "flippability": "Rarely Flippable",
+  "riseChance": 10,
   "wikiLink": "Chroma_Sunset",
   "imageKey": "mm2chromas/CSS",
   "className": null,

@@ -7,14 +7,10 @@
   "valueType": "numeric",
   "tieredValue": null,
   "valueDisplay": "22,500",
-  "range": {
-    "min": 22500,
-    "max": 22650,
-    "display": "22,500 - 22,650"
-  },
+  "range": null,
   "score": 0.9767981438515081,
   "scoreClass": "val-top",
-  "stability": "Doing Well",
+  "stability": "Stable",
   "demand": 6,
   "rarity": 5,
   "origin": null,
@@ -24,8 +20,8 @@
     "CSun Set",
     "CSunrise Set"
   ],
-  "flippability": "Flippable",
-  "riseChance": 35,
+  "flippability": "Rarely Flippable",
+  "riseChance": 10,
   "wikiLink": null,
   "imageKey": "mm2chromas/CSR",
   "className": null,

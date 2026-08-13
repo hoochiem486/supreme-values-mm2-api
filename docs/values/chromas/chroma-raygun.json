@@ -3,14 +3,14 @@
   "slug": "chroma-raygun",
   "name": "Chroma Raygun",
   "category": "chromas",
-  "value": 13250,
+  "value": 13500,
   "valueType": "numeric",
   "tieredValue": null,
-  "valueDisplay": "13,250",
+  "valueDisplay": "13,500",
   "range": {
-    "min": 13250,
-    "max": 13750,
-    "display": "13,250 - 13,750"
+    "min": 13500,
+    "max": 14000,
+    "display": "13,500 - 14,000"
   },
   "score": 0.974477958236659,
   "scoreClass": "val-top",

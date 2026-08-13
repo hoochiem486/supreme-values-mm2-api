@@ -8,13 +8,13 @@
   "tieredValue": null,
   "valueDisplay": "857",
   "range": {
-    "min": 855,
+    "min": 857,
     "max": 860,
-    "display": "855 - 860"
+    "display": "857 - 860"
   },
   "score": 0.9025522041763341,
   "scoreClass": "val-top",
-  "stability": "Fluctuating",
+  "stability": "Doing Well",
   "demand": 5,
   "rarity": 4,
   "origin": null,
@@ -25,7 +25,7 @@
     "Orn Set"
   ],
   "flippability": "Flippable",
-  "riseChance": 10,
+  "riseChance": 25,
   "wikiLink": null,
   "imageKey": "mm2godlies/Bauble",
   "className": null,

@@ -3,14 +3,14 @@
   "slug": "alien-set",
   "name": "Alien Set",
   "category": "sets",
-  "value": 3625,
+  "value": 3725,
   "valueType": "numeric",
   "tieredValue": null,
-  "valueDisplay": "3,625",
+  "valueDisplay": "3,725",
   "range": {
-    "min": 3625,
-    "max": 3725,
-    "display": "3,625 - 3,725"
+    "min": 3725,
+    "max": 3875,
+    "display": "3,725 - 3,875"
   },
   "score": 0.9535962877030162,
   "scoreClass": "val-top",
@@ -22,7 +22,7 @@
   "percentageChange": 2.8,
   "aliases": [],
   "flippability": "Highly Flippable",
-  "riseChance": 60,
+  "riseChance": 75,
   "wikiLink": null,
   "imageKey": "mm2godlies/Alienbeam",
   "className": null,

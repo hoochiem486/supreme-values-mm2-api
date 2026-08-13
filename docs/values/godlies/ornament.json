@@ -8,13 +8,13 @@
   "tieredValue": null,
   "valueDisplay": "32",
   "range": {
-    "min": 30,
+    "min": 32,
     "max": 35,
-    "display": "30 - 35"
+    "display": "32 - 35"
   },
   "score": 0.679814385150812,
   "scoreClass": "val-mid",
-  "stability": "Fluctuating",
+  "stability": "Doing Well",
   "demand": 1,
   "rarity": 2,
   "origin": "Christmas 2025 (Gifting 100 Gifts)",
@@ -24,7 +24,7 @@
     "Orn"
   ],
   "flippability": "Flippable",
-  "riseChance": 10,
+  "riseChance": 25,
   "wikiLink": "Ornament_Godly",
   "imageKey": "mm2godlies/Ornament",
   "className": null,
