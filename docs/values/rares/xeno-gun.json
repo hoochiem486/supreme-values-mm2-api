@@ -1,0 +1,30 @@
+{
+  "id": "rares:xeno-gun",
+  "slug": "xeno-gun",
+  "name": "Xeno (Gun)",
+  "category": "rares",
+  "value": null,
+  "valueType": "tiered-items",
+  "tieredValue": {
+    "quantity": 2,
+    "tier": 1,
+    "rarity": "rare"
+  },
+  "valueDisplay": "x2 T1 Rares",
+  "range": null,
+  "score": null,
+  "scoreClass": "val-sub1",
+  "stability": "Stable",
+  "demand": 2,
+  "rarity": 2,
+  "origin": "Halloween 2025 (Unboxed)",
+  "difference": null,
+  "percentageChange": null,
+  "aliases": [],
+  "flippability": "Flippable",
+  "riseChance": null,
+  "wikiLink": "Xeno_(Gun)",
+  "imageKey": "mm2rares/Xeno_Gun",
+  "className": null,
+  "isExp": false
+}

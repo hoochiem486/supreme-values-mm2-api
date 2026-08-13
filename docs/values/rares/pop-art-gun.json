@@ -1,0 +1,30 @@
+{
+  "id": "rares:pop-art-gun",
+  "slug": "pop-art-gun",
+  "name": "Pop Art (Gun)",
+  "category": "rares",
+  "value": null,
+  "valueType": "tiered-items",
+  "tieredValue": {
+    "quantity": 2,
+    "tier": 1,
+    "rarity": "rare"
+  },
+  "valueDisplay": "x2 T1 Rares",
+  "range": null,
+  "score": null,
+  "scoreClass": "val-sub1",
+  "stability": "Stable",
+  "demand": 1,
+  "rarity": 1,
+  "origin": "Summer 2025 (Unboxed)",
+  "difference": null,
+  "percentageChange": null,
+  "aliases": [],
+  "flippability": null,
+  "riseChance": null,
+  "wikiLink": null,
+  "imageKey": "mm2rares/Pop_Art",
+  "className": null,
+  "isExp": false
+}

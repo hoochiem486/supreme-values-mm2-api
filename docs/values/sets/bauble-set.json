@@ -1,0 +1,33 @@
+{
+  "id": "sets:bauble-set",
+  "slug": "bauble-set",
+  "name": "Bauble Set",
+  "category": "sets",
+  "value": 857,
+  "valueType": "numeric",
+  "tieredValue": null,
+  "valueDisplay": "857",
+  "range": {
+    "min": 855,
+    "max": 860,
+    "display": "855 - 860"
+  },
+  "score": 0.9025522041763341,
+  "scoreClass": "val-top",
+  "stability": "Fluctuating",
+  "demand": 5,
+  "rarity": 4,
+  "origin": null,
+  "difference": 2,
+  "percentageChange": 0.2,
+  "aliases": [
+    "Ornament Set",
+    "Orn Set"
+  ],
+  "flippability": "Flippable",
+  "riseChance": 10,
+  "wikiLink": null,
+  "imageKey": "mm2godlies/Bauble",
+  "className": null,
+  "isExp": true
+}

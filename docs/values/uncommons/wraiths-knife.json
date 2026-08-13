@@ -1,0 +1,30 @@
+{
+  "id": "uncommons:wraiths-knife",
+  "slug": "wraiths-knife",
+  "name": "Wraiths (Knife)",
+  "category": "uncommons",
+  "value": null,
+  "valueType": "tiered-items",
+  "tieredValue": {
+    "quantity": 1,
+    "tier": 1,
+    "rarity": "legendary"
+  },
+  "valueDisplay": "x1 T1 Legendary",
+  "range": null,
+  "score": null,
+  "scoreClass": "val-sub1",
+  "stability": "Stable",
+  "demand": 2,
+  "rarity": 3,
+  "origin": "Halloween 2021 (Tier 12)",
+  "difference": null,
+  "percentageChange": null,
+  "aliases": [],
+  "flippability": null,
+  "riseChance": null,
+  "wikiLink": null,
+  "imageKey": "mm2uncommons/Wraiths_Knife",
+  "className": null,
+  "isExp": false
+}

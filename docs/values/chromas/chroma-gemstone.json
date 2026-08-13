@@ -1,0 +1,28 @@
+{
+  "id": "chromas:chroma-gemstone",
+  "slug": "chroma-gemstone",
+  "name": "Chroma Gemstone",
+  "category": "chromas",
+  "value": 32,
+  "valueType": "numeric",
+  "tieredValue": null,
+  "valueDisplay": "32",
+  "range": null,
+  "score": 0.679814385150812,
+  "scoreClass": "val-mid",
+  "stability": "Stable",
+  "demand": 1,
+  "rarity": 2,
+  "origin": "Mystery Crate #1",
+  "difference": -3,
+  "percentageChange": -8.6,
+  "aliases": [
+    "CGem"
+  ],
+  "flippability": "Rarely Flippable",
+  "riseChance": 5,
+  "wikiLink": "Chroma_Gemstone",
+  "imageKey": "mm2chromas/CGem",
+  "className": null,
+  "isExp": true
+}

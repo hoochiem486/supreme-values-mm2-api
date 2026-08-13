@@ -1,0 +1,32 @@
+{
+  "id": "misc:snowflake-key",
+  "slug": "snowflake-key",
+  "name": "Snowflake Key",
+  "category": "misc",
+  "value": null,
+  "valueType": "tiered-items",
+  "tieredValue": {
+    "quantity": 2,
+    "tier": 1,
+    "rarity": "legendary"
+  },
+  "valueDisplay": "x2 T1 Legendaries",
+  "range": null,
+  "score": null,
+  "scoreClass": "val-sub1",
+  "stability": "Stable",
+  "demand": 1,
+  "rarity": 3,
+  "origin": "Christmas 2018 (Tiers or 100 Tokens)",
+  "difference": null,
+  "percentageChange": null,
+  "aliases": [
+    "Snow Key"
+  ],
+  "flippability": null,
+  "riseChance": null,
+  "wikiLink": null,
+  "imageKey": "mm2misc/Snow_Key",
+  "className": null,
+  "isExp": false
+}

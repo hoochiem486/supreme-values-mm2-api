@@ -1,0 +1,28 @@
+{
+  "id": "sets:bow-set",
+  "slug": "bow-set",
+  "name": "Bow Set",
+  "category": "sets",
+  "value": 410,
+  "valueType": "numeric",
+  "tieredValue": null,
+  "valueDisplay": "410",
+  "range": null,
+  "score": 0.8793503480278422,
+  "scoreClass": "val-top",
+  "stability": "Stable",
+  "demand": 3,
+  "rarity": 2,
+  "origin": null,
+  "difference": -20,
+  "percentageChange": -4.7,
+  "aliases": [
+    "Bows"
+  ],
+  "flippability": "Rarely Flippable",
+  "riseChance": 5,
+  "wikiLink": null,
+  "imageKey": "mm2ancients/Harvester",
+  "className": null,
+  "isExp": true
+}

@@ -1,0 +1,29 @@
+{
+  "id": "chromas:chroma-snow-dagger",
+  "slug": "chroma-snow-dagger",
+  "name": "Chroma Snow Dagger",
+  "category": "chromas",
+  "value": 3500,
+  "valueType": "numeric",
+  "tieredValue": null,
+  "valueDisplay": "3,500",
+  "range": null,
+  "score": 0.9535962877030162,
+  "scoreClass": "val-top",
+  "stability": "Stable",
+  "demand": 5,
+  "rarity": 5,
+  "origin": "Christmas 2025 (Unboxed)",
+  "difference": -250,
+  "percentageChange": -6.7,
+  "aliases": [
+    "CDagger",
+    "CDag"
+  ],
+  "flippability": "Rarely Flippable",
+  "riseChance": 5,
+  "wikiLink": "Chroma_Snow_Dagger",
+  "imageKey": "mm2chromas/CDagger",
+  "className": null,
+  "isExp": true
+}

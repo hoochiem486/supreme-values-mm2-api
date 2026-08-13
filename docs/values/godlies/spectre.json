@@ -1,0 +1,28 @@
+{
+  "id": "godlies:spectre",
+  "slug": "spectre",
+  "name": "Spectre",
+  "category": "godlies",
+  "value": 35,
+  "valueType": "numeric",
+  "tieredValue": null,
+  "valueDisplay": "35",
+  "range": null,
+  "score": 0.7146171693735499,
+  "scoreClass": "val-mid",
+  "stability": "Stable",
+  "demand": 1,
+  "rarity": 2,
+  "origin": "Halloween 2022 (Item Pack)",
+  "difference": -2,
+  "percentageChange": -5.4,
+  "aliases": [
+    "Spec"
+  ],
+  "flippability": "Rarely Flippable",
+  "riseChance": 5,
+  "wikiLink": "Spectre",
+  "imageKey": "mm2godlies/Spectre",
+  "className": null,
+  "isExp": true
+}

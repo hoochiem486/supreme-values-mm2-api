@@ -1,0 +1,30 @@
+{
+  "id": "uncommons:snowflake-knife-xmas2022",
+  "slug": "snowflake-knife-xmas2022",
+  "name": "Snowflake (Knife) [XMAS2022]",
+  "category": "uncommons",
+  "value": null,
+  "valueType": "tiered-items",
+  "tieredValue": {
+    "quantity": 1,
+    "tier": 1,
+    "rarity": "legendary"
+  },
+  "valueDisplay": "x1 T1 Legendary",
+  "range": null,
+  "score": null,
+  "scoreClass": "val-sub1",
+  "stability": "Stable",
+  "demand": 2,
+  "rarity": 3,
+  "origin": "Christmas 2022 (Tier 13)",
+  "difference": null,
+  "percentageChange": null,
+  "aliases": [],
+  "flippability": null,
+  "riseChance": null,
+  "wikiLink": null,
+  "imageKey": "mm2uncommons/Snowflake_Knife_2022",
+  "className": null,
+  "isExp": false
+}

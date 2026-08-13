@@ -1,0 +1,29 @@
+{
+  "id": "commons:combat-ii",
+  "slug": "combat-ii",
+  "name": "Combat II",
+  "category": "commons",
+  "value": 10,
+  "valueType": "numeric",
+  "tieredValue": null,
+  "valueDisplay": "10",
+  "range": null,
+  "score": 0.4802784222737819,
+  "scoreClass": "val-mid",
+  "stability": "Stable",
+  "demand": 2,
+  "rarity": 3,
+  "origin": "Item Code (C0MB4T2)",
+  "difference": 0,
+  "percentageChange": null,
+  "aliases": [
+    "Combat 2",
+    "Combat2"
+  ],
+  "flippability": "Rarely Flippable",
+  "riseChance": 10,
+  "wikiLink": "Combat_II",
+  "imageKey": "mm2commons/Combat_2",
+  "className": null,
+  "isExp": true
+}

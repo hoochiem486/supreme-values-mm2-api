@@ -1,0 +1,28 @@
+{
+  "id": "commons:sparkle3",
+  "slug": "sparkle3",
+  "name": "Sparkle3",
+  "category": "commons",
+  "value": 3,
+  "valueType": "numeric",
+  "tieredValue": null,
+  "valueDisplay": "3",
+  "range": null,
+  "score": 0.2877030162412993,
+  "scoreClass": "val-low",
+  "stability": "Stable",
+  "demand": 2,
+  "rarity": 2,
+  "origin": "Sparkle Time Item Pack (100 Coins)",
+  "difference": 0,
+  "percentageChange": null,
+  "aliases": [
+    "S3"
+  ],
+  "flippability": "Rarely Flippable",
+  "riseChance": 5,
+  "wikiLink": "Sparkle3",
+  "imageKey": "mm2commons/Sparkle3",
+  "className": null,
+  "isExp": true
+}

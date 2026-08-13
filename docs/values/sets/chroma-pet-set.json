@@ -1,0 +1,32 @@
+{
+  "id": "sets:chroma-pet-set",
+  "slug": "chroma-pet-set",
+  "name": "Chroma Pet Set",
+  "category": "sets",
+  "value": 21,
+  "valueType": "numeric",
+  "tieredValue": null,
+  "valueDisplay": "21",
+  "range": {
+    "min": 14,
+    "max": 21,
+    "display": "14 - 21"
+  },
+  "score": 0.6148491879350348,
+  "scoreClass": "val-mid",
+  "stability": "Underpaid For",
+  "demand": 1,
+  "rarity": 2,
+  "origin": null,
+  "difference": -7,
+  "percentageChange": -25,
+  "aliases": [
+    "CPet Set"
+  ],
+  "flippability": "Rarely Flippable",
+  "riseChance": 0,
+  "wikiLink": null,
+  "imageKey": "mm2chromas/CBunny",
+  "className": null,
+  "isExp": false
+}

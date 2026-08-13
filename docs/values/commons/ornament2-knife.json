@@ -1,0 +1,30 @@
+{
+  "id": "commons:ornament2-knife",
+  "slug": "ornament2-knife",
+  "name": "Ornament2 (Knife)",
+  "category": "commons",
+  "value": null,
+  "valueType": "tiered-items",
+  "tieredValue": {
+    "quantity": 4,
+    "tier": 1,
+    "rarity": "legendary"
+  },
+  "valueDisplay": "x4 T1 Legendaries",
+  "range": null,
+  "score": null,
+  "scoreClass": "val-sub1",
+  "stability": "Stable",
+  "demand": 1,
+  "rarity": 3,
+  "origin": "Christmas 2015 (Unboxed)",
+  "difference": null,
+  "percentageChange": null,
+  "aliases": [],
+  "flippability": null,
+  "riseChance": null,
+  "wikiLink": null,
+  "imageKey": "mm2commons/Ornament2_Knife",
+  "className": null,
+  "isExp": false
+}

@@ -1,0 +1,28 @@
+{
+  "id": "ancients:hallowscythe",
+  "slug": "hallowscythe",
+  "name": "Hallowscythe",
+  "category": "ancients",
+  "value": 30,
+  "valueType": "numeric",
+  "tieredValue": null,
+  "valueDisplay": "30",
+  "range": null,
+  "score": 0.6635730858468677,
+  "scoreClass": "val-mid",
+  "stability": "Stable",
+  "demand": 1,
+  "rarity": 2,
+  "origin": "Halloween 2020 (Tier 30)",
+  "difference": -2,
+  "percentageChange": -6.3,
+  "aliases": [
+    "HS"
+  ],
+  "flippability": "Rarely Flippable",
+  "riseChance": 5,
+  "wikiLink": "Hallowscythe",
+  "imageKey": "mm2ancients/Hallowscythe",
+  "className": null,
+  "isExp": true
+}

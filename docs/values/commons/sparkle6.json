@@ -1,0 +1,28 @@
+{
+  "id": "commons:sparkle6",
+  "slug": "sparkle6",
+  "name": "Sparkle6",
+  "category": "commons",
+  "value": 12,
+  "valueType": "numeric",
+  "tieredValue": null,
+  "valueDisplay": "12",
+  "range": null,
+  "score": 0.5104408352668214,
+  "scoreClass": "val-mid",
+  "stability": "Stable",
+  "demand": 2,
+  "rarity": 3,
+  "origin": "Sparkle Time Item Pack (200 Coins)",
+  "difference": 0,
+  "percentageChange": null,
+  "aliases": [
+    "S6"
+  ],
+  "flippability": "Rarely Flippable",
+  "riseChance": 5,
+  "wikiLink": "Sparkle6",
+  "imageKey": "mm2commons/Sparkle6",
+  "className": null,
+  "isExp": true
+}

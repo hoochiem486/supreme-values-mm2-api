@@ -1,0 +1,28 @@
+{
+  "id": "godlies:ginger-luger",
+  "slug": "ginger-luger",
+  "name": "Ginger Luger",
+  "category": "godlies",
+  "value": 17,
+  "valueType": "numeric",
+  "tieredValue": null,
+  "valueDisplay": "17",
+  "range": null,
+  "score": 0.5754060324825986,
+  "scoreClass": "val-mid",
+  "stability": "Stable",
+  "demand": 1,
+  "rarity": 2,
+  "origin": "Christmas 2018 (Crafting)",
+  "difference": -3,
+  "percentageChange": -15,
+  "aliases": [
+    "Ginger Lug"
+  ],
+  "flippability": "Rarely Flippable",
+  "riseChance": 5,
+  "wikiLink": "Ginger_Luger",
+  "imageKey": "mm2godlies/Ginger_Luger",
+  "className": null,
+  "isExp": true
+}

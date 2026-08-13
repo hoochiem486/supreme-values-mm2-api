@@ -1,0 +1,29 @@
+{
+  "id": "godlies:traveler-s-gun",
+  "slug": "traveler-s-gun",
+  "name": "Traveler's Gun",
+  "category": "godlies",
+  "value": 5600,
+  "valueType": "numeric",
+  "tieredValue": null,
+  "valueDisplay": "5,600",
+  "range": null,
+  "score": 0.9605568445475638,
+  "scoreClass": "val-top",
+  "stability": "Stable",
+  "demand": 5,
+  "rarity": 5,
+  "origin": "Halloween 2023 (Unboxed)",
+  "difference": 100,
+  "percentageChange": 1.8,
+  "aliases": [
+    "Trav Gun",
+    "TVG"
+  ],
+  "flippability": "Rarely Flippable",
+  "riseChance": 10,
+  "wikiLink": "Traveler%27s_Gun",
+  "imageKey": "mm2godlies/Travelers_Gun",
+  "className": null,
+  "isExp": true
+}

@@ -1,0 +1,30 @@
+{
+  "id": "commons:starfish-gun",
+  "slug": "starfish-gun",
+  "name": "Starfish (Gun)",
+  "category": "commons",
+  "value": null,
+  "valueType": "tiered-items",
+  "tieredValue": {
+    "quantity": 2,
+    "tier": 1,
+    "rarity": "common"
+  },
+  "valueDisplay": "x2 T1 Commons",
+  "range": null,
+  "score": null,
+  "scoreClass": "val-sub1",
+  "stability": "Stable",
+  "demand": 1,
+  "rarity": 1,
+  "origin": "Summer 2024 (Tier 1)",
+  "difference": null,
+  "percentageChange": null,
+  "aliases": [],
+  "flippability": null,
+  "riseChance": null,
+  "wikiLink": null,
+  "imageKey": "mm2commons/Starfish",
+  "className": null,
+  "isExp": false
+}

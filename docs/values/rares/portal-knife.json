@@ -1,0 +1,30 @@
+{
+  "id": "rares:portal-knife",
+  "slug": "portal-knife",
+  "name": "Portal (Knife)",
+  "category": "rares",
+  "value": null,
+  "valueType": "tiered-items",
+  "tieredValue": {
+    "quantity": 2,
+    "tier": 1,
+    "rarity": "rare"
+  },
+  "valueDisplay": "x2 T1 Rares",
+  "range": null,
+  "score": null,
+  "scoreClass": "val-sub1",
+  "stability": "Stable",
+  "demand": 2,
+  "rarity": 2,
+  "origin": "Halloween 2020 (Unboxed)",
+  "difference": null,
+  "percentageChange": null,
+  "aliases": [],
+  "flippability": null,
+  "riseChance": null,
+  "wikiLink": null,
+  "imageKey": "mm2rares/Portal_Knife",
+  "className": null,
+  "isExp": false
+}

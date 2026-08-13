@@ -1,0 +1,29 @@
+{
+  "id": "ancients:swirly-axe",
+  "slug": "swirly-axe",
+  "name": "Swirly Axe",
+  "category": "ancients",
+  "value": 38,
+  "valueType": "numeric",
+  "tieredValue": null,
+  "valueDisplay": "38",
+  "range": null,
+  "score": 0.7262180974477959,
+  "scoreClass": "val-mid",
+  "stability": "Stable",
+  "demand": 1,
+  "rarity": 2,
+  "origin": "Christmas 2021 (Tier 20)",
+  "difference": -2,
+  "percentageChange": -5,
+  "aliases": [
+    "SWA",
+    "SW Axe"
+  ],
+  "flippability": "Rarely Flippable",
+  "riseChance": 5,
+  "wikiLink": "Swirly_Axe",
+  "imageKey": "mm2ancients/Swirly_Axe",
+  "className": null,
+  "isExp": true
+}

@@ -145,3 +145,24 @@ docker compose up --build
 ```
 
 The named `supreme-values-data` volume persists both the Chromium profile and `cache.json`. Set the host environment variables shown above in your deployment platform, mount `/app/data`, expose port 3000, and terminate HTTPS at the platform's proxy before pointing Roblox at it.
+
+## Free GitHub Pages endpoint
+
+The repository also includes `.github/workflows/refresh-pages.yml`. It runs the browser collector approximately every ten minutes, exports static JSON, and deploys `docs/` to GitHub Pages. A failed refresh leaves the last published files unchanged.
+
+Static endpoints use file names because GitHub Pages does not run the Node HTTP server:
+
+- `https://<account>.github.io/<repository>/values.json` — complete dataset
+- `https://<account>.github.io/<repository>/health.json` — publication status
+- `https://<account>.github.io/<repository>/lookup.json` — name, slug, and id lookup index
+- `https://<account>.github.io/<repository>/values/<category>/<slug>.json` — one item
+
+For this repository the expected base URL is:
+
+```text
+https://hoochiem486.github.io/supreme-values-mm2-api
+```
+
+On GitHub Free, make the repository public. Then open **Settings → Pages** and set **Source** to **GitHub Actions**. Open **Actions → Refresh and publish MM2 values → Run workflow** for the first deployment.
+
+For a client environment with an HTTP request function, use `roblox/Client/MM2ValuesPages.lua`. It downloads `values.json` once and performs subsequent item lookups from its local table.

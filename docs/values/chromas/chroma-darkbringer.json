@@ -1,0 +1,29 @@
+{
+  "id": "chromas:chroma-darkbringer",
+  "slug": "chroma-darkbringer",
+  "name": "Chroma Darkbringer",
+  "category": "chromas",
+  "value": 65,
+  "valueType": "numeric",
+  "tieredValue": null,
+  "valueDisplay": "65",
+  "range": null,
+  "score": 0.777262180974478,
+  "scoreClass": "val-mid",
+  "stability": "Stable",
+  "demand": 1,
+  "rarity": 2,
+  "origin": "Mystery Crate #2",
+  "difference": -5,
+  "percentageChange": -7.1,
+  "aliases": [
+    "CDB",
+    "CDark"
+  ],
+  "flippability": "Rarely Flippable",
+  "riseChance": 5,
+  "wikiLink": "Chroma_Darkbringer",
+  "imageKey": "mm2chromas/CDB",
+  "className": null,
+  "isExp": true
+}

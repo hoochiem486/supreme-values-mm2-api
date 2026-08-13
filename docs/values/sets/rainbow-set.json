@@ -1,0 +1,28 @@
+{
+  "id": "sets:rainbow-set",
+  "slug": "rainbow-set",
+  "name": "Rainbow Set",
+  "category": "sets",
+  "value": 830,
+  "valueType": "numeric",
+  "tieredValue": null,
+  "valueDisplay": "830",
+  "range": null,
+  "score": 0.9002320185614849,
+  "scoreClass": "val-top",
+  "stability": "Stable",
+  "demand": 5,
+  "rarity": 3,
+  "origin": null,
+  "difference": 10,
+  "percentageChange": 1.2,
+  "aliases": [
+    "RB Set"
+  ],
+  "flippability": "Rarely Flippable",
+  "riseChance": 10,
+  "wikiLink": null,
+  "imageKey": "mm2godlies/Rainbow_Gun",
+  "className": null,
+  "isExp": true
+}

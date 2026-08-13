@@ -1,0 +1,28 @@
+{
+  "id": "commons:elf-knife",
+  "slug": "elf-knife",
+  "name": "Elf (Knife)",
+  "category": "commons",
+  "value": 15,
+  "valueType": "numeric",
+  "tieredValue": null,
+  "valueDisplay": "15",
+  "range": null,
+  "score": 0.5614849187935035,
+  "scoreClass": "val-mid",
+  "stability": "Stable",
+  "demand": 2,
+  "rarity": 4,
+  "origin": "Christmas 2015 (Unboxed)",
+  "difference": -2,
+  "percentageChange": -11.8,
+  "aliases": [
+    "Elfk"
+  ],
+  "flippability": "Rarely Flippable",
+  "riseChance": 10,
+  "wikiLink": "Elf_Knife_(2015)",
+  "imageKey": "mm2commons/Elf_Knife",
+  "className": null,
+  "isExp": true
+}

@@ -1,0 +1,28 @@
+{
+  "id": "commons:sparkle5",
+  "slug": "sparkle5",
+  "name": "Sparkle5",
+  "category": "commons",
+  "value": 8,
+  "valueType": "numeric",
+  "tieredValue": null,
+  "valueDisplay": "8",
+  "range": null,
+  "score": 0.4431554524361949,
+  "scoreClass": "val-mid",
+  "stability": "Stable",
+  "demand": 2,
+  "rarity": 3,
+  "origin": "Sparkle Time Item Pack (200 Coins)",
+  "difference": 0,
+  "percentageChange": null,
+  "aliases": [
+    "S5"
+  ],
+  "flippability": "Rarely Flippable",
+  "riseChance": 5,
+  "wikiLink": "Sparkle5",
+  "imageKey": "mm2commons/Sparkle5",
+  "className": null,
+  "isExp": true
+}

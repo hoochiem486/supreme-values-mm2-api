@@ -1,0 +1,28 @@
+{
+  "id": "godlies:deathshard",
+  "slug": "deathshard",
+  "name": "Deathshard",
+  "category": "godlies",
+  "value": 13,
+  "valueType": "numeric",
+  "tieredValue": null,
+  "valueDisplay": "13",
+  "range": null,
+  "score": 0.5359628770301624,
+  "scoreClass": "val-mid",
+  "stability": "Stable",
+  "demand": 1,
+  "rarity": 2,
+  "origin": "Knife Box #1",
+  "difference": -2,
+  "percentageChange": -13.3,
+  "aliases": [
+    "DS"
+  ],
+  "flippability": "Rarely Flippable",
+  "riseChance": 5,
+  "wikiLink": "Deathshard",
+  "imageKey": "mm2godlies/Deathshard",
+  "className": null,
+  "isExp": true
+}

@@ -1,0 +1,30 @@
+{
+  "id": "commons:bats-gun-hallows2024",
+  "slug": "bats-gun-hallows2024",
+  "name": "Bats (Gun) [HALLOWS2024]",
+  "category": "commons",
+  "value": null,
+  "valueType": "tiered-items",
+  "tieredValue": {
+    "quantity": 3,
+    "tier": 1,
+    "rarity": "common"
+  },
+  "valueDisplay": "x3 T1 Commons",
+  "range": null,
+  "score": null,
+  "scoreClass": "val-sub1",
+  "stability": "Stable",
+  "demand": 1,
+  "rarity": 1,
+  "origin": "Halloween 2024 (Tier 4)",
+  "difference": null,
+  "percentageChange": null,
+  "aliases": [],
+  "flippability": null,
+  "riseChance": null,
+  "wikiLink": null,
+  "imageKey": "mm2commons/Bats_Gun_2024",
+  "className": null,
+  "isExp": false
+}

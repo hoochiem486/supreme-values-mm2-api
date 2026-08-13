@@ -1,0 +1,30 @@
+{
+  "id": "commons:fallout",
+  "slug": "fallout",
+  "name": "Fallout",
+  "category": "commons",
+  "value": null,
+  "valueType": "tiered-items",
+  "tieredValue": {
+    "quantity": 1,
+    "tier": 1,
+    "rarity": "common"
+  },
+  "valueDisplay": "x1 T1 Common",
+  "range": null,
+  "score": null,
+  "scoreClass": "val-sub1",
+  "stability": "Stable",
+  "demand": 1,
+  "rarity": 1,
+  "origin": "Gun Box #1",
+  "difference": null,
+  "percentageChange": null,
+  "aliases": [],
+  "flippability": null,
+  "riseChance": null,
+  "wikiLink": null,
+  "imageKey": "mm2commons/Fallout",
+  "className": null,
+  "isExp": false
+}

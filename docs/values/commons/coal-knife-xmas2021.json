@@ -1,0 +1,30 @@
+{
+  "id": "commons:coal-knife-xmas2021",
+  "slug": "coal-knife-xmas2021",
+  "name": "Coal (Knife) [XMAS2021]",
+  "category": "commons",
+  "value": null,
+  "valueType": "tiered-items",
+  "tieredValue": {
+    "quantity": 3,
+    "tier": 1,
+    "rarity": "uncommon"
+  },
+  "valueDisplay": "x3 T1 Uncommons",
+  "range": null,
+  "score": null,
+  "scoreClass": "val-sub1",
+  "stability": "Stable",
+  "demand": 2,
+  "rarity": 3,
+  "origin": "Christmas 2021 (Tier 3)",
+  "difference": null,
+  "percentageChange": null,
+  "aliases": [],
+  "flippability": null,
+  "riseChance": null,
+  "wikiLink": null,
+  "imageKey": "mm2commons/Coal_Knife_2021",
+  "className": null,
+  "isExp": false
+}

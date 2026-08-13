@@ -1,0 +1,28 @@
+{
+  "id": "godlies:green-luger",
+  "slug": "green-luger",
+  "name": "Green Luger",
+  "category": "godlies",
+  "value": 23,
+  "valueType": "numeric",
+  "tieredValue": null,
+  "valueDisplay": "23",
+  "range": null,
+  "score": 0.62877030162413,
+  "scoreClass": "val-mid",
+  "stability": "Stable",
+  "demand": 1,
+  "rarity": 2,
+  "origin": "Christmas 2015 (Crafting)",
+  "difference": -2,
+  "percentageChange": -8,
+  "aliases": [
+    "GL"
+  ],
+  "flippability": "Rarely Flippable",
+  "riseChance": 5,
+  "wikiLink": "Green_Luger",
+  "imageKey": "mm2godlies/Green_Luger",
+  "className": null,
+  "isExp": true
+}

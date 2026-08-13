@@ -1,0 +1,29 @@
+{
+  "id": "godlies:heart-wand",
+  "slug": "heart-wand",
+  "name": "Heart Wand",
+  "category": "godlies",
+  "value": 340,
+  "valueType": "numeric",
+  "tieredValue": null,
+  "valueDisplay": "340",
+  "range": null,
+  "score": 0.8723897911832946,
+  "scoreClass": "val-top",
+  "stability": "Stable",
+  "demand": 4,
+  "rarity": 3,
+  "origin": "Valentine's 2026 (Unboxed)",
+  "difference": 10,
+  "percentageChange": 3,
+  "aliases": [
+    "HW",
+    "Wand"
+  ],
+  "flippability": "Rarely Flippable",
+  "riseChance": 10,
+  "wikiLink": "Heart_Wand",
+  "imageKey": "mm2godlies/Heart_Wand",
+  "className": null,
+  "isExp": true
+}

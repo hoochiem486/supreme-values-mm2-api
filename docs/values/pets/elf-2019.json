@@ -1,0 +1,30 @@
+{
+  "id": "pets:elf-2019",
+  "slug": "elf-2019",
+  "name": "Elf (2019)",
+  "category": "pets",
+  "value": 625,
+  "valueType": "numeric",
+  "tieredValue": null,
+  "valueDisplay": "625",
+  "range": {
+    "min": 625,
+    "max": 650,
+    "display": "625 - 650"
+  },
+  "score": 0.8955916473317865,
+  "scoreClass": "val-top",
+  "stability": "Doing Well",
+  "demand": 4,
+  "rarity": 5,
+  "origin": "Christmas 2019 (Tier 12)",
+  "difference": 50,
+  "percentageChange": 8.7,
+  "aliases": [],
+  "flippability": "Flippable",
+  "riseChance": 40,
+  "wikiLink": "Elf_Pet_(2019)",
+  "imageKey": "mm2pets/Elf_2019",
+  "className": "Uncommon",
+  "isExp": true
+}

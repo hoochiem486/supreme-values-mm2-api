@@ -1,0 +1,30 @@
+{
+  "id": "rares:ghastly-knife",
+  "slug": "ghastly-knife",
+  "name": "Ghastly (Knife)",
+  "category": "rares",
+  "value": null,
+  "valueType": "tiered-items",
+  "tieredValue": {
+    "quantity": 2,
+    "tier": 1,
+    "rarity": "legendary"
+  },
+  "valueDisplay": "x2 T1 Legendaries",
+  "range": null,
+  "score": null,
+  "scoreClass": "val-sub1",
+  "stability": "Stable",
+  "demand": 2,
+  "rarity": 3,
+  "origin": "Halloween 2023 (Unboxed)",
+  "difference": null,
+  "percentageChange": null,
+  "aliases": [],
+  "flippability": null,
+  "riseChance": null,
+  "wikiLink": null,
+  "imageKey": "mm2rares/Ghastly_Knife",
+  "className": null,
+  "isExp": false
+}

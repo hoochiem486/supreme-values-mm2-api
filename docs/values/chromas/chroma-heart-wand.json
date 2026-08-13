@@ -1,0 +1,31 @@
+{
+  "id": "chromas:chroma-heart-wand",
+  "slug": "chroma-heart-wand",
+  "name": "Chroma Heart Wand",
+  "category": "chromas",
+  "value": 4250,
+  "valueType": "numeric",
+  "tieredValue": null,
+  "valueDisplay": "4,250",
+  "range": null,
+  "score": 0.9582366589327146,
+  "scoreClass": "val-top",
+  "stability": "Stable",
+  "demand": 5,
+  "rarity": 4,
+  "origin": "Valentine's 2026 (Unboxed)",
+  "difference": -250,
+  "percentageChange": -5.6,
+  "aliases": [
+    "Chroma Wand",
+    "CHeart",
+    "CWand",
+    "CHW"
+  ],
+  "flippability": "Rarely Flippable",
+  "riseChance": 10,
+  "wikiLink": "Chroma_Heart_Wand",
+  "imageKey": "mm2chromas/CHW",
+  "className": null,
+  "isExp": true
+}

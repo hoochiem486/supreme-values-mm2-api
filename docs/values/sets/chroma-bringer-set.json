@@ -1,0 +1,29 @@
+{
+  "id": "sets:chroma-bringer-set",
+  "slug": "chroma-bringer-set",
+  "name": "Chroma Bringer Set",
+  "category": "sets",
+  "value": 125,
+  "valueType": "numeric",
+  "tieredValue": null,
+  "valueDisplay": "125",
+  "range": null,
+  "score": 0.8074245939675174,
+  "scoreClass": "val-mid",
+  "stability": "Stable",
+  "demand": 1,
+  "rarity": 2,
+  "origin": null,
+  "difference": -10,
+  "percentageChange": -7.4,
+  "aliases": [
+    "CBS",
+    "CBringer Set"
+  ],
+  "flippability": "Rarely Flippable",
+  "riseChance": 5,
+  "wikiLink": null,
+  "imageKey": "mm2chromas/CLB",
+  "className": null,
+  "isExp": true
+}

@@ -12,6 +12,8 @@
     "dev": "node --watch src/index.js",
     "browser:login": "node scripts/browser-login.js",
     "inspect:har": "node scripts/inspect-har.js",
+    "export:static": "node scripts/export-static.js",
+    "refresh:static": "node scripts/refresh-static.js",
     "test": "node --test"
   },
   "dependencies": {

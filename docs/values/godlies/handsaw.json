@@ -1,0 +1,28 @@
+{
+  "id": "godlies:handsaw",
+  "slug": "handsaw",
+  "name": "Handsaw",
+  "category": "godlies",
+  "value": 8,
+  "valueType": "numeric",
+  "tieredValue": null,
+  "valueDisplay": "8",
+  "range": null,
+  "score": 0.4431554524361949,
+  "scoreClass": "val-mid",
+  "stability": "Stable",
+  "demand": 1,
+  "rarity": 2,
+  "origin": "Christmas 2015 (Crafting)",
+  "difference": 0,
+  "percentageChange": null,
+  "aliases": [
+    "HS"
+  ],
+  "flippability": "Rarely Flippable",
+  "riseChance": 5,
+  "wikiLink": "Handsaw",
+  "imageKey": "mm2godlies/Handsaw",
+  "className": null,
+  "isExp": true
+}

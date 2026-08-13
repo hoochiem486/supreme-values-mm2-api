@@ -1,0 +1,30 @@
+{
+  "id": "uncommons:rose",
+  "slug": "rose",
+  "name": "Rose",
+  "category": "uncommons",
+  "value": null,
+  "valueType": "tiered-items",
+  "tieredValue": {
+    "quantity": 2,
+    "tier": 1,
+    "rarity": "rare"
+  },
+  "valueDisplay": "x2 T1 Rares",
+  "range": null,
+  "score": null,
+  "scoreClass": "val-sub1",
+  "stability": "Stable",
+  "demand": 2,
+  "rarity": 2,
+  "origin": "Valentine's 2023 (Tier 2)",
+  "difference": null,
+  "percentageChange": null,
+  "aliases": [],
+  "flippability": null,
+  "riseChance": null,
+  "wikiLink": null,
+  "imageKey": "mm2uncommons/Rose",
+  "className": null,
+  "isExp": false
+}

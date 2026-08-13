@@ -1,0 +1,28 @@
+{
+  "id": "godlies:red-luger",
+  "slug": "red-luger",
+  "name": "Red Luger",
+  "category": "godlies",
+  "value": 37,
+  "valueType": "numeric",
+  "tieredValue": null,
+  "valueDisplay": "37",
+  "range": null,
+  "score": 0.7192575406032483,
+  "scoreClass": "val-mid",
+  "stability": "Stable",
+  "demand": 1,
+  "rarity": 2,
+  "origin": "Christmas 2015 (Crafting)",
+  "difference": -1,
+  "percentageChange": -2.6,
+  "aliases": [
+    "RL"
+  ],
+  "flippability": "Rarely Flippable",
+  "riseChance": 5,
+  "wikiLink": "Red_Luger",
+  "imageKey": "mm2godlies/Red_Luger",
+  "className": null,
+  "isExp": true
+}

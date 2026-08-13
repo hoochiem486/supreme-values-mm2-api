@@ -1,0 +1,30 @@
+{
+  "id": "uncommons:pool",
+  "slug": "pool",
+  "name": "Pool",
+  "category": "uncommons",
+  "value": null,
+  "valueType": "tiered-items",
+  "tieredValue": {
+    "quantity": 3,
+    "tier": 1,
+    "rarity": "uncommon"
+  },
+  "valueDisplay": "x3 T1 Uncommons",
+  "range": null,
+  "score": null,
+  "scoreClass": "val-sub1",
+  "stability": "Stable",
+  "demand": 1,
+  "rarity": 2,
+  "origin": "Summer 2025 (Tier 8)",
+  "difference": null,
+  "percentageChange": null,
+  "aliases": [],
+  "flippability": null,
+  "riseChance": null,
+  "wikiLink": null,
+  "imageKey": "mm2uncommons/Pool",
+  "className": null,
+  "isExp": false
+}

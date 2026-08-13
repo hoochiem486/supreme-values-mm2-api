@@ -1,0 +1,29 @@
+{
+  "id": "godlies:gingermint",
+  "slug": "gingermint",
+  "name": "Gingermint",
+  "category": "godlies",
+  "value": 12,
+  "valueType": "numeric",
+  "tieredValue": null,
+  "valueDisplay": "12",
+  "range": null,
+  "score": 0.5104408352668214,
+  "scoreClass": "val-mid",
+  "stability": "Stable",
+  "demand": 1,
+  "rarity": 2,
+  "origin": "Christmas 2022 (Gifting 100 Gifts)",
+  "difference": -1,
+  "percentageChange": -7.7,
+  "aliases": [
+    "GM",
+    "GMint"
+  ],
+  "flippability": "Rarely Flippable",
+  "riseChance": 5,
+  "wikiLink": "Gingermint",
+  "imageKey": "mm2godlies/Gingermint",
+  "className": null,
+  "isExp": true
+}

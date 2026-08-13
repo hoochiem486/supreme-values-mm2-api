@@ -1,0 +1,30 @@
+{
+  "id": "commons:reindeer-xmas2025",
+  "slug": "reindeer-xmas2025",
+  "name": "Reindeer [XMAS2025]",
+  "category": "commons",
+  "value": null,
+  "valueType": "tiered-items",
+  "tieredValue": {
+    "quantity": 1,
+    "tier": 1,
+    "rarity": "uncommon"
+  },
+  "valueDisplay": "x1 T1 Uncommon",
+  "range": null,
+  "score": null,
+  "scoreClass": "val-sub1",
+  "stability": "Stable",
+  "demand": 1,
+  "rarity": 1,
+  "origin": "Christmas 2025 (Santa's Quest)",
+  "difference": null,
+  "percentageChange": null,
+  "aliases": [],
+  "flippability": "Rarely Flippable",
+  "riseChance": null,
+  "wikiLink": "Reindeer_(2025)",
+  "imageKey": "mm2commons/Reindeer_2025",
+  "className": null,
+  "isExp": false
+}

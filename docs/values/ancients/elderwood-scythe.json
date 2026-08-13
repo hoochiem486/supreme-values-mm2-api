@@ -1,0 +1,28 @@
+{
+  "id": "ancients:elderwood-scythe",
+  "slug": "elderwood-scythe",
+  "name": "Elderwood Scythe",
+  "category": "ancients",
+  "value": 38,
+  "valueType": "numeric",
+  "tieredValue": null,
+  "valueDisplay": "38",
+  "range": null,
+  "score": 0.7262180974477959,
+  "scoreClass": "val-mid",
+  "stability": "Stable",
+  "demand": 1,
+  "rarity": 2,
+  "origin": "Halloween 2019 (Tier 40)",
+  "difference": -2,
+  "percentageChange": -5,
+  "aliases": [
+    "EW Scythe"
+  ],
+  "flippability": "Rarely Flippable",
+  "riseChance": 5,
+  "wikiLink": "Elderwood_Scythe",
+  "imageKey": "mm2ancients/Elderwood_Scythe",
+  "className": null,
+  "isExp": true
+}

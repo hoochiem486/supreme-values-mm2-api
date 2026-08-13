@@ -1,0 +1,29 @@
+{
+  "id": "chromas:chroma-ornament",
+  "slug": "chroma-ornament",
+  "name": "Chroma Ornament",
+  "category": "chromas",
+  "value": 1800,
+  "valueType": "numeric",
+  "tieredValue": null,
+  "valueDisplay": "1,800",
+  "range": null,
+  "score": 0.9234338747099768,
+  "scoreClass": "val-top",
+  "stability": "Stable",
+  "demand": 5,
+  "rarity": 4,
+  "origin": "Christmas 2025 (Gifting)",
+  "difference": -100,
+  "percentageChange": -5.3,
+  "aliases": [
+    "COR",
+    "COrn"
+  ],
+  "flippability": "Rarely Flippable",
+  "riseChance": 5,
+  "wikiLink": "Chroma_Ornament",
+  "imageKey": "mm2chromas/COR",
+  "className": null,
+  "isExp": true
+}

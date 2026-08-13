@@ -1,0 +1,30 @@
+{
+  "id": "legendaries:bubbles",
+  "slug": "bubbles",
+  "name": "Bubbles",
+  "category": "legendaries",
+  "value": null,
+  "valueType": "tiered-items",
+  "tieredValue": {
+    "quantity": 3,
+    "tier": 1,
+    "rarity": "legendary"
+  },
+  "valueDisplay": "x3 T1 Legendaries",
+  "range": null,
+  "score": null,
+  "scoreClass": "val-sub1",
+  "stability": "Stable",
+  "demand": 2,
+  "rarity": 2,
+  "origin": "Summer 2026 (Unboxed)",
+  "difference": null,
+  "percentageChange": null,
+  "aliases": [],
+  "flippability": "Rarely Flippable",
+  "riseChance": null,
+  "wikiLink": "Bubbles",
+  "imageKey": "mm2legendaries/Bubbles",
+  "className": null,
+  "isExp": false
+}

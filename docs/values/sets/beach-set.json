@@ -1,0 +1,30 @@
+{
+  "id": "sets:beach-set",
+  "slug": "beach-set",
+  "name": "Beach Set",
+  "category": "sets",
+  "value": 300,
+  "valueType": "numeric",
+  "tieredValue": null,
+  "valueDisplay": "300",
+  "range": {
+    "min": 280,
+    "max": 310,
+    "display": "280 - 310"
+  },
+  "score": 0.8700696055684455,
+  "scoreClass": "val-top",
+  "stability": "Fluctuating",
+  "demand": 3,
+  "rarity": 3,
+  "origin": null,
+  "difference": -20,
+  "percentageChange": -6.3,
+  "aliases": [],
+  "flippability": "Flippable",
+  "riseChance": 5,
+  "wikiLink": null,
+  "imageKey": "mm2godlies/Beachy",
+  "className": null,
+  "isExp": true
+}

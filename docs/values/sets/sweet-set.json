@@ -1,0 +1,28 @@
+{
+  "id": "sets:sweet-set",
+  "slug": "sweet-set",
+  "name": "Sweet Set",
+  "category": "sets",
+  "value": 305,
+  "valueType": "numeric",
+  "tieredValue": null,
+  "valueDisplay": "305",
+  "range": null,
+  "score": 0.8700696055684455,
+  "scoreClass": "val-top",
+  "stability": "Stable",
+  "demand": 3,
+  "rarity": 3,
+  "origin": null,
+  "difference": -10,
+  "percentageChange": -3.2,
+  "aliases": [
+    "Sweet Treat Set"
+  ],
+  "flippability": "Rarely Flippable",
+  "riseChance": 10,
+  "wikiLink": null,
+  "imageKey": "mm2godlies/Sweet",
+  "className": null,
+  "isExp": true
+}

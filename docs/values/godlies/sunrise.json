@@ -1,0 +1,28 @@
+{
+  "id": "godlies:sunrise",
+  "slug": "sunrise",
+  "name": "Sunrise",
+  "category": "godlies",
+  "value": 1125,
+  "valueType": "numeric",
+  "tieredValue": null,
+  "valueDisplay": "1,125",
+  "range": null,
+  "score": 0.9048723897911833,
+  "scoreClass": "val-top",
+  "stability": "Stable",
+  "demand": 5,
+  "rarity": 4,
+  "origin": "Summer 2025 (Unboxed)",
+  "difference": 25,
+  "percentageChange": 2.3,
+  "aliases": [
+    "SR"
+  ],
+  "flippability": "Rarely Flippable",
+  "riseChance": 10,
+  "wikiLink": "Sunrise",
+  "imageKey": "mm2godlies/Sunrise",
+  "className": null,
+  "isExp": true
+}

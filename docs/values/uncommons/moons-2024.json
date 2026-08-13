@@ -1,0 +1,30 @@
+{
+  "id": "uncommons:moons-2024",
+  "slug": "moons-2024",
+  "name": "Moons (2024)",
+  "category": "uncommons",
+  "value": null,
+  "valueType": "tiered-items",
+  "tieredValue": {
+    "quantity": 3,
+    "tier": 1,
+    "rarity": "uncommon"
+  },
+  "valueDisplay": "x3 T1 Uncommons",
+  "range": null,
+  "score": null,
+  "scoreClass": "val-sub1",
+  "stability": "Stable",
+  "demand": 2,
+  "rarity": 2,
+  "origin": "Halloween 2024 (Tier 11)",
+  "difference": null,
+  "percentageChange": null,
+  "aliases": [],
+  "flippability": null,
+  "riseChance": null,
+  "wikiLink": null,
+  "imageKey": "mm2uncommons/Moons_2024",
+  "className": null,
+  "isExp": false
+}

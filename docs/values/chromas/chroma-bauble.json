@@ -1,0 +1,29 @@
+{
+  "id": "chromas:chroma-bauble",
+  "slug": "chroma-bauble",
+  "name": "Chroma Bauble",
+  "category": "chromas",
+  "value": 34000,
+  "valueType": "numeric",
+  "tieredValue": null,
+  "valueDisplay": "34,000",
+  "range": null,
+  "score": 0.9860788863109049,
+  "scoreClass": "val-top",
+  "stability": "Stable",
+  "demand": 7,
+  "rarity": 6,
+  "origin": "Christmas 2024 (Gifting)",
+  "difference": -1000,
+  "percentageChange": -2.9,
+  "aliases": [
+    "CBauble",
+    "CBaub"
+  ],
+  "flippability": "Rarely Flippable",
+  "riseChance": 10,
+  "wikiLink": "Chroma_Bauble",
+  "imageKey": "mm2chromas/CBaub",
+  "className": null,
+  "isExp": true
+}

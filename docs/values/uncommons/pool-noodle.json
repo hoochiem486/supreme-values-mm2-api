@@ -1,0 +1,30 @@
+{
+  "id": "uncommons:pool-noodle",
+  "slug": "pool-noodle",
+  "name": "Pool Noodle",
+  "category": "uncommons",
+  "value": null,
+  "valueType": "tiered-items",
+  "tieredValue": {
+    "quantity": 1,
+    "tier": 1,
+    "rarity": "legendary"
+  },
+  "valueDisplay": "x1 T1 Legendary",
+  "range": null,
+  "score": null,
+  "scoreClass": "val-sub1",
+  "stability": "Stable",
+  "demand": 2,
+  "rarity": 3,
+  "origin": "Summer 2023 (Tier 8)",
+  "difference": null,
+  "percentageChange": null,
+  "aliases": [],
+  "flippability": null,
+  "riseChance": null,
+  "wikiLink": null,
+  "imageKey": "mm2uncommons/Pool_Noodle",
+  "className": null,
+  "isExp": false
+}

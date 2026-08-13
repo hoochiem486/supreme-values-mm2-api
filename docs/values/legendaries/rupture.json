@@ -1,0 +1,30 @@
+{
+  "id": "legendaries:rupture",
+  "slug": "rupture",
+  "name": "Rupture",
+  "category": "legendaries",
+  "value": null,
+  "valueType": "tiered-items",
+  "tieredValue": {
+    "quantity": 4,
+    "tier": 1,
+    "rarity": "legendary"
+  },
+  "valueDisplay": "x4 T1 Legendaries",
+  "range": null,
+  "score": null,
+  "scoreClass": "val-sub1",
+  "stability": "Stable",
+  "demand": 1,
+  "rarity": 3,
+  "origin": "Halloween 2015 (Bingo Challenge)",
+  "difference": null,
+  "percentageChange": null,
+  "aliases": [],
+  "flippability": null,
+  "riseChance": null,
+  "wikiLink": null,
+  "imageKey": "mm2legendaries/Rupture",
+  "className": null,
+  "isExp": false
+}

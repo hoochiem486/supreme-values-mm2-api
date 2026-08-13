@@ -1,0 +1,30 @@
+{
+  "id": "misc:ultra-wrap",
+  "slug": "ultra-wrap",
+  "name": "Ultra Wrap",
+  "category": "misc",
+  "value": 2,
+  "valueType": "numeric",
+  "tieredValue": null,
+  "valueDisplay": "2",
+  "range": null,
+  "score": 0.1554524361948956,
+  "scoreClass": "val-low",
+  "stability": "Stable",
+  "demand": 1,
+  "rarity": 3,
+  "origin": "Christmas 2017 (250 Gems)",
+  "difference": -1,
+  "percentageChange": -33.3,
+  "aliases": [
+    "Box of Ultra Wrap",
+    "Box of Ultra Papers",
+    "Ultra Wrap"
+  ],
+  "flippability": null,
+  "riseChance": null,
+  "wikiLink": null,
+  "imageKey": "mm2misc/Ultra_Papers",
+  "className": null,
+  "isExp": false
+}

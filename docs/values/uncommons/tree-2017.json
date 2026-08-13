@@ -1,0 +1,30 @@
+{
+  "id": "uncommons:tree-2017",
+  "slug": "tree-2017",
+  "name": "Tree (2017)",
+  "category": "uncommons",
+  "value": null,
+  "valueType": "tiered-items",
+  "tieredValue": {
+    "quantity": 3,
+    "tier": 1,
+    "rarity": "uncommon"
+  },
+  "valueDisplay": "x3 T1 Uncommons",
+  "range": null,
+  "score": null,
+  "scoreClass": "val-sub1",
+  "stability": "Stable",
+  "demand": 1,
+  "rarity": 3,
+  "origin": "Christmas 2017 (Unboxed)",
+  "difference": null,
+  "percentageChange": null,
+  "aliases": [],
+  "flippability": null,
+  "riseChance": null,
+  "wikiLink": null,
+  "imageKey": "mm2uncommons/Tree",
+  "className": null,
+  "isExp": false
+}

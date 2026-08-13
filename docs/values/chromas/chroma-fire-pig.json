@@ -1,0 +1,32 @@
+{
+  "id": "chromas:chroma-fire-pig",
+  "slug": "chroma-fire-pig",
+  "name": "Chroma Fire Pig",
+  "category": "chromas",
+  "value": 3,
+  "valueType": "numeric",
+  "tieredValue": null,
+  "valueDisplay": "3",
+  "range": {
+    "min": 2,
+    "max": 3,
+    "display": "2 - 3"
+  },
+  "score": 0.2877030162412993,
+  "scoreClass": "val-low",
+  "stability": "Underpaid For",
+  "demand": 1,
+  "rarity": 2,
+  "origin": "Season 1 Pet Egg",
+  "difference": -1,
+  "percentageChange": -25,
+  "aliases": [
+    "CPig"
+  ],
+  "flippability": "Rarely Flippable",
+  "riseChance": 0,
+  "wikiLink": "Chroma_Fire_Pig",
+  "imageKey": "mm2chromas/CPig",
+  "className": null,
+  "isExp": true
+}

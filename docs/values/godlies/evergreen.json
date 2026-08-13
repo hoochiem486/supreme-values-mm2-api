@@ -1,0 +1,28 @@
+{
+  "id": "godlies:evergreen",
+  "slug": "evergreen",
+  "name": "Evergreen",
+  "category": "godlies",
+  "value": 2500,
+  "valueType": "numeric",
+  "tieredValue": null,
+  "valueDisplay": "2,500",
+  "range": null,
+  "score": 0.9443155452436195,
+  "scoreClass": "val-top",
+  "stability": "Stable",
+  "demand": 5,
+  "rarity": 4,
+  "origin": "Christmas 2023 (Unboxed)",
+  "difference": -25,
+  "percentageChange": -1,
+  "aliases": [
+    "EGreen"
+  ],
+  "flippability": "Rarely Flippable",
+  "riseChance": 10,
+  "wikiLink": "Evergreen",
+  "imageKey": "mm2godlies/Evergreen",
+  "className": null,
+  "isExp": true
+}

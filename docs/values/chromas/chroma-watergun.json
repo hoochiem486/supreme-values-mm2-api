@@ -1,0 +1,29 @@
+{
+  "id": "chromas:chroma-watergun",
+  "slug": "chroma-watergun",
+  "name": "Chroma Watergun",
+  "category": "chromas",
+  "value": 3400,
+  "valueType": "numeric",
+  "tieredValue": null,
+  "valueDisplay": "3,400",
+  "range": null,
+  "score": 0.9489559164733179,
+  "scoreClass": "val-top",
+  "stability": "Stable",
+  "demand": 5,
+  "rarity": 5,
+  "origin": "Summer 2024 (Unboxed)",
+  "difference": -50,
+  "percentageChange": -1.4,
+  "aliases": [
+    "CWTG",
+    "CWG"
+  ],
+  "flippability": "Rarely Flippable",
+  "riseChance": 10,
+  "wikiLink": "Chroma_Watergun",
+  "imageKey": "mm2chromas/CWG",
+  "className": null,
+  "isExp": true
+}

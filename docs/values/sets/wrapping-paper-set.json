@@ -1,0 +1,29 @@
+{
+  "id": "sets:wrapping-paper-set",
+  "slug": "wrapping-paper-set",
+  "name": "Wrapping Paper Set",
+  "category": "sets",
+  "value": 14,
+  "valueType": "numeric",
+  "tieredValue": null,
+  "valueDisplay": "14",
+  "range": null,
+  "score": 0.5359628770301624,
+  "scoreClass": "val-mid",
+  "stability": "Stable",
+  "demand": 1,
+  "rarity": 3,
+  "origin": null,
+  "difference": -2,
+  "percentageChange": -12.5,
+  "aliases": [
+    "Wraps",
+    "Papers"
+  ],
+  "flippability": null,
+  "riseChance": 0,
+  "wikiLink": null,
+  "imageKey": "mm2misc/Gold_Papers",
+  "className": null,
+  "isExp": true
+}

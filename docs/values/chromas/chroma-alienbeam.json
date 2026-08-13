@@ -1,0 +1,30 @@
+{
+  "id": "chromas:chroma-alienbeam",
+  "slug": "chroma-alienbeam",
+  "name": "Chroma Alienbeam",
+  "category": "chromas",
+  "value": 24000,
+  "valueType": "numeric",
+  "tieredValue": null,
+  "valueDisplay": "24,000",
+  "range": null,
+  "score": 0.9791183294663574,
+  "scoreClass": "val-top",
+  "stability": "Stable",
+  "demand": 6,
+  "rarity": 6,
+  "origin": "Halloween 2025 (Unboxed)",
+  "difference": -1000,
+  "percentageChange": -4,
+  "aliases": [
+    "CAB",
+    "CALB",
+    "CAlien"
+  ],
+  "flippability": "Rarely Flippable",
+  "riseChance": 10,
+  "wikiLink": "Chroma_Alienbeam",
+  "imageKey": "mm2chromas/CAB",
+  "className": null,
+  "isExp": true
+}

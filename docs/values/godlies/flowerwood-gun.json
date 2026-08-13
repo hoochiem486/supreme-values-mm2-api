@@ -1,0 +1,30 @@
+{
+  "id": "godlies:flowerwood-gun",
+  "slug": "flowerwood-gun",
+  "name": "Flowerwood Gun",
+  "category": "godlies",
+  "value": 265,
+  "valueType": "numeric",
+  "tieredValue": null,
+  "valueDisplay": "265",
+  "range": null,
+  "score": 0.8607888631090487,
+  "scoreClass": "val-top",
+  "stability": "Stable",
+  "demand": 4,
+  "rarity": 3,
+  "origin": "Easter 2024 (Item Pack)",
+  "difference": 5,
+  "percentageChange": 1.9,
+  "aliases": [
+    "FWG",
+    "FW Gun",
+    "FWood Gun"
+  ],
+  "flippability": "Rarely Flippable",
+  "riseChance": 10,
+  "wikiLink": "Flowerwood_Gun",
+  "imageKey": "mm2godlies/Flowerwood_Gun",
+  "className": null,
+  "isExp": true
+}

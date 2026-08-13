@@ -1,0 +1,34 @@
+{
+  "id": "chromas:chroma-icecream",
+  "slug": "chroma-icecream",
+  "name": "Chroma Icecream",
+  "category": "chromas",
+  "value": 2000,
+  "valueType": "numeric",
+  "tieredValue": null,
+  "valueDisplay": "2,000",
+  "range": {
+    "min": 1900,
+    "max": 2100,
+    "display": "1,900 - 2,100"
+  },
+  "score": 0.9327146171693735,
+  "scoreClass": "val-top",
+  "stability": "Fluctuating",
+  "demand": 5,
+  "rarity": 5,
+  "origin": "Summer 2026 (Unboxed)",
+  "difference": -500,
+  "percentageChange": -20,
+  "aliases": [
+    "CIC",
+    "CCream",
+    "CIcecream"
+  ],
+  "flippability": "Highly Flippable",
+  "riseChance": null,
+  "wikiLink": "Chroma_Icecream",
+  "imageKey": "mm2chromas/CIcecream",
+  "className": null,
+  "isExp": true
+}

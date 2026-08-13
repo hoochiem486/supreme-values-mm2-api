@@ -1,0 +1,30 @@
+{
+  "id": "commons:infected-knife",
+  "slug": "infected-knife",
+  "name": "Infected (Knife)",
+  "category": "commons",
+  "value": null,
+  "valueType": "tiered-items",
+  "tieredValue": {
+    "quantity": 4,
+    "tier": 1,
+    "rarity": "legendary"
+  },
+  "valueDisplay": "x4 T1 Legendaries",
+  "range": null,
+  "score": null,
+  "scoreClass": "val-sub1",
+  "stability": "Stable",
+  "demand": 2,
+  "rarity": 3,
+  "origin": "Halloween 2022 (Zombie, Tier 2)",
+  "difference": null,
+  "percentageChange": null,
+  "aliases": [],
+  "flippability": null,
+  "riseChance": null,
+  "wikiLink": null,
+  "imageKey": "mm2commons/Infected_Knife",
+  "className": null,
+  "isExp": false
+}

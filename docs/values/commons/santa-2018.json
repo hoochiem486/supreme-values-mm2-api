@@ -1,0 +1,30 @@
+{
+  "id": "commons:santa-2018",
+  "slug": "santa-2018",
+  "name": "Santa (2018)",
+  "category": "commons",
+  "value": null,
+  "valueType": "tiered-items",
+  "tieredValue": {
+    "quantity": 3,
+    "tier": 1,
+    "rarity": "common"
+  },
+  "valueDisplay": "x3 T1 Commons",
+  "range": null,
+  "score": null,
+  "scoreClass": "val-sub1",
+  "stability": "Stable",
+  "demand": 2,
+  "rarity": 2,
+  "origin": "Christmas 2018 (Unboxed)",
+  "difference": null,
+  "percentageChange": null,
+  "aliases": [],
+  "flippability": null,
+  "riseChance": null,
+  "wikiLink": null,
+  "imageKey": "mm2commons/Santa_2018",
+  "className": null,
+  "isExp": false
+}

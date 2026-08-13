@@ -1,0 +1,30 @@
+{
+  "id": "ancients:gingerscope",
+  "slug": "gingerscope",
+  "name": "Gingerscope",
+  "category": "ancients",
+  "value": 17750,
+  "valueType": "numeric",
+  "tieredValue": null,
+  "valueDisplay": "17,750",
+  "range": null,
+  "score": 0.9767981438515081,
+  "scoreClass": "val-top",
+  "stability": "Stable",
+  "demand": 6,
+  "rarity": 4,
+  "origin": "Christmas 2023 (Tier 20)",
+  "difference": 250,
+  "percentageChange": 1.4,
+  "aliases": [
+    "GS",
+    "GScope",
+    "Scope"
+  ],
+  "flippability": "Rarely Flippable",
+  "riseChance": 15,
+  "wikiLink": "Gingerscope",
+  "imageKey": "mm2ancients/Gingerscope",
+  "className": null,
+  "isExp": true
+}

@@ -1,0 +1,30 @@
+{
+  "id": "commons:snowman-gun-xmas2022",
+  "slug": "snowman-gun-xmas2022",
+  "name": "Snowman (Gun) [XMAS2022]",
+  "category": "commons",
+  "value": null,
+  "valueType": "tiered-items",
+  "tieredValue": {
+    "quantity": 2,
+    "tier": 1,
+    "rarity": "uncommon"
+  },
+  "valueDisplay": "x2 T1 Uncommons",
+  "range": null,
+  "score": null,
+  "scoreClass": "val-sub1",
+  "stability": "Stable",
+  "demand": 2,
+  "rarity": 3,
+  "origin": "Christmas 2022 (Tier 6)",
+  "difference": null,
+  "percentageChange": null,
+  "aliases": [],
+  "flippability": null,
+  "riseChance": null,
+  "wikiLink": null,
+  "imageKey": "mm2commons/Snowman_Gun_2022",
+  "className": null,
+  "isExp": false
+}

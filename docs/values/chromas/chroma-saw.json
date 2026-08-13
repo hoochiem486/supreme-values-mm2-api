@@ -1,0 +1,28 @@
+{
+  "id": "chromas:chroma-saw",
+  "slug": "chroma-saw",
+  "name": "Chroma Saw",
+  "category": "chromas",
+  "value": 23,
+  "valueType": "numeric",
+  "tieredValue": null,
+  "valueDisplay": "23",
+  "range": null,
+  "score": 0.62877030162413,
+  "scoreClass": "val-mid",
+  "stability": "Stable",
+  "demand": 1,
+  "rarity": 2,
+  "origin": "Knife Box #3",
+  "difference": -2,
+  "percentageChange": -8,
+  "aliases": [
+    "CSaw"
+  ],
+  "flippability": "Rarely Flippable",
+  "riseChance": 5,
+  "wikiLink": "Chroma_Saw",
+  "imageKey": "mm2chromas/CSaw",
+  "className": null,
+  "isExp": true
+}

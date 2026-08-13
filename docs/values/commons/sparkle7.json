@@ -1,0 +1,28 @@
+{
+  "id": "commons:sparkle7",
+  "slug": "sparkle7",
+  "name": "Sparkle7",
+  "category": "commons",
+  "value": 18,
+  "valueType": "numeric",
+  "tieredValue": null,
+  "valueDisplay": "18",
+  "range": null,
+  "score": 0.5870069605568445,
+  "scoreClass": "val-mid",
+  "stability": "Stable",
+  "demand": 2,
+  "rarity": 3,
+  "origin": "Sparkle Time Item Pack (200 Coins)",
+  "difference": 0,
+  "percentageChange": null,
+  "aliases": [
+    "S7"
+  ],
+  "flippability": "Rarely Flippable",
+  "riseChance": 5,
+  "wikiLink": "Sparkle7",
+  "imageKey": "mm2commons/Sparkle7",
+  "className": null,
+  "isExp": true
+}

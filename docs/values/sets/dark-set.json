@@ -1,0 +1,30 @@
+{
+  "id": "sets:dark-set",
+  "slug": "dark-set",
+  "name": "Dark Set",
+  "category": "sets",
+  "value": 3525,
+  "valueType": "numeric",
+  "tieredValue": null,
+  "valueDisplay": "3,525",
+  "range": {
+    "min": 3525,
+    "max": 3575,
+    "display": "3,525 - 3,575"
+  },
+  "score": 0.9535962877030162,
+  "scoreClass": "val-top",
+  "stability": "Doing Well",
+  "demand": 6,
+  "rarity": 4,
+  "origin": null,
+  "difference": 50,
+  "percentageChange": 1.4,
+  "aliases": [],
+  "flippability": "Flippable",
+  "riseChance": 40,
+  "wikiLink": null,
+  "imageKey": "mm2godlies/Darksword",
+  "className": null,
+  "isExp": true
+}

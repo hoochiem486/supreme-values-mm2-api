@@ -1,0 +1,28 @@
+{
+  "id": "godlies:battleaxe-ii",
+  "slug": "battleaxe-ii",
+  "name": "Battleaxe II",
+  "category": "godlies",
+  "value": 17,
+  "valueType": "numeric",
+  "tieredValue": null,
+  "valueDisplay": "17",
+  "range": null,
+  "score": 0.5754060324825986,
+  "scoreClass": "val-mid",
+  "stability": "Stable",
+  "demand": 1,
+  "rarity": 2,
+  "origin": "Halloween 2018 (Tier 100)",
+  "difference": -1,
+  "percentageChange": -5.6,
+  "aliases": [
+    "BA2"
+  ],
+  "flippability": "Rarely Flippable",
+  "riseChance": 5,
+  "wikiLink": "BattleAxe_II",
+  "imageKey": "mm2godlies/BA2",
+  "className": null,
+  "isExp": true
+}

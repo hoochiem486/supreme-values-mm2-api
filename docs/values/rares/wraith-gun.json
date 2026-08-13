@@ -1,0 +1,30 @@
+{
+  "id": "rares:wraith-gun",
+  "slug": "wraith-gun",
+  "name": "Wraith (Gun)",
+  "category": "rares",
+  "value": null,
+  "valueType": "tiered-items",
+  "tieredValue": {
+    "quantity": 1,
+    "tier": 1,
+    "rarity": "legendary"
+  },
+  "valueDisplay": "x1 T1 Legendary",
+  "range": null,
+  "score": null,
+  "scoreClass": "val-sub1",
+  "stability": "Stable",
+  "demand": 2,
+  "rarity": 2,
+  "origin": "Halloween 2022 (Unboxed)",
+  "difference": null,
+  "percentageChange": null,
+  "aliases": [],
+  "flippability": null,
+  "riseChance": null,
+  "wikiLink": null,
+  "imageKey": "mm2rares/Wraith_Gun",
+  "className": null,
+  "isExp": false
+}

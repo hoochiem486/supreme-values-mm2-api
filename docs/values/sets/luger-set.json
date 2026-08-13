@@ -1,0 +1,28 @@
+{
+  "id": "sets:luger-set",
+  "slug": "luger-set",
+  "name": "Luger Set",
+  "category": "sets",
+  "value": 130,
+  "valueType": "numeric",
+  "tieredValue": null,
+  "valueDisplay": "130",
+  "range": null,
+  "score": 0.8074245939675174,
+  "scoreClass": "val-mid",
+  "stability": "Stable",
+  "demand": 1,
+  "rarity": 2,
+  "origin": null,
+  "difference": -1,
+  "percentageChange": -0.8,
+  "aliases": [
+    "Lug Set"
+  ],
+  "flippability": "Rarely Flippable",
+  "riseChance": 5,
+  "wikiLink": null,
+  "imageKey": "mm2godlies/Luger",
+  "className": null,
+  "isExp": true
+}

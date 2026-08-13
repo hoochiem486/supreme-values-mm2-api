@@ -1,0 +1,30 @@
+{
+  "id": "commons:ornaments-gun",
+  "slug": "ornaments-gun",
+  "name": "Ornaments (Gun)",
+  "category": "commons",
+  "value": null,
+  "valueType": "tiered-items",
+  "tieredValue": {
+    "quantity": 1,
+    "tier": 1,
+    "rarity": "rare"
+  },
+  "valueDisplay": "x1 T1 Rare",
+  "range": null,
+  "score": null,
+  "scoreClass": "val-sub1",
+  "stability": "Stable",
+  "demand": 2,
+  "rarity": 3,
+  "origin": "Christmas 2020 (Tier 2)",
+  "difference": null,
+  "percentageChange": null,
+  "aliases": [],
+  "flippability": null,
+  "riseChance": null,
+  "wikiLink": null,
+  "imageKey": "mm2commons/Ornaments_Gun",
+  "className": null,
+  "isExp": false
+}

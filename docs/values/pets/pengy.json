@@ -1,0 +1,30 @@
+{
+  "id": "pets:pengy",
+  "slug": "pengy",
+  "name": "Pengy",
+  "category": "pets",
+  "value": 3,
+  "valueType": "numeric",
+  "tieredValue": null,
+  "valueDisplay": "3",
+  "range": {
+    "min": 2,
+    "max": 3,
+    "display": "2 - 3"
+  },
+  "score": 0.2877030162412993,
+  "scoreClass": "val-low",
+  "stability": "Underpaid For",
+  "demand": 1,
+  "rarity": 2,
+  "origin": "Classic Pet Box",
+  "difference": -1,
+  "percentageChange": -25,
+  "aliases": [],
+  "flippability": "Rarely Flippable",
+  "riseChance": 0,
+  "wikiLink": "Pengy",
+  "imageKey": "mm2pets/Pengy",
+  "className": "Common",
+  "isExp": true
+}

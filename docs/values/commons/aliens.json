@@ -1,0 +1,30 @@
+{
+  "id": "commons:aliens",
+  "slug": "aliens",
+  "name": "Aliens",
+  "category": "commons",
+  "value": null,
+  "valueType": "tiered-items",
+  "tieredValue": {
+    "quantity": 1,
+    "tier": 1,
+    "rarity": "uncommon"
+  },
+  "valueDisplay": "x1 T1 Uncommon",
+  "range": null,
+  "score": null,
+  "scoreClass": "val-sub1",
+  "stability": "Stable",
+  "demand": 2,
+  "rarity": 3,
+  "origin": "Halloween 2021 (Tier 2)",
+  "difference": null,
+  "percentageChange": null,
+  "aliases": [],
+  "flippability": null,
+  "riseChance": null,
+  "wikiLink": null,
+  "imageKey": "mm2commons/Aliens",
+  "className": null,
+  "isExp": false
+}

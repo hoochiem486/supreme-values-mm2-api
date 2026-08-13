@@ -1,0 +1,28 @@
+{
+  "id": "sets:sun-set",
+  "slug": "sun-set",
+  "name": "Sun Set",
+  "category": "sets",
+  "value": 1750,
+  "valueType": "numeric",
+  "tieredValue": null,
+  "valueDisplay": "1,750",
+  "range": null,
+  "score": 0.9164733178654292,
+  "scoreClass": "val-top",
+  "stability": "Stable",
+  "demand": 5,
+  "rarity": 4,
+  "origin": null,
+  "difference": 50,
+  "percentageChange": 2.9,
+  "aliases": [
+    "Sunrise Set"
+  ],
+  "flippability": "Rarely Flippable",
+  "riseChance": 10,
+  "wikiLink": null,
+  "imageKey": "mm2godlies/Sunrise",
+  "className": null,
+  "isExp": true
+}

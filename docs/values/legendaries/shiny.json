@@ -1,0 +1,30 @@
+{
+  "id": "legendaries:shiny",
+  "slug": "shiny",
+  "name": "Shiny",
+  "category": "legendaries",
+  "value": null,
+  "valueType": "tiered-items",
+  "tieredValue": {
+    "quantity": 4,
+    "tier": 1,
+    "rarity": "rare"
+  },
+  "valueDisplay": "x4 T1 Rares",
+  "range": null,
+  "score": null,
+  "scoreClass": "val-sub1",
+  "stability": "Stable",
+  "demand": 1,
+  "rarity": 1,
+  "origin": "Rainbow Box",
+  "difference": null,
+  "percentageChange": null,
+  "aliases": [],
+  "flippability": null,
+  "riseChance": null,
+  "wikiLink": null,
+  "imageKey": "mm2legendaries/Shiny",
+  "className": null,
+  "isExp": false
+}

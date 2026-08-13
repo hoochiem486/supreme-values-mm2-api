@@ -1,0 +1,29 @@
+{
+  "id": "chromas:chroma-lightbringer",
+  "slug": "chroma-lightbringer",
+  "name": "Chroma Lightbringer",
+  "category": "chromas",
+  "value": 60,
+  "valueType": "numeric",
+  "tieredValue": null,
+  "valueDisplay": "60",
+  "range": null,
+  "score": 0.7703016241299304,
+  "scoreClass": "val-mid",
+  "stability": "Stable",
+  "demand": 1,
+  "rarity": 2,
+  "origin": "Mystery Crate #2",
+  "difference": -5,
+  "percentageChange": -7.7,
+  "aliases": [
+    "CLB",
+    "CLight"
+  ],
+  "flippability": "Rarely Flippable",
+  "riseChance": 5,
+  "wikiLink": "Chroma_Lightbringer",
+  "imageKey": "mm2chromas/CLB",
+  "className": null,
+  "isExp": true
+}

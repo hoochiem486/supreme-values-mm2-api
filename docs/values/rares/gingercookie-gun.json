@@ -1,0 +1,30 @@
+{
+  "id": "rares:gingercookie-gun",
+  "slug": "gingercookie-gun",
+  "name": "Gingercookie (Gun)",
+  "category": "rares",
+  "value": null,
+  "valueType": "tiered-items",
+  "tieredValue": {
+    "quantity": 2,
+    "tier": 1,
+    "rarity": "rare"
+  },
+  "valueDisplay": "x2 T1 Rares",
+  "range": null,
+  "score": null,
+  "scoreClass": "val-sub1",
+  "stability": "Stable",
+  "demand": 1,
+  "rarity": 1,
+  "origin": "Christmas 2025 (Unboxed)",
+  "difference": null,
+  "percentageChange": null,
+  "aliases": [],
+  "flippability": "Rarely Flippable",
+  "riseChance": null,
+  "wikiLink": "Gingercookie_(Gun)",
+  "imageKey": "mm2rares/Gingercookie_Gun",
+  "className": null,
+  "isExp": false
+}

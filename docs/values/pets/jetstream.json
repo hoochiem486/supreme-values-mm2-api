@@ -1,0 +1,32 @@
+{
+  "id": "pets:jetstream",
+  "slug": "jetstream",
+  "name": "Jetstream",
+  "category": "pets",
+  "value": 3,
+  "valueType": "numeric",
+  "tieredValue": null,
+  "valueDisplay": "3",
+  "range": {
+    "min": 2,
+    "max": 3,
+    "display": "2 - 3"
+  },
+  "score": 0.2877030162412993,
+  "scoreClass": "val-low",
+  "stability": "Underpaid For",
+  "demand": 1,
+  "rarity": 2,
+  "origin": "Classic In-Game Shop (800 Coins)",
+  "difference": -1,
+  "percentageChange": -25,
+  "aliases": [
+    "Jet"
+  ],
+  "flippability": "Rarely Flippable",
+  "riseChance": 0,
+  "wikiLink": "Jetstream",
+  "imageKey": "mm2pets/Jetstream",
+  "className": "Rare",
+  "isExp": true
+}

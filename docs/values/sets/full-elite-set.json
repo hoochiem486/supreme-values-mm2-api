@@ -1,0 +1,28 @@
+{
+  "id": "sets:full-elite-set",
+  "slug": "full-elite-set",
+  "name": "Full Elite Set",
+  "category": "sets",
+  "value": 6,
+  "valueType": "numeric",
+  "tieredValue": null,
+  "valueDisplay": "6",
+  "range": null,
+  "score": 0.3665893271461717,
+  "scoreClass": "val-low",
+  "stability": "Stable",
+  "demand": 1,
+  "rarity": 3,
+  "origin": null,
+  "difference": -2,
+  "percentageChange": -25,
+  "aliases": [
+    "Elite Set"
+  ],
+  "flippability": "Rarely Flippable",
+  "riseChance": 5,
+  "wikiLink": null,
+  "imageKey": "mm2legendaries/Elite",
+  "className": null,
+  "isExp": true
+}

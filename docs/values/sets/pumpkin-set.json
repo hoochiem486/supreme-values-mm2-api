@@ -1,0 +1,32 @@
+{
+  "id": "sets:pumpkin-set",
+  "slug": "pumpkin-set",
+  "name": "Pumpkin Set",
+  "category": "sets",
+  "value": 403,
+  "valueType": "numeric",
+  "tieredValue": null,
+  "valueDisplay": "403",
+  "range": {
+    "min": 402,
+    "max": 403,
+    "display": "402 - 403"
+  },
+  "score": 0.8747099767981439,
+  "scoreClass": "val-top",
+  "stability": "Underpaid For",
+  "demand": 3,
+  "rarity": 4,
+  "origin": null,
+  "difference": -1,
+  "percentageChange": -0.2,
+  "aliases": [
+    "Pump Set 2018"
+  ],
+  "flippability": "Rarely Flippable",
+  "riseChance": 15,
+  "wikiLink": null,
+  "imageKey": "mm2pets/Purple_Pumpkin",
+  "className": null,
+  "isExp": true
+}

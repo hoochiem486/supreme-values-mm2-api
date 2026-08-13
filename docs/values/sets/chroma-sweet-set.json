@@ -1,0 +1,32 @@
+{
+  "id": "sets:chroma-sweet-set",
+  "slug": "chroma-sweet-set",
+  "name": "Chroma Sweet Set",
+  "category": "sets",
+  "value": 4750,
+  "valueType": "numeric",
+  "tieredValue": null,
+  "valueDisplay": "4,750",
+  "range": {
+    "min": 4650,
+    "max": 4750,
+    "display": "4,650 - 4,750"
+  },
+  "score": 0.9582366589327146,
+  "scoreClass": "val-top",
+  "stability": "Receding",
+  "demand": 5,
+  "rarity": 4,
+  "origin": null,
+  "difference": -150,
+  "percentageChange": -3.1,
+  "aliases": [
+    "CSweet Set"
+  ],
+  "flippability": "Rarely Flippable",
+  "riseChance": 10,
+  "wikiLink": null,
+  "imageKey": "mm2chromas/CTreat",
+  "className": null,
+  "isExp": true
+}

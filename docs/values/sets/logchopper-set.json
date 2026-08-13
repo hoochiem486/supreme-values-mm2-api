@@ -1,0 +1,28 @@
+{
+  "id": "sets:logchopper-set",
+  "slug": "logchopper-set",
+  "name": "Logchopper Set",
+  "category": "sets",
+  "value": 31,
+  "valueType": "numeric",
+  "tieredValue": null,
+  "valueDisplay": "31",
+  "range": null,
+  "score": 0.6635730858468677,
+  "scoreClass": "val-mid",
+  "stability": "Stable",
+  "demand": 1,
+  "rarity": 2,
+  "origin": null,
+  "difference": -2,
+  "percentageChange": -6.1,
+  "aliases": [
+    "Log Set"
+  ],
+  "flippability": "Rarely Flippable",
+  "riseChance": 5,
+  "wikiLink": null,
+  "imageKey": "mm2ancients/Logchopper",
+  "className": null,
+  "isExp": true
+}

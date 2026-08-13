@@ -1,0 +1,30 @@
+{
+  "id": "commons:juice",
+  "slug": "juice",
+  "name": "Juice",
+  "category": "commons",
+  "value": null,
+  "valueType": "tiered-items",
+  "tieredValue": {
+    "quantity": 1,
+    "tier": 1,
+    "rarity": "common"
+  },
+  "valueDisplay": "x1 T1 Common",
+  "range": null,
+  "score": null,
+  "scoreClass": "val-sub1",
+  "stability": "Stable",
+  "demand": 1,
+  "rarity": 1,
+  "origin": "Gun Box #2",
+  "difference": null,
+  "percentageChange": null,
+  "aliases": [],
+  "flippability": null,
+  "riseChance": null,
+  "wikiLink": null,
+  "imageKey": "mm2commons/Juice",
+  "className": null,
+  "isExp": false
+}

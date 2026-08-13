@@ -1,0 +1,30 @@
+{
+  "id": "rares:xeno-knife",
+  "slug": "xeno-knife",
+  "name": "Xeno (Knife)",
+  "category": "rares",
+  "value": null,
+  "valueType": "tiered-items",
+  "tieredValue": {
+    "quantity": 3,
+    "tier": 1,
+    "rarity": "rare"
+  },
+  "valueDisplay": "x3 T1 Rares",
+  "range": null,
+  "score": null,
+  "scoreClass": "val-sub1",
+  "stability": "Stable",
+  "demand": 2,
+  "rarity": 2,
+  "origin": "Halloween 2025 (Tier 21)",
+  "difference": null,
+  "percentageChange": null,
+  "aliases": [],
+  "flippability": "Flippable",
+  "riseChance": null,
+  "wikiLink": "Xeno_(Knife)",
+  "imageKey": "mm2rares/Xeno_Knife",
+  "className": null,
+  "isExp": false
+}

@@ -1,0 +1,30 @@
+{
+  "id": "uncommons:snowflake-gun-xmas2018",
+  "slug": "snowflake-gun-xmas2018",
+  "name": "Snowflake (Gun) [XMAS2018]",
+  "category": "uncommons",
+  "value": null,
+  "valueType": "tiered-items",
+  "tieredValue": {
+    "quantity": 1,
+    "tier": 1,
+    "rarity": "rare"
+  },
+  "valueDisplay": "x1 T1 Rare",
+  "range": null,
+  "score": null,
+  "scoreClass": "val-sub1",
+  "stability": "Stable",
+  "demand": 2,
+  "rarity": 2,
+  "origin": "Christmas 2018 (Unboxed)",
+  "difference": null,
+  "percentageChange": null,
+  "aliases": [],
+  "flippability": null,
+  "riseChance": null,
+  "wikiLink": null,
+  "imageKey": "mm2uncommons/Snowflake_Gun",
+  "className": null,
+  "isExp": false
+}

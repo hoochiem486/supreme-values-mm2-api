@@ -1,0 +1,30 @@
+{
+  "id": "uncommons:gingerbread-knife-xmas2025",
+  "slug": "gingerbread-knife-xmas2025",
+  "name": "Gingerbread (Knife) [XMAS2025]",
+  "category": "uncommons",
+  "value": null,
+  "valueType": "tiered-items",
+  "tieredValue": {
+    "quantity": 2,
+    "tier": 1,
+    "rarity": "uncommon"
+  },
+  "valueDisplay": "x2 T1 Uncommons",
+  "range": null,
+  "score": null,
+  "scoreClass": "val-sub1",
+  "stability": "Stable",
+  "demand": 1,
+  "rarity": 1,
+  "origin": "Christmas 2025 (Unboxed)",
+  "difference": null,
+  "percentageChange": null,
+  "aliases": [],
+  "flippability": null,
+  "riseChance": null,
+  "wikiLink": null,
+  "imageKey": "mm2uncommons/Gingerbread_Knife_2025",
+  "className": null,
+  "isExp": false
+}

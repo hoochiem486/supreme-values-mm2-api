@@ -1,0 +1,32 @@
+{
+  "id": "godlies:icecream",
+  "slug": "icecream",
+  "name": "Icecream",
+  "category": "godlies",
+  "value": 150,
+  "valueType": "numeric",
+  "tieredValue": null,
+  "valueDisplay": "150",
+  "range": {
+    "min": 140,
+    "max": 155,
+    "display": "140 - 155"
+  },
+  "score": 0.8306264501160093,
+  "scoreClass": "val-mid",
+  "stability": "Fluctuating",
+  "demand": 3,
+  "rarity": 3,
+  "origin": "Summer 2026 (Unboxed)",
+  "difference": -10,
+  "percentageChange": -6.3,
+  "aliases": [
+    "IC"
+  ],
+  "flippability": "Flippable",
+  "riseChance": 5,
+  "wikiLink": "Icecream",
+  "imageKey": "mm2godlies/Icecream",
+  "className": null,
+  "isExp": true
+}

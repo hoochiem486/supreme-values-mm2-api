@@ -1,0 +1,30 @@
+{
+  "id": "godlies:sands",
+  "slug": "sands",
+  "name": "Sands",
+  "category": "godlies",
+  "value": 150,
+  "valueType": "numeric",
+  "tieredValue": null,
+  "valueDisplay": "150",
+  "range": {
+    "min": 140,
+    "max": 155,
+    "display": "140 - 155"
+  },
+  "score": 0.8306264501160093,
+  "scoreClass": "val-mid",
+  "stability": "Fluctuating",
+  "demand": 3,
+  "rarity": 3,
+  "origin": "Summer 2026 (Item Pack)",
+  "difference": -10,
+  "percentageChange": -6.3,
+  "aliases": [],
+  "flippability": "Flippable",
+  "riseChance": 5,
+  "wikiLink": "Sands",
+  "imageKey": "mm2godlies/Sands",
+  "className": null,
+  "isExp": true
+}

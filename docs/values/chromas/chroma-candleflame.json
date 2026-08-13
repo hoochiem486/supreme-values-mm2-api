@@ -1,0 +1,29 @@
+{
+  "id": "chromas:chroma-candleflame",
+  "slug": "chroma-candleflame",
+  "name": "Chroma Candleflame",
+  "category": "chromas",
+  "value": 40,
+  "valueType": "numeric",
+  "tieredValue": null,
+  "valueDisplay": "40",
+  "range": null,
+  "score": 0.7354988399071926,
+  "scoreClass": "val-mid",
+  "stability": "Stable",
+  "demand": 1,
+  "rarity": 2,
+  "origin": "Halloween 2021 (Unboxed)",
+  "difference": -2,
+  "percentageChange": -4.8,
+  "aliases": [
+    "CCF",
+    "CCandle"
+  ],
+  "flippability": "Rarely Flippable",
+  "riseChance": 5,
+  "wikiLink": "Chroma_Candleflame",
+  "imageKey": "mm2chromas/CCF",
+  "className": null,
+  "isExp": true
+}

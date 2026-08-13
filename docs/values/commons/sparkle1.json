@@ -1,0 +1,28 @@
+{
+  "id": "commons:sparkle1",
+  "slug": "sparkle1",
+  "name": "Sparkle1",
+  "category": "commons",
+  "value": 3,
+  "valueType": "numeric",
+  "tieredValue": null,
+  "valueDisplay": "3",
+  "range": null,
+  "score": 0.2877030162412993,
+  "scoreClass": "val-low",
+  "stability": "Stable",
+  "demand": 2,
+  "rarity": 2,
+  "origin": "Sparkle Time Item Pack (100 Coins)",
+  "difference": 0,
+  "percentageChange": null,
+  "aliases": [
+    "S1"
+  ],
+  "flippability": "Rarely Flippable",
+  "riseChance": 5,
+  "wikiLink": "Sparkle1",
+  "imageKey": "mm2commons/Sparkle1",
+  "className": null,
+  "isExp": true
+}

@@ -1,0 +1,28 @@
+{
+  "id": "sets:virtual-set",
+  "slug": "virtual-set",
+  "name": "Virtual Set",
+  "category": "sets",
+  "value": 30,
+  "valueType": "numeric",
+  "tieredValue": null,
+  "valueDisplay": "30",
+  "range": null,
+  "score": 0.6635730858468677,
+  "scoreClass": "val-mid",
+  "stability": "Stable",
+  "demand": 1,
+  "rarity": 2,
+  "origin": null,
+  "difference": -3,
+  "percentageChange": -9.1,
+  "aliases": [
+    "VSet"
+  ],
+  "flippability": "Rarely Flippable",
+  "riseChance": 5,
+  "wikiLink": null,
+  "imageKey": "mm2godlies/Virtual",
+  "className": null,
+  "isExp": true
+}

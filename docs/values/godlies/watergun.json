@@ -1,0 +1,28 @@
+{
+  "id": "godlies:watergun",
+  "slug": "watergun",
+  "name": "Watergun",
+  "category": "godlies",
+  "value": 250,
+  "valueType": "numeric",
+  "tieredValue": null,
+  "valueDisplay": "250",
+  "range": null,
+  "score": 0.851508120649652,
+  "scoreClass": "val-top",
+  "stability": "Stable",
+  "demand": 3,
+  "rarity": 3,
+  "origin": "Summer 2024 (Unboxed)",
+  "difference": -10,
+  "percentageChange": -3.8,
+  "aliases": [
+    "WTG"
+  ],
+  "flippability": "Rarely Flippable",
+  "riseChance": 5,
+  "wikiLink": "Watergun",
+  "imageKey": "mm2godlies/Watergun",
+  "className": null,
+  "isExp": true
+}

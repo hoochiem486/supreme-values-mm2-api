@@ -1,0 +1,28 @@
+{
+  "id": "godlies:old-glory",
+  "slug": "old-glory",
+  "name": "Old Glory",
+  "category": "godlies",
+  "value": 15,
+  "valueType": "numeric",
+  "tieredValue": null,
+  "valueDisplay": "15",
+  "range": null,
+  "score": 0.5614849187935035,
+  "scoreClass": "val-mid",
+  "stability": "Stable",
+  "demand": 1,
+  "rarity": 2,
+  "origin": "American Item Pack",
+  "difference": -2,
+  "percentageChange": -11.8,
+  "aliases": [
+    "OG"
+  ],
+  "flippability": "Rarely Flippable",
+  "riseChance": 5,
+  "wikiLink": "Old_Glory",
+  "imageKey": "mm2godlies/Old_Glory",
+  "className": null,
+  "isExp": true
+}

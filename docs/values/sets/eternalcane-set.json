@@ -1,0 +1,28 @@
+{
+  "id": "sets:eternalcane-set",
+  "slug": "eternalcane-set",
+  "name": "Eternalcane Set",
+  "category": "sets",
+  "value": 26,
+  "valueType": "numeric",
+  "tieredValue": null,
+  "valueDisplay": "26",
+  "range": null,
+  "score": 0.6403712296983759,
+  "scoreClass": "val-mid",
+  "stability": "Stable",
+  "demand": 1,
+  "rarity": 2,
+  "origin": null,
+  "difference": -4,
+  "percentageChange": -13.3,
+  "aliases": [
+    "Ecane Set"
+  ],
+  "flippability": "Rarely Flippable",
+  "riseChance": 5,
+  "wikiLink": null,
+  "imageKey": "mm2godlies/Eternalcane",
+  "className": null,
+  "isExp": true
+}

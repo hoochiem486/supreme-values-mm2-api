@@ -1,0 +1,28 @@
+{
+  "id": "sets:chroma-ever-set",
+  "slug": "chroma-ever-set",
+  "name": "Chroma Ever Set",
+  "category": "sets",
+  "value": 123000,
+  "valueType": "numeric",
+  "tieredValue": null,
+  "valueDisplay": "123,000",
+  "range": null,
+  "score": 0.9907192575406032,
+  "scoreClass": "val-top",
+  "stability": "Stable",
+  "demand": 8,
+  "rarity": 8,
+  "origin": null,
+  "difference": -1000,
+  "percentageChange": -0.8,
+  "aliases": [
+    "CEver Set"
+  ],
+  "flippability": "Rarely Flippable",
+  "riseChance": 10,
+  "wikiLink": null,
+  "imageKey": "mm2chromas/CEvergun",
+  "className": null,
+  "isExp": true
+}

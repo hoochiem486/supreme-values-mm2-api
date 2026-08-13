@@ -1,0 +1,28 @@
+{
+  "id": "godlies:hallow-s-edge",
+  "slug": "hallow-s-edge",
+  "name": "Hallow's Edge",
+  "category": "godlies",
+  "value": 8,
+  "valueType": "numeric",
+  "tieredValue": null,
+  "valueDisplay": "8",
+  "range": null,
+  "score": 0.4431554524361949,
+  "scoreClass": "val-mid",
+  "stability": "Stable",
+  "demand": 1,
+  "rarity": 2,
+  "origin": "Halloween 2016 (Unboxed)",
+  "difference": 0,
+  "percentageChange": null,
+  "aliases": [
+    "HEdge"
+  ],
+  "flippability": "Rarely Flippable",
+  "riseChance": 5,
+  "wikiLink": "Hallow%27s_Edge",
+  "imageKey": "mm2godlies/Hallows_Edge",
+  "className": null,
+  "isExp": true
+}

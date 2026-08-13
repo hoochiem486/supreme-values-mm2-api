@@ -1,0 +1,28 @@
+{
+  "id": "godlies:clockwork",
+  "slug": "clockwork",
+  "name": "Clockwork",
+  "category": "godlies",
+  "value": 10,
+  "valueType": "numeric",
+  "tieredValue": null,
+  "valueDisplay": "10",
+  "range": null,
+  "score": 0.4802784222737819,
+  "scoreClass": "val-mid",
+  "stability": "Stable",
+  "demand": 1,
+  "rarity": 2,
+  "origin": "Steampunk Item Pack",
+  "difference": -2,
+  "percentageChange": -16.7,
+  "aliases": [
+    "CW"
+  ],
+  "flippability": "Rarely Flippable",
+  "riseChance": 5,
+  "wikiLink": "Clockwork",
+  "imageKey": "mm2godlies/Clockwork",
+  "className": null,
+  "isExp": true
+}

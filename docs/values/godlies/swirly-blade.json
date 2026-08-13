@@ -1,0 +1,29 @@
+{
+  "id": "godlies:swirly-blade",
+  "slug": "swirly-blade",
+  "name": "Swirly Blade",
+  "category": "godlies",
+  "value": 12,
+  "valueType": "numeric",
+  "tieredValue": null,
+  "valueDisplay": "12",
+  "range": null,
+  "score": 0.5104408352668214,
+  "scoreClass": "val-mid",
+  "stability": "Stable",
+  "demand": 1,
+  "rarity": 2,
+  "origin": "Christmas 2021 (Gifting 100 Gifts)",
+  "difference": -1,
+  "percentageChange": -7.7,
+  "aliases": [
+    "SWB",
+    "SW Blade"
+  ],
+  "flippability": "Rarely Flippable",
+  "riseChance": 5,
+  "wikiLink": "Swirly_Blade",
+  "imageKey": "mm2godlies/Swirly_Blade",
+  "className": null,
+  "isExp": true
+}

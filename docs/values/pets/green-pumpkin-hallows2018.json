@@ -1,0 +1,28 @@
+{
+  "id": "pets:green-pumpkin-hallows2018",
+  "slug": "green-pumpkin-hallows2018",
+  "name": "Green Pumpkin [HALLOWS2018]",
+  "category": "pets",
+  "value": 60,
+  "valueType": "numeric",
+  "tieredValue": null,
+  "valueDisplay": "60",
+  "range": null,
+  "score": 0.7703016241299304,
+  "scoreClass": "val-mid",
+  "stability": "Stable",
+  "demand": 3,
+  "rarity": 4,
+  "origin": "Halloween 2018 (Tier 9)",
+  "difference": 5,
+  "percentageChange": 9.1,
+  "aliases": [
+    "Green Pump"
+  ],
+  "flippability": "Rarely Flippable",
+  "riseChance": 15,
+  "wikiLink": "Green_Pumpkin_(2018)",
+  "imageKey": "mm2pets/Green_Pumpkin",
+  "className": "Common",
+  "isExp": true
+}

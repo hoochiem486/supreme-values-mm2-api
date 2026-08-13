@@ -1,0 +1,28 @@
+{
+  "id": "ancients:harvester",
+  "slug": "harvester",
+  "name": "Harvester",
+  "category": "ancients",
+  "value": 250,
+  "valueType": "numeric",
+  "tieredValue": null,
+  "valueDisplay": "250",
+  "range": null,
+  "score": 0.851508120649652,
+  "scoreClass": "val-top",
+  "stability": "Stable",
+  "demand": 3,
+  "rarity": 2,
+  "origin": "Halloween 2021 (Tier 30)",
+  "difference": -10,
+  "percentageChange": -3.8,
+  "aliases": [
+    "Harv"
+  ],
+  "flippability": "Rarely Flippable",
+  "riseChance": 5,
+  "wikiLink": "Harvester",
+  "imageKey": "mm2ancients/Harvester",
+  "className": null,
+  "isExp": true
+}

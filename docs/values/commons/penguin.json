@@ -1,0 +1,30 @@
+{
+  "id": "commons:penguin",
+  "slug": "penguin",
+  "name": "Penguin",
+  "category": "commons",
+  "value": null,
+  "valueType": "tiered-items",
+  "tieredValue": {
+    "quantity": 1,
+    "tier": 1,
+    "rarity": "uncommon"
+  },
+  "valueDisplay": "x1 T1 Uncommon",
+  "range": null,
+  "score": null,
+  "scoreClass": "val-sub1",
+  "stability": "Stable",
+  "demand": 1,
+  "rarity": 1,
+  "origin": "Christmas 2025 (15 Quests)",
+  "difference": null,
+  "percentageChange": null,
+  "aliases": [],
+  "flippability": "Rarely Flippable",
+  "riseChance": null,
+  "wikiLink": "Penguin_Common",
+  "imageKey": "mm2commons/Penguin",
+  "className": null,
+  "isExp": false
+}

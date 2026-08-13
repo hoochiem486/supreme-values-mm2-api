@@ -1,0 +1,30 @@
+{
+  "id": "commons:santa-2023",
+  "slug": "santa-2023",
+  "name": "Santa (2023)",
+  "category": "commons",
+  "value": null,
+  "valueType": "tiered-items",
+  "tieredValue": {
+    "quantity": 1,
+    "tier": 1,
+    "rarity": "uncommon"
+  },
+  "valueDisplay": "x1 T1 Uncommon",
+  "range": null,
+  "score": null,
+  "scoreClass": "val-sub1",
+  "stability": "Stable",
+  "demand": 2,
+  "rarity": 2,
+  "origin": "Christmas 2023 (Tier 8)",
+  "difference": null,
+  "percentageChange": null,
+  "aliases": [],
+  "flippability": null,
+  "riseChance": null,
+  "wikiLink": null,
+  "imageKey": "mm2commons/Santa_2023",
+  "className": null,
+  "isExp": false
+}

@@ -1,0 +1,30 @@
+{
+  "id": "misc:gifts-2015",
+  "slug": "gifts-2015",
+  "name": "Gifts 2015",
+  "category": "misc",
+  "value": null,
+  "valueType": "tiered-items",
+  "tieredValue": {
+    "quantity": 2,
+    "tier": 1,
+    "rarity": "legendary"
+  },
+  "valueDisplay": "x2 T1 Legendaries",
+  "range": null,
+  "score": null,
+  "scoreClass": "val-sub1",
+  "stability": "Stable",
+  "demand": 1,
+  "rarity": 3,
+  "origin": "Christmas 2015 (Collected in Rounds)",
+  "difference": null,
+  "percentageChange": null,
+  "aliases": [],
+  "flippability": null,
+  "riseChance": null,
+  "wikiLink": null,
+  "imageKey": "mm2misc/Xmas_Gifts",
+  "className": null,
+  "isExp": false
+}

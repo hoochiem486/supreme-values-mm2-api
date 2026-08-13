@@ -1,0 +1,28 @@
+{
+  "id": "godlies:slasher",
+  "slug": "slasher",
+  "name": "Slasher",
+  "category": "godlies",
+  "value": 15,
+  "valueType": "numeric",
+  "tieredValue": null,
+  "valueDisplay": "15",
+  "range": null,
+  "score": 0.5614849187935035,
+  "scoreClass": "val-mid",
+  "stability": "Stable",
+  "demand": 1,
+  "rarity": 2,
+  "origin": "Knife Box #4",
+  "difference": -2,
+  "percentageChange": -11.8,
+  "aliases": [
+    "Slash"
+  ],
+  "flippability": "Rarely Flippable",
+  "riseChance": 5,
+  "wikiLink": "Slasher",
+  "imageKey": "mm2godlies/Slasher",
+  "className": null,
+  "isExp": true
+}

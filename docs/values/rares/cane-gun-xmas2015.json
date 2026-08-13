@@ -1,0 +1,30 @@
+{
+  "id": "rares:cane-gun-xmas2015",
+  "slug": "cane-gun-xmas2015",
+  "name": "Cane (Gun) [XMAS2015]",
+  "category": "rares",
+  "value": null,
+  "valueType": "tiered-items",
+  "tieredValue": {
+    "quantity": 4,
+    "tier": 1,
+    "rarity": "legendary"
+  },
+  "valueDisplay": "x4 T1 Legendaries",
+  "range": null,
+  "score": null,
+  "scoreClass": "val-sub1",
+  "stability": "Stable",
+  "demand": 1,
+  "rarity": 3,
+  "origin": "Christmas 2015 (Unboxed)",
+  "difference": null,
+  "percentageChange": null,
+  "aliases": [],
+  "flippability": null,
+  "riseChance": null,
+  "wikiLink": null,
+  "imageKey": "mm2rares/Cane_Gun",
+  "className": null,
+  "isExp": false
+}

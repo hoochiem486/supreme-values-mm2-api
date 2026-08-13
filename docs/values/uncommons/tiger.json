@@ -1,0 +1,30 @@
+{
+  "id": "uncommons:tiger",
+  "slug": "tiger",
+  "name": "Tiger",
+  "category": "uncommons",
+  "value": null,
+  "valueType": "tiered-items",
+  "tieredValue": {
+    "quantity": 4,
+    "tier": 1,
+    "rarity": "common"
+  },
+  "valueDisplay": "x4 T1 Commons",
+  "range": null,
+  "score": null,
+  "scoreClass": "val-sub1",
+  "stability": "Stable",
+  "demand": 1,
+  "rarity": 1,
+  "origin": "Mystery Box #1",
+  "difference": null,
+  "percentageChange": null,
+  "aliases": [],
+  "flippability": null,
+  "riseChance": null,
+  "wikiLink": null,
+  "imageKey": "mm2uncommons/Tiger",
+  "className": null,
+  "isExp": false
+}

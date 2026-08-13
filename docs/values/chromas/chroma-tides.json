@@ -1,0 +1,28 @@
+{
+  "id": "chromas:chroma-tides",
+  "slug": "chroma-tides",
+  "name": "Chroma Tides",
+  "category": "chromas",
+  "value": 27,
+  "valueType": "numeric",
+  "tieredValue": null,
+  "valueDisplay": "27",
+  "range": null,
+  "score": 0.6450116009280742,
+  "scoreClass": "val-mid",
+  "stability": "Stable",
+  "demand": 1,
+  "rarity": 2,
+  "origin": "Knife Box #5",
+  "difference": -1,
+  "percentageChange": -3.6,
+  "aliases": [
+    "CTides"
+  ],
+  "flippability": "Rarely Flippable",
+  "riseChance": 5,
+  "wikiLink": "Chroma_Tides",
+  "imageKey": "mm2chromas/CTides",
+  "className": null,
+  "isExp": true
+}

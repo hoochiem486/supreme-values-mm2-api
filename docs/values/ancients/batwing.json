@@ -1,0 +1,28 @@
+{
+  "id": "ancients:batwing",
+  "slug": "batwing",
+  "name": "Batwing",
+  "category": "ancients",
+  "value": 42,
+  "valueType": "numeric",
+  "tieredValue": null,
+  "valueDisplay": "42",
+  "range": null,
+  "score": 0.7378190255220418,
+  "scoreClass": "val-mid",
+  "stability": "Stable",
+  "demand": 1,
+  "rarity": 2,
+  "origin": "Halloween 2018 (Item Pack)",
+  "difference": -1,
+  "percentageChange": -2.3,
+  "aliases": [
+    "BW"
+  ],
+  "flippability": "Rarely Flippable",
+  "riseChance": 5,
+  "wikiLink": "Batwing",
+  "imageKey": "mm2ancients/Batwing",
+  "className": null,
+  "isExp": true
+}

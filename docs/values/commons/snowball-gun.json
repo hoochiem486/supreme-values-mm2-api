@@ -1,0 +1,30 @@
+{
+  "id": "commons:snowball-gun",
+  "slug": "snowball-gun",
+  "name": "Snowball (Gun)",
+  "category": "commons",
+  "value": null,
+  "valueType": "tiered-items",
+  "tieredValue": {
+    "quantity": 2,
+    "tier": 1,
+    "rarity": "common"
+  },
+  "valueDisplay": "x2 T1 Commons",
+  "range": null,
+  "score": null,
+  "scoreClass": "val-sub1",
+  "stability": "Stable",
+  "demand": 1,
+  "rarity": 1,
+  "origin": "Christmas 2025 (Tier 4)",
+  "difference": null,
+  "percentageChange": null,
+  "aliases": [],
+  "flippability": null,
+  "riseChance": null,
+  "wikiLink": null,
+  "imageKey": "mm2commons/Snowball_Gun",
+  "className": null,
+  "isExp": false
+}

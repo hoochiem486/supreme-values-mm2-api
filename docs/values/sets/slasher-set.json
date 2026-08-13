@@ -1,0 +1,28 @@
+{
+  "id": "sets:slasher-set",
+  "slug": "slasher-set",
+  "name": "Slasher Set",
+  "category": "sets",
+  "value": 37,
+  "valueType": "numeric",
+  "tieredValue": null,
+  "valueDisplay": "37",
+  "range": null,
+  "score": 0.7192575406032483,
+  "scoreClass": "val-mid",
+  "stability": "Stable",
+  "demand": 1,
+  "rarity": 2,
+  "origin": null,
+  "difference": -1,
+  "percentageChange": -2.6,
+  "aliases": [
+    "Slash Set"
+  ],
+  "flippability": "Rarely Flippable",
+  "riseChance": 5,
+  "wikiLink": null,
+  "imageKey": "mm2godlies/Slasher",
+  "className": null,
+  "isExp": true
+}

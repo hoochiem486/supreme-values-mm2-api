@@ -1,0 +1,28 @@
+{
+  "id": "godlies:hallow-s-blade",
+  "slug": "hallow-s-blade",
+  "name": "Hallow's Blade",
+  "category": "godlies",
+  "value": 8,
+  "valueType": "numeric",
+  "tieredValue": null,
+  "valueDisplay": "8",
+  "range": null,
+  "score": 0.4431554524361949,
+  "scoreClass": "val-mid",
+  "stability": "Stable",
+  "demand": 1,
+  "rarity": 2,
+  "origin": "Halloween 2017 (Bought)",
+  "difference": 0,
+  "percentageChange": null,
+  "aliases": [
+    "HBlade"
+  ],
+  "flippability": "Rarely Flippable",
+  "riseChance": 5,
+  "wikiLink": "Hallow%27s_Blade",
+  "imageKey": "mm2godlies/Hallows_Blade",
+  "className": null,
+  "isExp": true
+}

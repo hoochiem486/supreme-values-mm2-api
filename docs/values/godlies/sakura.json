@@ -1,0 +1,32 @@
+{
+  "id": "godlies:sakura",
+  "slug": "sakura",
+  "name": "Sakura",
+  "category": "godlies",
+  "value": 1350,
+  "valueType": "numeric",
+  "tieredValue": null,
+  "valueDisplay": "1,350",
+  "range": {
+    "min": 1350,
+    "max": 1360,
+    "display": "1,350 - 1,360"
+  },
+  "score": 0.9095127610208816,
+  "scoreClass": "val-top",
+  "stability": "Doing Well",
+  "demand": 6,
+  "rarity": 4,
+  "origin": "Valentine's 2023 (Item Pack)",
+  "difference": 10,
+  "percentageChange": 0.7,
+  "aliases": [
+    "Sak"
+  ],
+  "flippability": "Flippable",
+  "riseChance": 40,
+  "wikiLink": "Sakura",
+  "imageKey": "mm2godlies/Sakura",
+  "className": null,
+  "isExp": true
+}

@@ -1,0 +1,28 @@
+{
+  "id": "misc:box-of-fertilizer",
+  "slug": "box-of-fertilizer",
+  "name": "Box of Fertilizer",
+  "category": "misc",
+  "value": 2,
+  "valueType": "numeric",
+  "tieredValue": null,
+  "valueDisplay": "2",
+  "range": null,
+  "score": 0.1554524361948956,
+  "scoreClass": "val-low",
+  "stability": "Stable",
+  "demand": 1,
+  "rarity": 3,
+  "origin": "Christmas 2018 (50 Gems)",
+  "difference": 0,
+  "percentageChange": null,
+  "aliases": [
+    "Fert"
+  ],
+  "flippability": null,
+  "riseChance": null,
+  "wikiLink": null,
+  "imageKey": "mm2misc/Fert",
+  "className": null,
+  "isExp": false
+}

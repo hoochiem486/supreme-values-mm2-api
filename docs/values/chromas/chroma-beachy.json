@@ -1,0 +1,33 @@
+{
+  "id": "chromas:chroma-beachy",
+  "slug": "chroma-beachy",
+  "name": "Chroma Beachy",
+  "category": "chromas",
+  "value": 1800,
+  "valueType": "numeric",
+  "tieredValue": null,
+  "valueDisplay": "1,800",
+  "range": {
+    "min": 1700,
+    "max": 1900,
+    "display": "1,700 - 1,900"
+  },
+  "score": 0.9234338747099768,
+  "scoreClass": "val-top",
+  "stability": "Fluctuating",
+  "demand": 5,
+  "rarity": 4,
+  "origin": "Summer 2026 (Item Pack)",
+  "difference": 50,
+  "percentageChange": 2.9,
+  "aliases": [
+    "CBeachy",
+    "CBeach"
+  ],
+  "flippability": "Highly Flippable",
+  "riseChance": null,
+  "wikiLink": "Chroma_Beachy",
+  "imageKey": "mm2chromas/CBeachy",
+  "className": null,
+  "isExp": true
+}

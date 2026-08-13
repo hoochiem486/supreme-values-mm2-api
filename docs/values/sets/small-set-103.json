@@ -1,0 +1,32 @@
+{
+  "id": "sets:small-set-103",
+  "slug": "small-set-103",
+  "name": "Small Set (103)",
+  "category": "sets",
+  "value": 1260,
+  "valueType": "numeric",
+  "tieredValue": null,
+  "valueDisplay": "1,260",
+  "range": {
+    "min": 1210,
+    "max": 1310,
+    "display": "1,210 - 1,310"
+  },
+  "score": 0.9048723897911833,
+  "scoreClass": "val-top",
+  "stability": "Fluctuating",
+  "demand": 4,
+  "rarity": 4,
+  "origin": null,
+  "difference": -1,
+  "percentageChange": -0.1,
+  "aliases": [
+    "SS103"
+  ],
+  "flippability": "Flippable",
+  "riseChance": 10,
+  "wikiLink": null,
+  "imageKey": "mm2godlies/Red_Seer",
+  "className": null,
+  "isExp": true
+}

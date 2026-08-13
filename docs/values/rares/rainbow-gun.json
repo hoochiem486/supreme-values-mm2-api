@@ -1,0 +1,30 @@
+{
+  "id": "rares:rainbow-gun",
+  "slug": "rainbow-gun",
+  "name": "Rainbow (Gun)",
+  "category": "rares",
+  "value": null,
+  "valueType": "tiered-items",
+  "tieredValue": {
+    "quantity": 4,
+    "tier": 1,
+    "rarity": "uncommon"
+  },
+  "valueDisplay": "x4 T1 Uncommons",
+  "range": null,
+  "score": null,
+  "scoreClass": "val-sub1",
+  "stability": "Stable",
+  "demand": 1,
+  "rarity": 1,
+  "origin": "Mystery Box #1",
+  "difference": null,
+  "percentageChange": null,
+  "aliases": [],
+  "flippability": null,
+  "riseChance": null,
+  "wikiLink": null,
+  "imageKey": "mm2rares/Rainbow_Gun",
+  "className": null,
+  "isExp": false
+}

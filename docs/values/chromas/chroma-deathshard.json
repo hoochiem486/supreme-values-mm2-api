@@ -1,0 +1,28 @@
+{
+  "id": "chromas:chroma-deathshard",
+  "slug": "chroma-deathshard",
+  "name": "Chroma Deathshard",
+  "category": "chromas",
+  "value": 35,
+  "valueType": "numeric",
+  "tieredValue": null,
+  "valueDisplay": "35",
+  "range": null,
+  "score": 0.7146171693735499,
+  "scoreClass": "val-mid",
+  "stability": "Stable",
+  "demand": 1,
+  "rarity": 2,
+  "origin": "Knife Box #1",
+  "difference": -3,
+  "percentageChange": -7.9,
+  "aliases": [
+    "CDS"
+  ],
+  "flippability": "Rarely Flippable",
+  "riseChance": 5,
+  "wikiLink": "Chroma_Deathshard",
+  "imageKey": "mm2chromas/CDS",
+  "className": null,
+  "isExp": true
+}

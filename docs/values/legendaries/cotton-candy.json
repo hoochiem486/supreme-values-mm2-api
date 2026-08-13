@@ -1,0 +1,28 @@
+{
+  "id": "legendaries:cotton-candy",
+  "slug": "cotton-candy",
+  "name": "Cotton Candy",
+  "category": "legendaries",
+  "value": 35,
+  "valueType": "numeric",
+  "tieredValue": null,
+  "valueDisplay": "35",
+  "range": null,
+  "score": 0.7146171693735499,
+  "scoreClass": "val-mid",
+  "stability": "Stable",
+  "demand": 2,
+  "rarity": 2,
+  "origin": "Candy Tycoon Promo",
+  "difference": -3,
+  "percentageChange": -7.9,
+  "aliases": [
+    "CC"
+  ],
+  "flippability": "Rarely Flippable",
+  "riseChance": 5,
+  "wikiLink": "Cotton_Candy",
+  "imageKey": "mm2legendaries/Cotton_Candy",
+  "className": null,
+  "isExp": true
+}

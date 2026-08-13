@@ -1,0 +1,32 @@
+{
+  "id": "sets:chroma-beach-set",
+  "slug": "chroma-beach-set",
+  "name": "Chroma Beach Set",
+  "category": "sets",
+  "value": 3700,
+  "valueType": "numeric",
+  "tieredValue": null,
+  "valueDisplay": "3,700",
+  "range": {
+    "min": 3500,
+    "max": 3900,
+    "display": "3,500 - 3,900"
+  },
+  "score": 0.9535962877030162,
+  "scoreClass": "val-top",
+  "stability": "Fluctuating",
+  "demand": 5,
+  "rarity": 4,
+  "origin": null,
+  "difference": 50,
+  "percentageChange": 1.4,
+  "aliases": [
+    "CBeach Set"
+  ],
+  "flippability": "Highly Flippable",
+  "riseChance": null,
+  "wikiLink": null,
+  "imageKey": "mm2chromas/CBeachy",
+  "className": null,
+  "isExp": true
+}

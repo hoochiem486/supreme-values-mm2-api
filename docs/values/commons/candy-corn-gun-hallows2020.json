@@ -1,0 +1,30 @@
+{
+  "id": "commons:candy-corn-gun-hallows2020",
+  "slug": "candy-corn-gun-hallows2020",
+  "name": "Candy Corn (Gun) [HALLOWS2020]",
+  "category": "commons",
+  "value": null,
+  "valueType": "tiered-items",
+  "tieredValue": {
+    "quantity": 2,
+    "tier": 1,
+    "rarity": "common"
+  },
+  "valueDisplay": "x2 T1 Commons",
+  "range": null,
+  "score": null,
+  "scoreClass": "val-sub1",
+  "stability": "Stable",
+  "demand": 2,
+  "rarity": 2,
+  "origin": "Halloween 2020 (Unboxed)",
+  "difference": null,
+  "percentageChange": null,
+  "aliases": [],
+  "flippability": null,
+  "riseChance": null,
+  "wikiLink": null,
+  "imageKey": "mm2commons/Candy_Corn_Gun",
+  "className": null,
+  "isExp": false
+}

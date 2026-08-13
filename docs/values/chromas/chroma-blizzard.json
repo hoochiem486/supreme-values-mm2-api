@@ -1,0 +1,28 @@
+{
+  "id": "chromas:chroma-blizzard",
+  "slug": "chroma-blizzard",
+  "name": "Chroma Blizzard",
+  "category": "chromas",
+  "value": 7500,
+  "valueType": "numeric",
+  "tieredValue": null,
+  "valueDisplay": "7,500",
+  "range": null,
+  "score": 0.962877030162413,
+  "scoreClass": "val-top",
+  "stability": "Stable",
+  "demand": 5,
+  "rarity": 5,
+  "origin": "Christmas 2025 (Item Pack)",
+  "difference": -250,
+  "percentageChange": -3.2,
+  "aliases": [
+    "CBlizz"
+  ],
+  "flippability": "Rarely Flippable",
+  "riseChance": 10,
+  "wikiLink": "Chroma_Blizzard",
+  "imageKey": "mm2chromas/CBZ",
+  "className": null,
+  "isExp": true
+}

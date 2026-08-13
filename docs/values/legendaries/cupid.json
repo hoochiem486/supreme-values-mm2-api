@@ -1,0 +1,30 @@
+{
+  "id": "legendaries:cupid",
+  "slug": "cupid",
+  "name": "Cupid",
+  "category": "legendaries",
+  "value": null,
+  "valueType": "tiered-items",
+  "tieredValue": {
+    "quantity": 2,
+    "tier": 1,
+    "rarity": "legendary"
+  },
+  "valueDisplay": "x2 T1 Legendaries",
+  "range": null,
+  "score": null,
+  "scoreClass": "val-sub1",
+  "stability": "Stable",
+  "demand": 2,
+  "rarity": 2,
+  "origin": "Valentine's 2026 (Unboxed)",
+  "difference": null,
+  "percentageChange": null,
+  "aliases": [],
+  "flippability": "Rarely Flippable",
+  "riseChance": 5,
+  "wikiLink": "Cupid",
+  "imageKey": "mm2legendaries/Cupid",
+  "className": null,
+  "isExp": false
+}

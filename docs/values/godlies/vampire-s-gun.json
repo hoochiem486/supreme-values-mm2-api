@@ -1,0 +1,29 @@
+{
+  "id": "godlies:vampire-s-gun",
+  "slug": "vampire-s-gun",
+  "name": "Vampire's Gun",
+  "category": "godlies",
+  "value": 1950,
+  "valueType": "numeric",
+  "tieredValue": null,
+  "valueDisplay": "1,950",
+  "range": null,
+  "score": 0.9303944315545244,
+  "scoreClass": "val-top",
+  "stability": "Stable",
+  "demand": 5,
+  "rarity": 4,
+  "origin": "Halloween 2024 (Unboxed)",
+  "difference": 25,
+  "percentageChange": 1.3,
+  "aliases": [
+    "Vamp Gun",
+    "VG"
+  ],
+  "flippability": "Rarely Flippable",
+  "riseChance": 10,
+  "wikiLink": "Vampire%27s_Gun",
+  "imageKey": "mm2godlies/Vampires_Gun",
+  "className": null,
+  "isExp": true
+}

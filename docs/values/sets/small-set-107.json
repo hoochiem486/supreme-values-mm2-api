@@ -1,0 +1,32 @@
+{
+  "id": "sets:small-set-107",
+  "slug": "small-set-107",
+  "name": "Small Set (107)",
+  "category": "sets",
+  "value": 1295,
+  "valueType": "numeric",
+  "tieredValue": null,
+  "valueDisplay": "1,295",
+  "range": {
+    "min": 1245,
+    "max": 1345,
+    "display": "1,245 - 1,345"
+  },
+  "score": 0.9071925754060325,
+  "scoreClass": "val-top",
+  "stability": "Fluctuating",
+  "demand": 4,
+  "rarity": 4,
+  "origin": null,
+  "difference": -20,
+  "percentageChange": -1.5,
+  "aliases": [
+    "SS107"
+  ],
+  "flippability": "Flippable",
+  "riseChance": 10,
+  "wikiLink": null,
+  "imageKey": "mm2godlies/Yellow_Seer",
+  "className": null,
+  "isExp": true
+}

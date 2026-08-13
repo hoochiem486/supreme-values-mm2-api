@@ -1,0 +1,32 @@
+{
+  "id": "pets:nobledragon",
+  "slug": "nobledragon",
+  "name": "Nobledragon",
+  "category": "pets",
+  "value": 5,
+  "valueType": "numeric",
+  "tieredValue": null,
+  "valueDisplay": "5",
+  "range": {
+    "min": 3,
+    "max": 5,
+    "display": "3 - 5"
+  },
+  "score": 0.3619489559164733,
+  "scoreClass": "val-low",
+  "stability": "Underpaid For",
+  "demand": 1,
+  "rarity": 2,
+  "origin": "Classic Pet Box",
+  "difference": -2,
+  "percentageChange": -28.6,
+  "aliases": [
+    "Noble"
+  ],
+  "flippability": "Rarely Flippable",
+  "riseChance": 0,
+  "wikiLink": "Nobledragon",
+  "imageKey": "mm2pets/Nobledragon",
+  "className": "Legendary",
+  "isExp": true
+}

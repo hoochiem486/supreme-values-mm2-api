@@ -1,0 +1,28 @@
+{
+  "id": "godlies:makeshift",
+  "slug": "makeshift",
+  "name": "Makeshift",
+  "category": "godlies",
+  "value": 33,
+  "valueType": "numeric",
+  "tieredValue": null,
+  "valueDisplay": "33",
+  "range": null,
+  "score": 0.6960556844547564,
+  "scoreClass": "val-mid",
+  "stability": "Stable",
+  "demand": 1,
+  "rarity": 2,
+  "origin": "Halloween 2022 (Survivor)",
+  "difference": -2,
+  "percentageChange": -5.7,
+  "aliases": [
+    "MS"
+  ],
+  "flippability": "Rarely Flippable",
+  "riseChance": 5,
+  "wikiLink": "Makeshift",
+  "imageKey": "mm2godlies/Makeshift",
+  "className": null,
+  "isExp": true
+}

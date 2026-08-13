@@ -1,0 +1,28 @@
+{
+  "id": "sets:blizzard-set",
+  "slug": "blizzard-set",
+  "name": "Blizzard Set",
+  "category": "sets",
+  "value": 520,
+  "valueType": "numeric",
+  "tieredValue": null,
+  "valueDisplay": "520",
+  "range": null,
+  "score": 0.8839907192575406,
+  "scoreClass": "val-top",
+  "stability": "Stable",
+  "demand": 4,
+  "rarity": 3,
+  "origin": null,
+  "difference": 10,
+  "percentageChange": 2,
+  "aliases": [
+    "Blizz Set"
+  ],
+  "flippability": "Rarely Flippable",
+  "riseChance": 10,
+  "wikiLink": null,
+  "imageKey": "mm2godlies/Blizzard",
+  "className": null,
+  "isExp": true
+}

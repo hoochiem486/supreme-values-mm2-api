@@ -1,0 +1,28 @@
+{
+  "id": "sets:chroma-blizzard-set",
+  "slug": "chroma-blizzard-set",
+  "name": "Chroma Blizzard Set",
+  "category": "sets",
+  "value": 11750,
+  "valueType": "numeric",
+  "tieredValue": null,
+  "valueDisplay": "11,750",
+  "range": null,
+  "score": 0.9698375870069605,
+  "scoreClass": "val-top",
+  "stability": "Stable",
+  "demand": 5,
+  "rarity": 5,
+  "origin": null,
+  "difference": -250,
+  "percentageChange": -2.1,
+  "aliases": [
+    "CBlizz Set"
+  ],
+  "flippability": "Rarely Flippable",
+  "riseChance": 10,
+  "wikiLink": null,
+  "imageKey": "mm2chromas/CBZ",
+  "className": null,
+  "isExp": true
+}

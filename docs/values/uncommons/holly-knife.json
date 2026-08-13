@@ -1,0 +1,30 @@
+{
+  "id": "uncommons:holly-knife",
+  "slug": "holly-knife",
+  "name": "Holly (Knife)",
+  "category": "uncommons",
+  "value": null,
+  "valueType": "tiered-items",
+  "tieredValue": {
+    "quantity": 1,
+    "tier": 1,
+    "rarity": "rare"
+  },
+  "valueDisplay": "x1 T1 Rare",
+  "range": null,
+  "score": null,
+  "scoreClass": "val-sub1",
+  "stability": "Stable",
+  "demand": 1,
+  "rarity": 2,
+  "origin": "Christmas 2018 (Unboxed)",
+  "difference": null,
+  "percentageChange": null,
+  "aliases": [],
+  "flippability": null,
+  "riseChance": null,
+  "wikiLink": null,
+  "imageKey": "mm2uncommons/Holly_Knife",
+  "className": null,
+  "isExp": false
+}

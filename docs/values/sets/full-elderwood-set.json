@@ -1,0 +1,28 @@
+{
+  "id": "sets:full-elderwood-set",
+  "slug": "full-elderwood-set",
+  "name": "Full Elderwood Set",
+  "category": "sets",
+  "value": 104,
+  "valueType": "numeric",
+  "tieredValue": null,
+  "valueDisplay": "104",
+  "range": null,
+  "score": 0.8004640371229699,
+  "scoreClass": "val-mid",
+  "stability": "Stable",
+  "demand": 1,
+  "rarity": 2,
+  "origin": null,
+  "difference": -6,
+  "percentageChange": -5.5,
+  "aliases": [
+    "Full EW Set"
+  ],
+  "flippability": "Rarely Flippable",
+  "riseChance": 5,
+  "wikiLink": null,
+  "imageKey": "mm2godlies/Elderwood_Blade",
+  "className": null,
+  "isExp": true
+}

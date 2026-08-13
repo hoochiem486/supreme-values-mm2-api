@@ -1,0 +1,28 @@
+{
+  "id": "pets:zombie-dog",
+  "slug": "zombie-dog",
+  "name": "Zombie Dog",
+  "category": "pets",
+  "value": 750,
+  "valueType": "numeric",
+  "tieredValue": null,
+  "valueDisplay": "750",
+  "range": null,
+  "score": 0.8979118329466357,
+  "scoreClass": "val-top",
+  "stability": "Stable",
+  "demand": 4,
+  "rarity": 5,
+  "origin": "Halloween 2019 (Tier 25)",
+  "difference": -25,
+  "percentageChange": -3.2,
+  "aliases": [
+    "ZDog"
+  ],
+  "flippability": "Rarely Flippable",
+  "riseChance": 15,
+  "wikiLink": "Zombie_Dog",
+  "imageKey": "mm2pets/Zombie_Dog",
+  "className": "Common",
+  "isExp": true
+}

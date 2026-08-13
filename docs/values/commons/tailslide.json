@@ -1,0 +1,28 @@
+{
+  "id": "commons:tailslide",
+  "slug": "tailslide",
+  "name": "Tailslide",
+  "category": "commons",
+  "value": 7,
+  "valueType": "numeric",
+  "tieredValue": null,
+  "valueDisplay": "7",
+  "range": null,
+  "score": 0.41531322505800466,
+  "scoreClass": "val-mid",
+  "stability": "Stable",
+  "demand": 2,
+  "rarity": 3,
+  "origin": "Skate Item Pack (75 Coins)",
+  "difference": -1,
+  "percentageChange": -12.5,
+  "aliases": [
+    "TS"
+  ],
+  "flippability": "Rarely Flippable",
+  "riseChance": 5,
+  "wikiLink": "Tailslide",
+  "imageKey": "mm2commons/Tailslide",
+  "className": null,
+  "isExp": true
+}

@@ -1,0 +1,30 @@
+{
+  "id": "commons:love-2023",
+  "slug": "love-2023",
+  "name": "Love (2023)",
+  "category": "commons",
+  "value": null,
+  "valueType": "tiered-items",
+  "tieredValue": {
+    "quantity": 3,
+    "tier": 1,
+    "rarity": "uncommon"
+  },
+  "valueDisplay": "x3 T1 Uncommons",
+  "range": null,
+  "score": null,
+  "scoreClass": "val-sub1",
+  "stability": "Stable",
+  "demand": 2,
+  "rarity": 2,
+  "origin": "Valentine's 2023 (Tier 1)",
+  "difference": null,
+  "percentageChange": null,
+  "aliases": [],
+  "flippability": null,
+  "riseChance": null,
+  "wikiLink": null,
+  "imageKey": "mm2commons/Love_2023",
+  "className": null,
+  "isExp": false
+}

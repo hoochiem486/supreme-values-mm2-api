@@ -1,0 +1,28 @@
+{
+  "id": "ancients:logchopper",
+  "slug": "logchopper",
+  "name": "Logchopper",
+  "category": "ancients",
+  "value": 18,
+  "valueType": "numeric",
+  "tieredValue": null,
+  "valueDisplay": "18",
+  "range": null,
+  "score": 0.5870069605568445,
+  "scoreClass": "val-mid",
+  "stability": "Stable",
+  "demand": 1,
+  "rarity": 2,
+  "origin": "Christmas 2019 (Tier 30)",
+  "difference": -2,
+  "percentageChange": -10,
+  "aliases": [
+    "Log"
+  ],
+  "flippability": "Rarely Flippable",
+  "riseChance": 5,
+  "wikiLink": "Logchopper",
+  "imageKey": "mm2ancients/Logchopper",
+  "className": null,
+  "isExp": true
+}

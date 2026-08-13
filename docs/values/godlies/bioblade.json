@@ -1,0 +1,28 @@
+{
+  "id": "godlies:bioblade",
+  "slug": "bioblade",
+  "name": "Bioblade",
+  "category": "godlies",
+  "value": 8,
+  "valueType": "numeric",
+  "tieredValue": null,
+  "valueDisplay": "8",
+  "range": null,
+  "score": 0.4431554524361949,
+  "scoreClass": "val-mid",
+  "stability": "Stable",
+  "demand": 1,
+  "rarity": 2,
+  "origin": "Bioblade Item Pack",
+  "difference": -2,
+  "percentageChange": -20,
+  "aliases": [
+    "Bio"
+  ],
+  "flippability": "Rarely Flippable",
+  "riseChance": 5,
+  "wikiLink": "Bioblade",
+  "imageKey": "mm2godlies/Bioblade",
+  "className": null,
+  "isExp": true
+}

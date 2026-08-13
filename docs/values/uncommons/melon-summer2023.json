@@ -1,0 +1,30 @@
+{
+  "id": "uncommons:melon-summer2023",
+  "slug": "melon-summer2023",
+  "name": "Melon [SUMMER2023]",
+  "category": "uncommons",
+  "value": null,
+  "valueType": "tiered-items",
+  "tieredValue": {
+    "quantity": 1,
+    "tier": 1,
+    "rarity": "rare"
+  },
+  "valueDisplay": "x1 T1 Rare",
+  "range": null,
+  "score": null,
+  "scoreClass": "val-sub1",
+  "stability": "Stable",
+  "demand": 2,
+  "rarity": 2,
+  "origin": "Summer 2023 (Tier 7)",
+  "difference": null,
+  "percentageChange": null,
+  "aliases": [],
+  "flippability": null,
+  "riseChance": null,
+  "wikiLink": null,
+  "imageKey": "mm2uncommons/Melon_2023",
+  "className": null,
+  "isExp": false
+}

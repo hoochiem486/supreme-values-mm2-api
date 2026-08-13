@@ -1,0 +1,30 @@
+{
+  "id": "commons:stickers-knife-xmas2021",
+  "slug": "stickers-knife-xmas2021",
+  "name": "Stickers (Knife) [XMAS2021]",
+  "category": "commons",
+  "value": null,
+  "valueType": "tiered-items",
+  "tieredValue": {
+    "quantity": 2,
+    "tier": 1,
+    "rarity": "common"
+  },
+  "valueDisplay": "x2 T1 Commons",
+  "range": null,
+  "score": null,
+  "scoreClass": "val-sub1",
+  "stability": "Stable",
+  "demand": 1,
+  "rarity": 2,
+  "origin": "Christmas 2021 (Tier 2)",
+  "difference": null,
+  "percentageChange": null,
+  "aliases": [],
+  "flippability": null,
+  "riseChance": null,
+  "wikiLink": null,
+  "imageKey": "mm2commons/Stickers_Knife_Xmas",
+  "className": null,
+  "isExp": false
+}

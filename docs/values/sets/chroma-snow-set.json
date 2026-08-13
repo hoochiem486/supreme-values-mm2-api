@@ -1,0 +1,28 @@
+{
+  "id": "sets:chroma-snow-set",
+  "slug": "chroma-snow-set",
+  "name": "Chroma Snow Set",
+  "category": "sets",
+  "value": 11250,
+  "valueType": "numeric",
+  "tieredValue": null,
+  "valueDisplay": "11,250",
+  "range": null,
+  "score": 0.9698375870069605,
+  "scoreClass": "val-top",
+  "stability": "Stable",
+  "demand": 5,
+  "rarity": 5,
+  "origin": null,
+  "difference": -250,
+  "percentageChange": -2.2,
+  "aliases": [
+    "CSnow Set"
+  ],
+  "flippability": "Rarely Flippable",
+  "riseChance": 10,
+  "wikiLink": null,
+  "imageKey": "mm2chromas/CCannon",
+  "className": null,
+  "isExp": true
+}

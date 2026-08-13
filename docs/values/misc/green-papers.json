@@ -1,0 +1,29 @@
+{
+  "id": "misc:green-papers",
+  "slug": "green-papers",
+  "name": "Green Papers",
+  "category": "misc",
+  "value": 2,
+  "valueType": "numeric",
+  "tieredValue": null,
+  "valueDisplay": "2",
+  "range": null,
+  "score": 0.1554524361948956,
+  "scoreClass": "val-low",
+  "stability": "Stable",
+  "demand": 1,
+  "rarity": 3,
+  "origin": "Christmas 2016 (25 Gems)",
+  "difference": 0,
+  "percentageChange": null,
+  "aliases": [
+    "Box of Green Papers",
+    "Green Wrap"
+  ],
+  "flippability": null,
+  "riseChance": null,
+  "wikiLink": null,
+  "imageKey": "mm2misc/Green_Papers",
+  "className": null,
+  "isExp": false
+}

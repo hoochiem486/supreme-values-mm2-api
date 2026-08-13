@@ -1,0 +1,30 @@
+{
+  "id": "chromas:chroma-evergreen",
+  "slug": "chroma-evergreen",
+  "name": "Chroma Evergreen",
+  "category": "chromas",
+  "value": 48000,
+  "valueType": "numeric",
+  "tieredValue": null,
+  "valueDisplay": "48,000",
+  "range": null,
+  "score": 0.988399071925754,
+  "scoreClass": "val-top",
+  "stability": "Stable",
+  "demand": 7,
+  "rarity": 7,
+  "origin": "Christmas 2023 (Unboxed)",
+  "difference": -1000,
+  "percentageChange": -2,
+  "aliases": [
+    "CEvergreen",
+    "CEGreen",
+    "CEGR"
+  ],
+  "flippability": "Rarely Flippable",
+  "riseChance": 10,
+  "wikiLink": "Chroma_Evergreen",
+  "imageKey": "mm2chromas/CEvergreen",
+  "className": null,
+  "isExp": true
+}

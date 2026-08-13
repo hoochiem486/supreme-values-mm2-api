@@ -1,0 +1,29 @@
+{
+  "id": "misc:purple-papers",
+  "slug": "purple-papers",
+  "name": "Purple Papers",
+  "category": "misc",
+  "value": 2,
+  "valueType": "numeric",
+  "tieredValue": null,
+  "valueDisplay": "2",
+  "range": null,
+  "score": 0.1554524361948956,
+  "scoreClass": "val-low",
+  "stability": "Stable",
+  "demand": 1,
+  "rarity": 3,
+  "origin": "Christmas 2016 (100 Gems)",
+  "difference": -1,
+  "percentageChange": -33.3,
+  "aliases": [
+    "Box of Purple Papers",
+    "Purple Wrap"
+  ],
+  "flippability": null,
+  "riseChance": null,
+  "wikiLink": null,
+  "imageKey": "mm2misc/Purple_Papers",
+  "className": null,
+  "isExp": false
+}

@@ -1,0 +1,30 @@
+{
+  "id": "commons:stickers-thanksgiving2025",
+  "slug": "stickers-thanksgiving2025",
+  "name": "Stickers [THANKSGIVING2025]",
+  "category": "commons",
+  "value": null,
+  "valueType": "tiered-items",
+  "tieredValue": {
+    "quantity": 2,
+    "tier": 1,
+    "rarity": "common"
+  },
+  "valueDisplay": "x2 T1 Commons",
+  "range": null,
+  "score": null,
+  "scoreClass": "val-sub1",
+  "stability": "Stable",
+  "demand": 1,
+  "rarity": 1,
+  "origin": "Thanksgiving 2025 (1,000 Coins)",
+  "difference": null,
+  "percentageChange": null,
+  "aliases": [],
+  "flippability": null,
+  "riseChance": null,
+  "wikiLink": null,
+  "imageKey": "mm2commons/Stickers_2025_Thanksgiving",
+  "className": null,
+  "isExp": false
+}

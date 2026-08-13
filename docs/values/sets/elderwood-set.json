@@ -1,0 +1,28 @@
+{
+  "id": "sets:elderwood-set",
+  "slug": "elderwood-set",
+  "name": "Elderwood Set",
+  "category": "sets",
+  "value": 71,
+  "valueType": "numeric",
+  "tieredValue": null,
+  "valueDisplay": "71",
+  "range": null,
+  "score": 0.7819025522041764,
+  "scoreClass": "val-mid",
+  "stability": "Stable",
+  "demand": 1,
+  "rarity": 2,
+  "origin": null,
+  "difference": -4,
+  "percentageChange": -5.3,
+  "aliases": [
+    "EW Set"
+  ],
+  "flippability": "Rarely Flippable",
+  "riseChance": 5,
+  "wikiLink": null,
+  "imageKey": "mm2ancients/Elderwood_Scythe",
+  "className": null,
+  "isExp": true
+}

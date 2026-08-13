@@ -1,0 +1,29 @@
+{
+  "id": "chromas:chroma-snowstorm",
+  "slug": "chroma-snowstorm",
+  "name": "Chroma Snowstorm",
+  "category": "chromas",
+  "value": 4250,
+  "valueType": "numeric",
+  "tieredValue": null,
+  "valueDisplay": "4,250",
+  "range": null,
+  "score": 0.9582366589327146,
+  "scoreClass": "val-top",
+  "stability": "Stable",
+  "demand": 5,
+  "rarity": 5,
+  "origin": "Christmas 2025 (Item Pack)",
+  "difference": 50,
+  "percentageChange": 1.2,
+  "aliases": [
+    "CSnowstorm",
+    "CStorm"
+  ],
+  "flippability": "Rarely Flippable",
+  "riseChance": 10,
+  "wikiLink": "Chroma_Snowstorm",
+  "imageKey": "mm2chromas/CSnowstorm",
+  "className": null,
+  "isExp": true
+}

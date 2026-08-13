@@ -1,0 +1,30 @@
+{
+  "id": "uncommons:forest",
+  "slug": "forest",
+  "name": "Forest",
+  "category": "uncommons",
+  "value": null,
+  "valueType": "tiered-items",
+  "tieredValue": {
+    "quantity": 1,
+    "tier": 1,
+    "rarity": "rare"
+  },
+  "valueDisplay": "x1 T1 Rare",
+  "range": null,
+  "score": null,
+  "scoreClass": "val-sub1",
+  "stability": "Stable",
+  "demand": 2,
+  "rarity": 2,
+  "origin": "Christmas 2024 (Tier 8)",
+  "difference": null,
+  "percentageChange": null,
+  "aliases": [],
+  "flippability": null,
+  "riseChance": null,
+  "wikiLink": null,
+  "imageKey": "mm2uncommons/Forest",
+  "className": null,
+  "isExp": false
+}

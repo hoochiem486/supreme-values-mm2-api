@@ -1,0 +1,29 @@
+{
+  "id": "ancients:icewing",
+  "slug": "icewing",
+  "name": "Icewing",
+  "category": "ancients",
+  "value": 13,
+  "valueType": "numeric",
+  "tieredValue": null,
+  "valueDisplay": "13",
+  "range": null,
+  "score": 0.5359628770301624,
+  "scoreClass": "val-mid",
+  "stability": "Stable",
+  "demand": 2,
+  "rarity": 2,
+  "origin": "Christmas 2018 (Item Pack)",
+  "difference": -2,
+  "percentageChange": -13.3,
+  "aliases": [
+    "Icew",
+    "IW"
+  ],
+  "flippability": "Rarely Flippable",
+  "riseChance": 5,
+  "wikiLink": "Icewing",
+  "imageKey": "mm2ancients/Icewing",
+  "className": null,
+  "isExp": true
+}

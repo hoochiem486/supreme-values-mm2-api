@@ -1,0 +1,30 @@
+{
+  "id": "commons:candy-corn-gun-hallows2022",
+  "slug": "candy-corn-gun-hallows2022",
+  "name": "Candy Corn (Gun) [HALLOWS2022]",
+  "category": "commons",
+  "value": null,
+  "valueType": "tiered-items",
+  "tieredValue": {
+    "quantity": 3,
+    "tier": 1,
+    "rarity": "common"
+  },
+  "valueDisplay": "x3 T1 Commons",
+  "range": null,
+  "score": null,
+  "scoreClass": "val-sub1",
+  "stability": "Stable",
+  "demand": 2,
+  "rarity": 2,
+  "origin": "Halloween 2022 (Tier 3)",
+  "difference": null,
+  "percentageChange": null,
+  "aliases": [],
+  "flippability": null,
+  "riseChance": null,
+  "wikiLink": null,
+  "imageKey": "mm2commons/Candy_Corn_Gun_2022",
+  "className": null,
+  "isExp": false
+}

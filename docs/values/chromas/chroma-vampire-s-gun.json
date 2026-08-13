@@ -1,0 +1,30 @@
+{
+  "id": "chromas:chroma-vampire-s-gun",
+  "slug": "chroma-vampire-s-gun",
+  "name": "Chroma Vampire's Gun",
+  "category": "chromas",
+  "value": 29000,
+  "valueType": "numeric",
+  "tieredValue": null,
+  "valueDisplay": "29,000",
+  "range": null,
+  "score": 0.9837587006960556,
+  "scoreClass": "val-top",
+  "stability": "Stable",
+  "demand": 7,
+  "rarity": 6,
+  "origin": "Halloween 2024 (Unboxed)",
+  "difference": -1000,
+  "percentageChange": -3.3,
+  "aliases": [
+    "CVG",
+    "CVamp",
+    "CVampire"
+  ],
+  "flippability": "Rarely Flippable",
+  "riseChance": 10,
+  "wikiLink": "Chroma_Vampire%27s_Gun",
+  "imageKey": "mm2chromas/CVG",
+  "className": null,
+  "isExp": true
+}

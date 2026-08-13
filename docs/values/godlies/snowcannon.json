@@ -1,0 +1,28 @@
+{
+  "id": "godlies:snowcannon",
+  "slug": "snowcannon",
+  "name": "Snowcannon",
+  "category": "godlies",
+  "value": 850,
+  "valueType": "numeric",
+  "tieredValue": null,
+  "valueDisplay": "850",
+  "range": null,
+  "score": 0.9025522041763341,
+  "scoreClass": "val-top",
+  "stability": "Stable",
+  "demand": 5,
+  "rarity": 3,
+  "origin": "Christmas 2025 (Tier 30)",
+  "difference": 25,
+  "percentageChange": 3,
+  "aliases": [
+    "Cannon"
+  ],
+  "flippability": "Rarely Flippable",
+  "riseChance": 10,
+  "wikiLink": "Snowcannon",
+  "imageKey": "mm2godlies/Snowcannon",
+  "className": null,
+  "isExp": true
+}

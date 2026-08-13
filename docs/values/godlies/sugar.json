@@ -1,0 +1,28 @@
+{
+  "id": "godlies:sugar",
+  "slug": "sugar",
+  "name": "Sugar",
+  "category": "godlies",
+  "value": 32,
+  "valueType": "numeric",
+  "tieredValue": null,
+  "valueDisplay": "32",
+  "range": null,
+  "score": 0.679814385150812,
+  "scoreClass": "val-mid",
+  "stability": "Stable",
+  "demand": 1,
+  "rarity": 2,
+  "origin": "Christmas 2015 (Unboxed)",
+  "difference": -1,
+  "percentageChange": -3,
+  "aliases": [
+    "Sug"
+  ],
+  "flippability": "Rarely Flippable",
+  "riseChance": 5,
+  "wikiLink": "Sugar",
+  "imageKey": "mm2godlies/Sugar",
+  "className": null,
+  "isExp": true
+}

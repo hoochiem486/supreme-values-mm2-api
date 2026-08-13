@@ -1,0 +1,29 @@
+{
+  "id": "ancients:traveler-s-axe",
+  "slug": "traveler-s-axe",
+  "name": "Traveler's Axe",
+  "category": "ancients",
+  "value": 8100,
+  "valueType": "numeric",
+  "tieredValue": null,
+  "valueDisplay": "8,100",
+  "range": null,
+  "score": 0.9675174013921114,
+  "scoreClass": "val-top",
+  "stability": "Stable",
+  "demand": 5,
+  "rarity": 5,
+  "origin": "Halloween 2023 (Tier 30)",
+  "difference": -100,
+  "percentageChange": -1.2,
+  "aliases": [
+    "Trav Axe",
+    "TVA"
+  ],
+  "flippability": "Rarely Flippable",
+  "riseChance": 10,
+  "wikiLink": "Traveler%27s_Axe",
+  "imageKey": "mm2ancients/Travelers_Axe",
+  "className": null,
+  "isExp": true
+}

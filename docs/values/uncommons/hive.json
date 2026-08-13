@@ -1,0 +1,30 @@
+{
+  "id": "uncommons:hive",
+  "slug": "hive",
+  "name": "Hive",
+  "category": "uncommons",
+  "value": null,
+  "valueType": "tiered-items",
+  "tieredValue": {
+    "quantity": 4,
+    "tier": 1,
+    "rarity": "common"
+  },
+  "valueDisplay": "x4 T1 Commons",
+  "range": null,
+  "score": null,
+  "scoreClass": "val-sub1",
+  "stability": "Stable",
+  "demand": 1,
+  "rarity": 1,
+  "origin": "Knife Box #4",
+  "difference": null,
+  "percentageChange": null,
+  "aliases": [],
+  "flippability": null,
+  "riseChance": null,
+  "wikiLink": null,
+  "imageKey": "mm2uncommons/Hive",
+  "className": null,
+  "isExp": false
+}

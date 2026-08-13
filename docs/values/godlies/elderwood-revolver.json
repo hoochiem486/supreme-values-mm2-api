@@ -1,0 +1,29 @@
+{
+  "id": "godlies:elderwood-revolver",
+  "slug": "elderwood-revolver",
+  "name": "Elderwood Revolver",
+  "category": "godlies",
+  "value": 33,
+  "valueType": "numeric",
+  "tieredValue": null,
+  "valueDisplay": "33",
+  "range": null,
+  "score": 0.6960556844547564,
+  "scoreClass": "val-mid",
+  "stability": "Stable",
+  "demand": 1,
+  "rarity": 2,
+  "origin": "Halloween 2019 (Unboxed)",
+  "difference": -2,
+  "percentageChange": -5.7,
+  "aliases": [
+    "EWG",
+    "EW Rev"
+  ],
+  "flippability": "Rarely Flippable",
+  "riseChance": 5,
+  "wikiLink": "Elderwood_Revolver",
+  "imageKey": "mm2godlies/Elderwood_Revolver",
+  "className": null,
+  "isExp": true
+}

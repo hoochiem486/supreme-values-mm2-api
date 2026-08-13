@@ -1,0 +1,29 @@
+{
+  "id": "godlies:elderwood-blade",
+  "slug": "elderwood-blade",
+  "name": "Elderwood Blade",
+  "category": "godlies",
+  "value": 33,
+  "valueType": "numeric",
+  "tieredValue": null,
+  "valueDisplay": "33",
+  "range": null,
+  "score": 0.6960556844547564,
+  "scoreClass": "val-mid",
+  "stability": "Stable",
+  "demand": 1,
+  "rarity": 2,
+  "origin": "Halloween 2022 (Unboxed)",
+  "difference": -2,
+  "percentageChange": -5.7,
+  "aliases": [
+    "EWB",
+    "EW Blade"
+  ],
+  "flippability": "Rarely Flippable",
+  "riseChance": 5,
+  "wikiLink": "Elderwood_Blade",
+  "imageKey": "mm2godlies/Elderwood_Blade",
+  "className": null,
+  "isExp": true
+}

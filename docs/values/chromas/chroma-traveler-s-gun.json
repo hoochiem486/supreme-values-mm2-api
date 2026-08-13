@@ -1,0 +1,30 @@
+{
+  "id": "chromas:chroma-traveler-s-gun",
+  "slug": "chroma-traveler-s-gun",
+  "name": "Chroma Traveler's Gun",
+  "category": "chromas",
+  "value": 220000,
+  "valueType": "numeric",
+  "tieredValue": null,
+  "valueDisplay": "220,000",
+  "range": null,
+  "score": 0.9930394431554525,
+  "scoreClass": "val-top",
+  "stability": "Stable",
+  "demand": 9,
+  "rarity": 10,
+  "origin": "Halloween 2023 (Unboxed)",
+  "difference": -5000,
+  "percentageChange": -2.2,
+  "aliases": [
+    "CTG",
+    "CTVG",
+    "CTrav"
+  ],
+  "flippability": "Flippable",
+  "riseChance": 15,
+  "wikiLink": "Chroma_Traveler%27s_Gun",
+  "imageKey": "mm2chromas/CTG",
+  "className": null,
+  "isExp": true
+}

@@ -1,0 +1,30 @@
+{
+  "id": "legendaries:frozen-knife",
+  "slug": "frozen-knife",
+  "name": "Frozen (Knife)",
+  "category": "legendaries",
+  "value": null,
+  "valueType": "tiered-items",
+  "tieredValue": {
+    "quantity": 3,
+    "tier": 1,
+    "rarity": "legendary"
+  },
+  "valueDisplay": "x3 T1 Legendaries",
+  "range": null,
+  "score": null,
+  "scoreClass": "val-sub1",
+  "stability": "Stable",
+  "demand": 2,
+  "rarity": 2,
+  "origin": "Christmas 2025 (Unboxed)",
+  "difference": null,
+  "percentageChange": null,
+  "aliases": [],
+  "flippability": "Flippable",
+  "riseChance": null,
+  "wikiLink": "Frozen_Knife_(2025)",
+  "imageKey": "mm2legendaries/Frozen_Knife",
+  "className": null,
+  "isExp": false
+}

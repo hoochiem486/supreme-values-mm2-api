@@ -1,0 +1,28 @@
+{
+  "id": "commons:sparkle9",
+  "slug": "sparkle9",
+  "name": "Sparkle9",
+  "category": "commons",
+  "value": 30,
+  "valueType": "numeric",
+  "tieredValue": null,
+  "valueDisplay": "30",
+  "range": null,
+  "score": 0.6635730858468677,
+  "scoreClass": "val-mid",
+  "stability": "Stable",
+  "demand": 2,
+  "rarity": 3,
+  "origin": "Sparkle Time Item Pack (200 Coins)",
+  "difference": 0,
+  "percentageChange": null,
+  "aliases": [
+    "S9"
+  ],
+  "flippability": "Rarely Flippable",
+  "riseChance": 5,
+  "wikiLink": "Sparkle9",
+  "imageKey": "mm2commons/Sparkle9",
+  "className": null,
+  "isExp": true
+}

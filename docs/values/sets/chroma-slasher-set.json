@@ -1,0 +1,29 @@
+{
+  "id": "sets:chroma-slasher-set",
+  "slug": "chroma-slasher-set",
+  "name": "Chroma Slasher Set",
+  "category": "sets",
+  "value": 72,
+  "valueType": "numeric",
+  "tieredValue": null,
+  "valueDisplay": "72",
+  "range": null,
+  "score": 0.7819025522041764,
+  "scoreClass": "val-mid",
+  "stability": "Stable",
+  "demand": 1,
+  "rarity": 2,
+  "origin": null,
+  "difference": -1,
+  "percentageChange": -1.4,
+  "aliases": [
+    "CSlasher Set",
+    "CSlash Set"
+  ],
+  "flippability": "Rarely Flippable",
+  "riseChance": 5,
+  "wikiLink": null,
+  "imageKey": "mm2chromas/CSlasher",
+  "className": null,
+  "isExp": true
+}

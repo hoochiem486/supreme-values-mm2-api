@@ -1,0 +1,30 @@
+{
+  "id": "commons:present-2023",
+  "slug": "present-2023",
+  "name": "Present (2023)",
+  "category": "commons",
+  "value": null,
+  "valueType": "tiered-items",
+  "tieredValue": {
+    "quantity": 3,
+    "tier": 1,
+    "rarity": "common"
+  },
+  "valueDisplay": "x3 T1 Commons",
+  "range": null,
+  "score": null,
+  "scoreClass": "val-sub1",
+  "stability": "Stable",
+  "demand": 2,
+  "rarity": 2,
+  "origin": "Christmas 2023 (Tier 4)",
+  "difference": null,
+  "percentageChange": null,
+  "aliases": [],
+  "flippability": null,
+  "riseChance": null,
+  "wikiLink": null,
+  "imageKey": "mm2commons/Present_Knife",
+  "className": null,
+  "isExp": false
+}

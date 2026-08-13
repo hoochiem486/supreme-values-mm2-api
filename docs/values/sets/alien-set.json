@@ -1,0 +1,30 @@
+{
+  "id": "sets:alien-set",
+  "slug": "alien-set",
+  "name": "Alien Set",
+  "category": "sets",
+  "value": 3625,
+  "valueType": "numeric",
+  "tieredValue": null,
+  "valueDisplay": "3,625",
+  "range": {
+    "min": 3625,
+    "max": 3725,
+    "display": "3,625 - 3,725"
+  },
+  "score": 0.9535962877030162,
+  "scoreClass": "val-top",
+  "stability": "Overpaid For",
+  "demand": 6,
+  "rarity": 4,
+  "origin": null,
+  "difference": 100,
+  "percentageChange": 2.8,
+  "aliases": [],
+  "flippability": "Highly Flippable",
+  "riseChance": 60,
+  "wikiLink": null,
+  "imageKey": "mm2godlies/Alienbeam",
+  "className": null,
+  "isExp": true
+}

@@ -1,0 +1,30 @@
+{
+  "id": "uncommons:steel-knife",
+  "slug": "steel-knife",
+  "name": "Steel (Knife)",
+  "category": "uncommons",
+  "value": null,
+  "valueType": "tiered-items",
+  "tieredValue": {
+    "quantity": 2,
+    "tier": 1,
+    "rarity": "legendary"
+  },
+  "valueDisplay": "x2 T1 Legendaries",
+  "range": null,
+  "score": null,
+  "scoreClass": "val-sub1",
+  "stability": "Stable",
+  "demand": 2,
+  "rarity": 2,
+  "origin": "Halloween 2023 (Unboxed)",
+  "difference": null,
+  "percentageChange": null,
+  "aliases": [],
+  "flippability": null,
+  "riseChance": null,
+  "wikiLink": null,
+  "imageKey": "mm2uncommons/Steel_Knife",
+  "className": null,
+  "isExp": false
+}

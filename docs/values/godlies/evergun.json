@@ -1,0 +1,28 @@
+{
+  "id": "godlies:evergun",
+  "slug": "evergun",
+  "name": "Evergun",
+  "category": "godlies",
+  "value": 3450,
+  "valueType": "numeric",
+  "tieredValue": null,
+  "valueDisplay": "3,450",
+  "range": null,
+  "score": 0.951276102088167,
+  "scoreClass": "val-top",
+  "stability": "Stable",
+  "demand": 5,
+  "rarity": 4,
+  "origin": "Christmas 2023 (Gifting 100 Gifts)",
+  "difference": -25,
+  "percentageChange": -0.7,
+  "aliases": [
+    "EGun"
+  ],
+  "flippability": "Rarely Flippable",
+  "riseChance": 10,
+  "wikiLink": "Evergun",
+  "imageKey": "mm2godlies/Evergun",
+  "className": null,
+  "isExp": true
+}

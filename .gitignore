@@ -5,3 +5,5 @@ data/browser-profile/
 data/cache.json
 data/cache.json.tmp
 npm-debug.log*
+docs.next/
+docs.previous/

@@ -1,0 +1,32 @@
+{
+  "id": "pets:vampire-bat",
+  "slug": "vampire-bat",
+  "name": "Vampire Bat",
+  "category": "pets",
+  "value": 3,
+  "valueType": "numeric",
+  "tieredValue": null,
+  "valueDisplay": "3",
+  "range": {
+    "min": 2,
+    "max": 3,
+    "display": "2 - 3"
+  },
+  "score": 0.2877030162412993,
+  "scoreClass": "val-low",
+  "stability": "Underpaid For",
+  "demand": 1,
+  "rarity": 2,
+  "origin": "Halloween 2019 (Tier 31)",
+  "difference": -1,
+  "percentageChange": -25,
+  "aliases": [
+    "Vamp Bat"
+  ],
+  "flippability": "Rarely Flippable",
+  "riseChance": 0,
+  "wikiLink": "Vampire_Bat",
+  "imageKey": "mm2pets/Vampire_Bat",
+  "className": "Legendary",
+  "isExp": true
+}

@@ -1,0 +1,29 @@
+{
+  "id": "chromas:chroma-snowcannon",
+  "slug": "chroma-snowcannon",
+  "name": "Chroma Snowcannon",
+  "category": "chromas",
+  "value": 7750,
+  "valueType": "numeric",
+  "tieredValue": null,
+  "valueDisplay": "7,750",
+  "range": null,
+  "score": 0.9651972157772621,
+  "scoreClass": "val-top",
+  "stability": "Stable",
+  "demand": 5,
+  "rarity": 5,
+  "origin": "Christmas 2025 (Tier 30)",
+  "difference": -250,
+  "percentageChange": -3.1,
+  "aliases": [
+    "CCannon",
+    "CSC"
+  ],
+  "flippability": "Rarely Flippable",
+  "riseChance": 10,
+  "wikiLink": "Chroma_Snowcannon",
+  "imageKey": "mm2chromas/CCannon",
+  "className": null,
+  "isExp": true
+}

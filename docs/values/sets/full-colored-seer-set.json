@@ -1,0 +1,28 @@
+{
+  "id": "sets:full-colored-seer-set",
+  "slug": "full-colored-seer-set",
+  "name": "Full Colored Seer Set",
+  "category": "sets",
+  "value": 44,
+  "valueType": "numeric",
+  "tieredValue": null,
+  "valueDisplay": "44",
+  "range": null,
+  "score": 0.7378190255220418,
+  "scoreClass": "val-mid",
+  "stability": "Stable",
+  "demand": 1,
+  "rarity": 2,
+  "origin": null,
+  "difference": -2,
+  "percentageChange": -4.3,
+  "aliases": [
+    "Full Seer Set"
+  ],
+  "flippability": "Rarely Flippable",
+  "riseChance": 5,
+  "wikiLink": null,
+  "imageKey": "mm2chromas/CSeer",
+  "className": null,
+  "isExp": true
+}

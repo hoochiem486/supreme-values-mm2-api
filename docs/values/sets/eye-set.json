@@ -1,0 +1,32 @@
+{
+  "id": "sets:eye-set",
+  "slug": "eye-set",
+  "name": "Eye Set",
+  "category": "sets",
+  "value": 6,
+  "valueType": "numeric",
+  "tieredValue": null,
+  "valueDisplay": "6",
+  "range": {
+    "min": 4,
+    "max": 6,
+    "display": "4 - 6"
+  },
+  "score": 0.3665893271461717,
+  "scoreClass": "val-low",
+  "stability": "Underpaid For",
+  "demand": 1,
+  "rarity": 2,
+  "origin": null,
+  "difference": -2,
+  "percentageChange": -25,
+  "aliases": [
+    "Eyeball Set"
+  ],
+  "flippability": "Rarely Flippable",
+  "riseChance": 0,
+  "wikiLink": null,
+  "imageKey": "mm2pets/Overseer_Eye",
+  "className": null,
+  "isExp": true
+}

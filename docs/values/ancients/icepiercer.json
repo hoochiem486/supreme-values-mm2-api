@@ -1,0 +1,28 @@
+{
+  "id": "ancients:icepiercer",
+  "slug": "icepiercer",
+  "name": "Icepiercer",
+  "category": "ancients",
+  "value": 160,
+  "valueType": "numeric",
+  "tieredValue": null,
+  "valueDisplay": "160",
+  "range": null,
+  "score": 0.8352668213457076,
+  "scoreClass": "val-mid",
+  "stability": "Stable",
+  "demand": 3,
+  "rarity": 2,
+  "origin": "Christmas 2022 (Tier 20)",
+  "difference": -10,
+  "percentageChange": -5.9,
+  "aliases": [
+    "Icep"
+  ],
+  "flippability": "Rarely Flippable",
+  "riseChance": 5,
+  "wikiLink": "Icepiercer",
+  "imageKey": "mm2ancients/Icepiercer",
+  "className": null,
+  "isExp": true
+}

@@ -1,0 +1,28 @@
+{
+  "id": "godlies:blizzard",
+  "slug": "blizzard",
+  "name": "Blizzard",
+  "category": "godlies",
+  "value": 260,
+  "valueType": "numeric",
+  "tieredValue": null,
+  "valueDisplay": "260",
+  "range": null,
+  "score": 0.8584686774941995,
+  "scoreClass": "val-top",
+  "stability": "Stable",
+  "demand": 4,
+  "rarity": 3,
+  "origin": "Christmas 2025 (Item Pack)",
+  "difference": 5,
+  "percentageChange": 2,
+  "aliases": [
+    "Blizz"
+  ],
+  "flippability": "Rarely Flippable",
+  "riseChance": 10,
+  "wikiLink": "Blizzard",
+  "imageKey": "mm2godlies/Blizzard",
+  "className": null,
+  "isExp": true
+}

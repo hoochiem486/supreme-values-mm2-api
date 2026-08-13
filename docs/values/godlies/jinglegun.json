@@ -1,0 +1,28 @@
+{
+  "id": "godlies:jinglegun",
+  "slug": "jinglegun",
+  "name": "Jinglegun",
+  "category": "godlies",
+  "value": 13,
+  "valueType": "numeric",
+  "tieredValue": null,
+  "valueDisplay": "13",
+  "range": null,
+  "score": 0.5359628770301624,
+  "scoreClass": "val-mid",
+  "stability": "Stable",
+  "demand": 1,
+  "rarity": 2,
+  "origin": "Christmas 2020 (Gifting 100 Gifts)",
+  "difference": -2,
+  "percentageChange": -13.3,
+  "aliases": [
+    "Jingle"
+  ],
+  "flippability": "Rarely Flippable",
+  "riseChance": 5,
+  "wikiLink": "Jinglegun",
+  "imageKey": "mm2godlies/Jinglegun",
+  "className": null,
+  "isExp": true
+}

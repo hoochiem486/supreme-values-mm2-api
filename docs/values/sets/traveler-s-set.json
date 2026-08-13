@@ -1,0 +1,28 @@
+{
+  "id": "sets:traveler-s-set",
+  "slug": "traveler-s-set",
+  "name": "Traveler's Set",
+  "category": "sets",
+  "value": 13700,
+  "valueType": "numeric",
+  "tieredValue": null,
+  "valueDisplay": "13,700",
+  "range": null,
+  "score": 0.974477958236659,
+  "scoreClass": "val-top",
+  "stability": "Stable",
+  "demand": 5,
+  "rarity": 5,
+  "origin": null,
+  "difference": 100,
+  "percentageChange": 0.7,
+  "aliases": [
+    "Trav Set"
+  ],
+  "flippability": "Rarely Flippable",
+  "riseChance": 10,
+  "wikiLink": null,
+  "imageKey": "mm2ancients/Travelers_Axe",
+  "className": null,
+  "isExp": true
+}

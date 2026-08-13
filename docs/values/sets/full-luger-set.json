@@ -1,0 +1,28 @@
+{
+  "id": "sets:full-luger-set",
+  "slug": "full-luger-set",
+  "name": "Full Luger Set",
+  "category": "sets",
+  "value": 180,
+  "valueType": "numeric",
+  "tieredValue": null,
+  "valueDisplay": "180",
+  "range": null,
+  "score": 0.8352668213457076,
+  "scoreClass": "val-mid",
+  "stability": "Stable",
+  "demand": 1,
+  "rarity": 2,
+  "origin": null,
+  "difference": -1,
+  "percentageChange": -0.6,
+  "aliases": [
+    "Full Lug Set"
+  ],
+  "flippability": "Rarely Flippable",
+  "riseChance": 5,
+  "wikiLink": null,
+  "imageKey": "mm2chromas/CLuger",
+  "className": null,
+  "isExp": true
+}

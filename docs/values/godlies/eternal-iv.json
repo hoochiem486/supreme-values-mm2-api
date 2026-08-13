@@ -1,0 +1,28 @@
+{
+  "id": "godlies:eternal-iv",
+  "slug": "eternal-iv",
+  "name": "Eternal IV",
+  "category": "godlies",
+  "value": 8,
+  "valueType": "numeric",
+  "tieredValue": null,
+  "valueDisplay": "8",
+  "range": null,
+  "score": 0.4431554524361949,
+  "scoreClass": "val-mid",
+  "stability": "Stable",
+  "demand": 1,
+  "rarity": 2,
+  "origin": "MM2 Shop Promo",
+  "difference": -2,
+  "percentageChange": -20,
+  "aliases": [
+    "E4"
+  ],
+  "flippability": "Rarely Flippable",
+  "riseChance": 5,
+  "wikiLink": "Eternal_IV",
+  "imageKey": "mm2godlies/Eternal4",
+  "className": null,
+  "isExp": true
+}

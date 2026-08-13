@@ -1,0 +1,30 @@
+{
+  "id": "commons:snowman-knife-xmas2022",
+  "slug": "snowman-knife-xmas2022",
+  "name": "Snowman (Knife) [XMAS2022]",
+  "category": "commons",
+  "value": null,
+  "valueType": "tiered-items",
+  "tieredValue": {
+    "quantity": 2,
+    "tier": 1,
+    "rarity": "common"
+  },
+  "valueDisplay": "x2 T1 Commons",
+  "range": null,
+  "score": null,
+  "scoreClass": "val-sub1",
+  "stability": "Stable",
+  "demand": 1,
+  "rarity": 2,
+  "origin": "Christmas 2022 (Unboxed)",
+  "difference": null,
+  "percentageChange": null,
+  "aliases": [],
+  "flippability": null,
+  "riseChance": null,
+  "wikiLink": null,
+  "imageKey": "mm2commons/Snowman_Knife_2022",
+  "className": null,
+  "isExp": false
+}

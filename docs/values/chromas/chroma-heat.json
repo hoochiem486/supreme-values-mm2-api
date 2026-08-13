@@ -1,0 +1,28 @@
+{
+  "id": "chromas:chroma-heat",
+  "slug": "chroma-heat",
+  "name": "Chroma Heat",
+  "category": "chromas",
+  "value": 28,
+  "valueType": "numeric",
+  "tieredValue": null,
+  "valueDisplay": "28",
+  "range": null,
+  "score": 0.6519721577726219,
+  "scoreClass": "val-mid",
+  "stability": "Stable",
+  "demand": 1,
+  "rarity": 2,
+  "origin": "Rainbow Box",
+  "difference": -2,
+  "percentageChange": -6.7,
+  "aliases": [
+    "CHeat"
+  ],
+  "flippability": "Rarely Flippable",
+  "riseChance": 5,
+  "wikiLink": "Chroma_Heat",
+  "imageKey": "mm2chromas/CHeat",
+  "className": null,
+  "isExp": true
+}

@@ -1,0 +1,28 @@
+{
+  "id": "chromas:chroma-gingerblade",
+  "slug": "chroma-gingerblade",
+  "name": "Chroma Gingerblade",
+  "category": "chromas",
+  "value": 27,
+  "valueType": "numeric",
+  "tieredValue": null,
+  "valueDisplay": "27",
+  "range": null,
+  "score": 0.6450116009280742,
+  "scoreClass": "val-mid",
+  "stability": "Stable",
+  "demand": 1,
+  "rarity": 2,
+  "origin": "Christmas 2018 (Unboxed)",
+  "difference": -1,
+  "percentageChange": -3.6,
+  "aliases": [
+    "CGB"
+  ],
+  "flippability": "Rarely Flippable",
+  "riseChance": 5,
+  "wikiLink": "Chroma_Gingerblade",
+  "imageKey": "mm2chromas/CGB",
+  "className": null,
+  "isExp": true
+}

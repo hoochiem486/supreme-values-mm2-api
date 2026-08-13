@@ -1,0 +1,30 @@
+{
+  "id": "godlies:bat",
+  "slug": "bat",
+  "name": "Bat",
+  "category": "godlies",
+  "value": 120,
+  "valueType": "numeric",
+  "tieredValue": null,
+  "valueDisplay": "120",
+  "range": {
+    "min": 115,
+    "max": 125,
+    "display": "115 - 125"
+  },
+  "score": 0.8074245939675174,
+  "scoreClass": "val-mid",
+  "stability": "Fluctuating",
+  "demand": 2,
+  "rarity": 2,
+  "origin": "Halloween 2022 (Zombie, Tier 20)",
+  "difference": -5,
+  "percentageChange": -4,
+  "aliases": [],
+  "flippability": "Flippable",
+  "riseChance": 5,
+  "wikiLink": "Bat",
+  "imageKey": "mm2godlies/Bat",
+  "className": null,
+  "isExp": true
+}

@@ -1,0 +1,30 @@
+{
+  "id": "rares:spearmint-knife",
+  "slug": "spearmint-knife",
+  "name": "Spearmint (Knife)",
+  "category": "rares",
+  "value": null,
+  "valueType": "tiered-items",
+  "tieredValue": {
+    "quantity": 2,
+    "tier": 1,
+    "rarity": "rare"
+  },
+  "valueDisplay": "x2 T1 Rares",
+  "range": null,
+  "score": null,
+  "scoreClass": "val-sub1",
+  "stability": "Stable",
+  "demand": 1,
+  "rarity": 1,
+  "origin": "Christmas 2025 (Unboxed)",
+  "difference": null,
+  "percentageChange": null,
+  "aliases": [],
+  "flippability": "Rarely Flippable",
+  "riseChance": null,
+  "wikiLink": null,
+  "imageKey": "mm2rares/Spearmint_Knife",
+  "className": null,
+  "isExp": false
+}

@@ -1,0 +1,32 @@
+{
+  "id": "chromas:chroma-fire-fox",
+  "slug": "chroma-fire-fox",
+  "name": "Chroma Fire Fox",
+  "category": "chromas",
+  "value": 3,
+  "valueType": "numeric",
+  "tieredValue": null,
+  "valueDisplay": "3",
+  "range": {
+    "min": 2,
+    "max": 3,
+    "display": "2 - 3"
+  },
+  "score": 0.2877030162412993,
+  "scoreClass": "val-low",
+  "stability": "Underpaid For",
+  "demand": 1,
+  "rarity": 2,
+  "origin": "Season 1 Pet Egg",
+  "difference": -1,
+  "percentageChange": -25,
+  "aliases": [
+    "CFox"
+  ],
+  "flippability": "Rarely Flippable",
+  "riseChance": 0,
+  "wikiLink": "Chroma_Fire_Fox",
+  "imageKey": "mm2chromas/CFox",
+  "className": null,
+  "isExp": true
+}

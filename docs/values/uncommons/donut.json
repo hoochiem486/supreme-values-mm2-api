@@ -1,0 +1,30 @@
+{
+  "id": "uncommons:donut",
+  "slug": "donut",
+  "name": "Donut",
+  "category": "uncommons",
+  "value": null,
+  "valueType": "tiered-items",
+  "tieredValue": {
+    "quantity": 2,
+    "tier": 1,
+    "rarity": "uncommon"
+  },
+  "valueDisplay": "x2 T1 Uncommons",
+  "range": null,
+  "score": null,
+  "scoreClass": "val-sub1",
+  "stability": "Stable",
+  "demand": 1,
+  "rarity": 2,
+  "origin": "Crafting",
+  "difference": null,
+  "percentageChange": null,
+  "aliases": [],
+  "flippability": null,
+  "riseChance": null,
+  "wikiLink": null,
+  "imageKey": "mm2uncommons/Donut",
+  "className": null,
+  "isExp": false
+}

@@ -1,0 +1,30 @@
+{
+  "id": "commons:candy-corn-knife-hallows2025",
+  "slug": "candy-corn-knife-hallows2025",
+  "name": "Candy Corn (Knife) [HALLOWS2025]",
+  "category": "commons",
+  "value": null,
+  "valueType": "tiered-items",
+  "tieredValue": {
+    "quantity": 2,
+    "tier": 1,
+    "rarity": "common"
+  },
+  "valueDisplay": "x2 T1 Commons",
+  "range": null,
+  "score": null,
+  "scoreClass": "val-sub1",
+  "stability": "Stable",
+  "demand": 1,
+  "rarity": 1,
+  "origin": "Halloween 2025 (Unboxed)",
+  "difference": null,
+  "percentageChange": null,
+  "aliases": [],
+  "flippability": null,
+  "riseChance": null,
+  "wikiLink": null,
+  "imageKey": "mm2commons/Candy_Corn_Knife_2025",
+  "className": null,
+  "isExp": false
+}

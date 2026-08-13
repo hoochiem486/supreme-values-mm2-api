@@ -1,0 +1,30 @@
+{
+  "id": "sets:bat-set",
+  "slug": "bat-set",
+  "name": "Bat Set",
+  "category": "sets",
+  "value": 153,
+  "valueType": "numeric",
+  "tieredValue": null,
+  "valueDisplay": "153",
+  "range": {
+    "min": 148,
+    "max": 158,
+    "display": "148 - 158"
+  },
+  "score": 0.8306264501160093,
+  "scoreClass": "val-mid",
+  "stability": "Fluctuating",
+  "demand": 2,
+  "rarity": 2,
+  "origin": null,
+  "difference": -2,
+  "percentageChange": -1.3,
+  "aliases": [],
+  "flippability": "Flippable",
+  "riseChance": 5,
+  "wikiLink": null,
+  "imageKey": "mm2godlies/Bat",
+  "className": null,
+  "isExp": true
+}

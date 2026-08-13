@@ -1,0 +1,33 @@
+{
+  "id": "godlies:raygun",
+  "slug": "raygun",
+  "name": "Raygun",
+  "category": "godlies",
+  "value": 1700,
+  "valueType": "numeric",
+  "tieredValue": null,
+  "valueDisplay": "1,700",
+  "range": {
+    "min": 1700,
+    "max": 1750,
+    "display": "1,700 - 1,750"
+  },
+  "score": 0.91415313225058,
+  "scoreClass": "val-top",
+  "stability": "Overpaid For",
+  "demand": 6,
+  "rarity": 3,
+  "origin": "Halloween 2025 (Tier 25)",
+  "difference": 50,
+  "percentageChange": 3,
+  "aliases": [
+    "RG",
+    "Ray"
+  ],
+  "flippability": "Highly Flippable",
+  "riseChance": 60,
+  "wikiLink": "Raygun",
+  "imageKey": "mm2godlies/Raygun",
+  "className": null,
+  "isExp": true
+}

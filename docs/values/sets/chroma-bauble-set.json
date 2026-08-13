@@ -1,0 +1,29 @@
+{
+  "id": "sets:chroma-bauble-set",
+  "slug": "chroma-bauble-set",
+  "name": "Chroma Bauble Set",
+  "category": "sets",
+  "value": 35800,
+  "valueType": "numeric",
+  "tieredValue": null,
+  "valueDisplay": "35,800",
+  "range": null,
+  "score": 0.9860788863109049,
+  "scoreClass": "val-top",
+  "stability": "Stable",
+  "demand": 7,
+  "rarity": 6,
+  "origin": null,
+  "difference": -1000,
+  "percentageChange": -2.7,
+  "aliases": [
+    "CBauble Set",
+    "CBaub Set"
+  ],
+  "flippability": "Rarely Flippable",
+  "riseChance": 10,
+  "wikiLink": null,
+  "imageKey": "mm2chromas/CBaub",
+  "className": null,
+  "isExp": true
+}

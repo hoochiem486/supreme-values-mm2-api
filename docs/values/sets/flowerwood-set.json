@@ -1,0 +1,29 @@
+{
+  "id": "sets:flowerwood-set",
+  "slug": "flowerwood-set",
+  "name": "Flowerwood Set",
+  "category": "sets",
+  "value": 525,
+  "valueType": "numeric",
+  "tieredValue": null,
+  "valueDisplay": "525",
+  "range": null,
+  "score": 0.8839907192575406,
+  "scoreClass": "val-top",
+  "stability": "Stable",
+  "demand": 4,
+  "rarity": 3,
+  "origin": null,
+  "difference": 10,
+  "percentageChange": 1.9,
+  "aliases": [
+    "FW Set",
+    "FWood Set"
+  ],
+  "flippability": "Rarely Flippable",
+  "riseChance": 10,
+  "wikiLink": null,
+  "imageKey": "mm2godlies/Flowerwood",
+  "className": null,
+  "isExp": true
+}

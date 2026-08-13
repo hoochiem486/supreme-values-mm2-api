@@ -1,0 +1,28 @@
+{
+  "id": "chromas:chroma-boneblade",
+  "slug": "chroma-boneblade",
+  "name": "Chroma Boneblade",
+  "category": "chromas",
+  "value": 22,
+  "valueType": "numeric",
+  "tieredValue": null,
+  "valueDisplay": "22",
+  "range": null,
+  "score": 0.6241299303944315,
+  "scoreClass": "val-mid",
+  "stability": "Stable",
+  "demand": 1,
+  "rarity": 2,
+  "origin": "Halloween 2018 (Unboxed)",
+  "difference": -3,
+  "percentageChange": -12,
+  "aliases": [
+    "CBB"
+  ],
+  "flippability": "Rarely Flippable",
+  "riseChance": 5,
+  "wikiLink": "Chroma_Boneblade",
+  "imageKey": "mm2chromas/CBB",
+  "className": null,
+  "isExp": true
+}

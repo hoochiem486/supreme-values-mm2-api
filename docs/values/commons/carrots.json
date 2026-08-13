@@ -1,0 +1,30 @@
+{
+  "id": "commons:carrots",
+  "slug": "carrots",
+  "name": "Carrots",
+  "category": "commons",
+  "value": null,
+  "valueType": "tiered-items",
+  "tieredValue": {
+    "quantity": 3,
+    "tier": 1,
+    "rarity": "common"
+  },
+  "valueDisplay": "x3 T1 Commons",
+  "range": null,
+  "score": null,
+  "scoreClass": "val-sub1",
+  "stability": "Stable",
+  "demand": 1,
+  "rarity": 1,
+  "origin": "Easter 2025 (Tier 1)",
+  "difference": null,
+  "percentageChange": null,
+  "aliases": [],
+  "flippability": null,
+  "riseChance": null,
+  "wikiLink": null,
+  "imageKey": "mm2commons/Carrots",
+  "className": null,
+  "isExp": false
+}

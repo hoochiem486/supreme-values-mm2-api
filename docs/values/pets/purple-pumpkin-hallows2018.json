@@ -1,0 +1,32 @@
+{
+  "id": "pets:purple-pumpkin-hallows2018",
+  "slug": "purple-pumpkin-hallows2018",
+  "name": "Purple Pumpkin [HALLOWS2018]",
+  "category": "pets",
+  "value": 3,
+  "valueType": "numeric",
+  "tieredValue": null,
+  "valueDisplay": "3",
+  "range": {
+    "min": 2,
+    "max": 3,
+    "display": "2 - 3"
+  },
+  "score": 0.2877030162412993,
+  "scoreClass": "val-low",
+  "stability": "Underpaid For",
+  "demand": 1,
+  "rarity": 2,
+  "origin": "Halloween 2018 (Tier 35)",
+  "difference": -1,
+  "percentageChange": -25,
+  "aliases": [
+    "Purple Pump"
+  ],
+  "flippability": "Rarely Flippable",
+  "riseChance": 0,
+  "wikiLink": "Purple_Pumpkin_(2018)",
+  "imageKey": "mm2pets/Purple_Pumpkin",
+  "className": "Common",
+  "isExp": true
+}

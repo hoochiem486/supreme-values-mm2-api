@@ -1,0 +1,28 @@
+{
+  "id": "godlies:boneblade",
+  "slug": "boneblade",
+  "name": "Boneblade",
+  "category": "godlies",
+  "value": 7,
+  "valueType": "numeric",
+  "tieredValue": null,
+  "valueDisplay": "7",
+  "range": null,
+  "score": 0.41531322505800466,
+  "scoreClass": "val-mid",
+  "stability": "Stable",
+  "demand": 1,
+  "rarity": 2,
+  "origin": "Halloween 2018 (Unboxed)",
+  "difference": 0,
+  "percentageChange": null,
+  "aliases": [
+    "BB"
+  ],
+  "flippability": "Rarely Flippable",
+  "riseChance": 5,
+  "wikiLink": "Boneblade",
+  "imageKey": "mm2godlies/Boneblade",
+  "className": null,
+  "isExp": true
+}

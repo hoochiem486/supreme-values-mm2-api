@@ -1,0 +1,30 @@
+{
+  "id": "rares:neon-xmas2023",
+  "slug": "neon-xmas2023",
+  "name": "Neon [XMAS2023]",
+  "category": "rares",
+  "value": null,
+  "valueType": "tiered-items",
+  "tieredValue": {
+    "quantity": 1,
+    "tier": 1,
+    "rarity": "legendary"
+  },
+  "valueDisplay": "x1 T1 Legendary",
+  "range": null,
+  "score": null,
+  "scoreClass": "val-sub1",
+  "stability": "Stable",
+  "demand": 2,
+  "rarity": 3,
+  "origin": "Christmas 2023 (Tier 17)",
+  "difference": null,
+  "percentageChange": null,
+  "aliases": [],
+  "flippability": null,
+  "riseChance": null,
+  "wikiLink": null,
+  "imageKey": "mm2rares/Neon",
+  "className": null,
+  "isExp": false
+}

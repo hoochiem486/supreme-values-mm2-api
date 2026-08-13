@@ -1,0 +1,28 @@
+{
+  "id": "godlies:darkbringer",
+  "slug": "darkbringer",
+  "name": "Darkbringer",
+  "category": "godlies",
+  "value": 33,
+  "valueType": "numeric",
+  "tieredValue": null,
+  "valueDisplay": "33",
+  "range": null,
+  "score": 0.6960556844547564,
+  "scoreClass": "val-mid",
+  "stability": "Stable",
+  "demand": 1,
+  "rarity": 2,
+  "origin": "Mystery Crate #2",
+  "difference": -2,
+  "percentageChange": -5.7,
+  "aliases": [
+    "DB"
+  ],
+  "flippability": "Rarely Flippable",
+  "riseChance": 5,
+  "wikiLink": "Darkbringer",
+  "imageKey": "mm2godlies/Darkbringer",
+  "className": null,
+  "isExp": true
+}

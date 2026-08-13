@@ -1,0 +1,32 @@
+{
+  "id": "sets:pumpkin-set-2019",
+  "slug": "pumpkin-set-2019",
+  "name": "Pumpkin Set (2019)",
+  "category": "sets",
+  "value": 7,
+  "valueType": "numeric",
+  "tieredValue": null,
+  "valueDisplay": "7",
+  "range": {
+    "min": 5,
+    "max": 7,
+    "display": "5 - 7"
+  },
+  "score": 0.41531322505800466,
+  "scoreClass": "val-mid",
+  "stability": "Underpaid For",
+  "demand": 1,
+  "rarity": 2,
+  "origin": null,
+  "difference": -2,
+  "percentageChange": -22.2,
+  "aliases": [
+    "Pump Set 2019"
+  ],
+  "flippability": "Rarely Flippable",
+  "riseChance": 5,
+  "wikiLink": null,
+  "imageKey": "mm2pets/Red_Pumpkin_2019",
+  "className": null,
+  "isExp": true
+}

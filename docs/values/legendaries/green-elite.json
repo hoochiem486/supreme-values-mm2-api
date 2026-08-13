@@ -1,0 +1,29 @@
+{
+  "id": "legendaries:green-elite",
+  "slug": "green-elite",
+  "name": "Green Elite",
+  "category": "legendaries",
+  "value": 3,
+  "valueType": "numeric",
+  "tieredValue": null,
+  "valueDisplay": "3",
+  "range": null,
+  "score": 0.2877030162412993,
+  "scoreClass": "val-low",
+  "stability": "Stable",
+  "demand": 1,
+  "rarity": 3,
+  "origin": "Christmas 2015 (Buying Elite Gamepass)",
+  "difference": 0,
+  "percentageChange": null,
+  "aliases": [
+    "GE",
+    "GElite"
+  ],
+  "flippability": "Rarely Flippable",
+  "riseChance": 5,
+  "wikiLink": "Green_Elite",
+  "imageKey": "mm2legendaries/Green_Elite",
+  "className": null,
+  "isExp": true
+}

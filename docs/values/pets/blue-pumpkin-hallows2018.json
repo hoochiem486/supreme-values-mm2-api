@@ -1,0 +1,28 @@
+{
+  "id": "pets:blue-pumpkin-hallows2018",
+  "slug": "blue-pumpkin-hallows2018",
+  "name": "Blue Pumpkin [HALLOWS2018]",
+  "category": "pets",
+  "value": 220,
+  "valueType": "numeric",
+  "tieredValue": null,
+  "valueDisplay": "220",
+  "range": null,
+  "score": 0.8422273781902552,
+  "scoreClass": "val-mid",
+  "stability": "Stable",
+  "demand": 3,
+  "rarity": 4,
+  "origin": "Halloween 2018 (Tier 18)",
+  "difference": 10,
+  "percentageChange": 4.8,
+  "aliases": [
+    "Blue Pump"
+  ],
+  "flippability": "Rarely Flippable",
+  "riseChance": 15,
+  "wikiLink": "Blue_Pumpkin_(2018)",
+  "imageKey": "mm2pets/Blue_Pumpkin",
+  "className": "Common",
+  "isExp": true
+}

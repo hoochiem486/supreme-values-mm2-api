@@ -1,0 +1,33 @@
+{
+  "id": "chromas:chroma-sunset",
+  "slug": "chroma-sunset",
+  "name": "Chroma Sunset",
+  "category": "chromas",
+  "value": 9250,
+  "valueType": "numeric",
+  "tieredValue": null,
+  "valueDisplay": "9,250",
+  "range": {
+    "min": 9250,
+    "max": 9400,
+    "display": "9,250 - 9,400"
+  },
+  "score": 0.9698375870069605,
+  "scoreClass": "val-top",
+  "stability": "Doing Well",
+  "demand": 6,
+  "rarity": 5,
+  "origin": "Summer 2025 (Tier 25)",
+  "difference": 250,
+  "percentageChange": 2.8,
+  "aliases": [
+    "CSunset",
+    "CSS"
+  ],
+  "flippability": "Flippable",
+  "riseChance": 35,
+  "wikiLink": "Chroma_Sunset",
+  "imageKey": "mm2chromas/CSS",
+  "className": null,
+  "isExp": true
+}

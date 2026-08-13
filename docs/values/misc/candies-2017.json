@@ -1,0 +1,30 @@
+{
+  "id": "misc:candies-2017",
+  "slug": "candies-2017",
+  "name": "Candies (2017)",
+  "category": "misc",
+  "value": null,
+  "valueType": "tiered-items",
+  "tieredValue": {
+    "quantity": 1,
+    "tier": 1,
+    "rarity": "common"
+  },
+  "valueDisplay": "x1 T1 Common",
+  "range": null,
+  "score": null,
+  "scoreClass": "val-sub1",
+  "stability": "Stable",
+  "demand": 1,
+  "rarity": 1,
+  "origin": "Halloween 2017 (Collected in Rounds)",
+  "difference": null,
+  "percentageChange": null,
+  "aliases": [],
+  "flippability": null,
+  "riseChance": null,
+  "wikiLink": null,
+  "imageKey": "mm2misc/Candy_2017",
+  "className": null,
+  "isExp": false
+}

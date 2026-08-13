@@ -1,0 +1,28 @@
+{
+  "id": "chromas:chroma-luger",
+  "slug": "chroma-luger",
+  "name": "Chroma Luger",
+  "category": "chromas",
+  "value": 50,
+  "valueType": "numeric",
+  "tieredValue": null,
+  "valueDisplay": "50",
+  "range": null,
+  "score": 0.7540603248259861,
+  "scoreClass": "val-mid",
+  "stability": "Stable",
+  "demand": 1,
+  "rarity": 2,
+  "origin": "Gun Box #1",
+  "difference": -2,
+  "percentageChange": -3.8,
+  "aliases": [
+    "CLuger"
+  ],
+  "flippability": "Rarely Flippable",
+  "riseChance": 5,
+  "wikiLink": "Chroma_Luger",
+  "imageKey": "mm2chromas/CLuger",
+  "className": null,
+  "isExp": true
+}

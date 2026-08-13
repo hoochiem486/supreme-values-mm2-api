@@ -1,0 +1,30 @@
+{
+  "id": "chromas:chroma-elderwood-blade",
+  "slug": "chroma-elderwood-blade",
+  "name": "Chroma Elderwood Blade",
+  "category": "chromas",
+  "value": 37,
+  "valueType": "numeric",
+  "tieredValue": null,
+  "valueDisplay": "37",
+  "range": null,
+  "score": 0.7192575406032483,
+  "scoreClass": "val-mid",
+  "stability": "Stable",
+  "demand": 1,
+  "rarity": 2,
+  "origin": "Halloween 2022 (Unboxed)",
+  "difference": -1,
+  "percentageChange": -2.6,
+  "aliases": [
+    "CEWB",
+    "CEB",
+    "CElder"
+  ],
+  "flippability": "Rarely Flippable",
+  "riseChance": 5,
+  "wikiLink": "Chroma_Elderwood_Blade",
+  "imageKey": "mm2chromas/CEB",
+  "className": null,
+  "isExp": true
+}

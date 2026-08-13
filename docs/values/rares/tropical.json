@@ -1,0 +1,30 @@
+{
+  "id": "rares:tropical",
+  "slug": "tropical",
+  "name": "Tropical",
+  "category": "rares",
+  "value": null,
+  "valueType": "tiered-items",
+  "tieredValue": {
+    "quantity": 3,
+    "tier": 1,
+    "rarity": "rare"
+  },
+  "valueDisplay": "x3 T1 Rares",
+  "range": null,
+  "score": null,
+  "scoreClass": "val-sub1",
+  "stability": "Stable",
+  "demand": 1,
+  "rarity": 1,
+  "origin": "Summer 2025 (Tier 21)",
+  "difference": null,
+  "percentageChange": null,
+  "aliases": [],
+  "flippability": null,
+  "riseChance": null,
+  "wikiLink": null,
+  "imageKey": "mm2rares/Tropical",
+  "className": null,
+  "isExp": false
+}
