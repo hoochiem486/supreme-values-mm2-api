@@ -3,16 +3,16 @@
   "slug": "raygun",
   "name": "Raygun",
   "category": "godlies",
-  "value": 1750,
+  "value": 1800,
   "valueType": "numeric",
   "tieredValue": null,
-  "valueDisplay": "1,750",
+  "valueDisplay": "1,800",
   "range": {
-    "min": 1750,
-    "max": 1800,
-    "display": "1,750 - 1,800"
+    "min": 1800,
+    "max": 1900,
+    "display": "1,800 - 1,900"
   },
-  "score": 0.9187935034802784,
+  "score": 0.9280742459396751,
   "scoreClass": "val-top",
   "stability": "Overpaid For",
   "demand": 6,

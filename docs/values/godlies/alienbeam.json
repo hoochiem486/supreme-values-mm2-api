@@ -3,14 +3,14 @@
   "slug": "alienbeam",
   "name": "Alienbeam",
   "category": "godlies",
-  "value": 1975,
+  "value": 2100,
   "valueType": "numeric",
   "tieredValue": null,
-  "valueDisplay": "1,975",
+  "valueDisplay": "2,100",
   "range": {
-    "min": 1975,
-    "max": 2075,
-    "display": "1,975 - 2,075"
+    "min": 2100,
+    "max": 2250,
+    "display": "2,100 - 2,250"
   },
   "score": 0.9327146171693735,
   "scoreClass": "val-top",
@@ -18,8 +18,8 @@
   "demand": 6,
   "rarity": 4,
   "origin": "Halloween 2025 (Unboxed)",
-  "difference": 50,
-  "percentageChange": 2.6,
+  "difference": 125,
+  "percentageChange": 6.3,
   "aliases": [
     "AB",
     "ALB"

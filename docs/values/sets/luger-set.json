@@ -3,10 +3,10 @@
   "slug": "luger-set",
   "name": "Luger Set",
   "category": "sets",
-  "value": 130,
+  "value": 127,
   "valueType": "numeric",
   "tieredValue": null,
-  "valueDisplay": "130",
+  "valueDisplay": "127",
   "range": null,
   "score": 0.8074245939675174,
   "scoreClass": "val-mid",
@@ -14,8 +14,8 @@
   "demand": 1,
   "rarity": 2,
   "origin": null,
-  "difference": -1,
-  "percentageChange": -0.8,
+  "difference": -3,
+  "percentageChange": -2.3,
   "aliases": [
     "Lug Set"
   ],

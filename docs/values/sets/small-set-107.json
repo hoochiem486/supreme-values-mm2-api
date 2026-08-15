@@ -3,14 +3,14 @@
   "slug": "small-set-107",
   "name": "Small Set (107)",
   "category": "sets",
-  "value": 1295,
+  "value": 1290,
   "valueType": "numeric",
   "tieredValue": null,
-  "valueDisplay": "1,295",
+  "valueDisplay": "1,290",
   "range": {
-    "min": 1245,
-    "max": 1345,
-    "display": "1,245 - 1,345"
+    "min": 1240,
+    "max": 1340,
+    "display": "1,240 - 1,340"
   },
   "score": 0.9048723897911833,
   "scoreClass": "val-top",
@@ -18,8 +18,8 @@
   "demand": 4,
   "rarity": 4,
   "origin": null,
-  "difference": -20,
-  "percentageChange": -1.5,
+  "difference": -5,
+  "percentageChange": -0.4,
   "aliases": [
     "SS107"
   ],

@@ -3,14 +3,14 @@
   "slug": "chroma-raygun",
   "name": "Chroma Raygun",
   "category": "chromas",
-  "value": 13500,
+  "value": 13750,
   "valueType": "numeric",
   "tieredValue": null,
-  "valueDisplay": "13,500",
+  "valueDisplay": "13,750",
   "range": {
-    "min": 13500,
+    "min": 13750,
     "max": 14000,
-    "display": "13,500 - 14,000"
+    "display": "13,750 - 14,000"
   },
   "score": 0.974477958236659,
   "scoreClass": "val-top",
@@ -25,7 +25,7 @@
     "CRay"
   ],
   "flippability": "Flippable",
-  "riseChance": 40,
+  "riseChance": 35,
   "wikiLink": "Chroma_Raygun",
   "imageKey": "mm2chromas/CRG",
   "className": null,

@@ -3,14 +3,14 @@
   "slug": "chroma-alien-set",
   "name": "Chroma Alien Set",
   "category": "sets",
-  "value": 37500,
+  "value": 37750,
   "valueType": "numeric",
   "tieredValue": null,
-  "valueDisplay": "37,500",
+  "valueDisplay": "37,750",
   "range": {
-    "min": 37500,
+    "min": 37750,
     "max": 38000,
-    "display": "37,500 - 38,000"
+    "display": "37,750 - 38,000"
   },
   "score": 0.9860788863109049,
   "scoreClass": "val-top",
@@ -24,7 +24,7 @@
     "CAlien Set"
   ],
   "flippability": "Flippable",
-  "riseChance": 40,
+  "riseChance": 35,
   "wikiLink": null,
   "imageKey": "mm2chromas/CAB",
   "className": null,
