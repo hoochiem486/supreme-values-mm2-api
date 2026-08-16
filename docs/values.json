@@ -1,7 +1,7 @@
 {
   "source": "Supreme Values MM2",
   "sourceBaseUrl": "https://supremevalues.com/mm2",
-  "fetchedAt": "2026-08-16T19:47:29.052Z",
+  "fetchedAt": "2026-08-16T20:49:52.112Z",
   "categoryCount": 12,
   "count": 1053,
   "items": [
@@ -12214,19 +12214,19 @@
       "slug": "gingerbread-set-xmas2020",
       "name": "Gingerbread Set [XMAS2020]",
       "category": "sets",
-      "value": 10,
+      "value": 13,
       "valueType": "numeric",
       "tieredValue": null,
-      "valueDisplay": "10",
+      "valueDisplay": "13",
       "range": null,
-      "score": 0.4802784222737819,
+      "score": 0.5359628770301624,
       "scoreClass": "val-mid",
       "stability": "Stable",
       "demand": 2,
       "rarity": 4,
       "origin": null,
-      "difference": 0,
-      "percentageChange": null,
+      "difference": 3,
+      "percentageChange": 30,
       "aliases": [],
       "flippability": "Rarely Flippable",
       "riseChance": 10,
@@ -30175,7 +30175,7 @@
     "refreshing": false,
     "stale": false,
     "refreshIntervalMs": 600000,
-    "lastSuccessAt": "2026-08-16T19:47:29.052Z",
+    "lastSuccessAt": "2026-08-16T20:49:52.112Z",
     "count": 1053
   }
 }
