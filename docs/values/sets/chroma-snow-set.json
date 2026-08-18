@@ -3,10 +3,10 @@
   "slug": "chroma-snow-set",
   "name": "Chroma Snow Set",
   "category": "sets",
-  "value": 11000,
+  "value": 10750,
   "valueType": "numeric",
   "tieredValue": null,
-  "valueDisplay": "11,000",
+  "valueDisplay": "10,750",
   "range": null,
   "score": 0.9698375870069605,
   "scoreClass": "val-top",
@@ -15,7 +15,7 @@
   "rarity": 5,
   "origin": null,
   "difference": -250,
-  "percentageChange": -2.2,
+  "percentageChange": -2.3,
   "aliases": [
     "CSnow Set"
   ],

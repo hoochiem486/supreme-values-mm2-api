@@ -3,23 +3,23 @@
   "slug": "vampire-s-axe",
   "name": "Vampire's Axe",
   "category": "ancients",
-  "value": 1325,
+  "value": 1400,
   "valueType": "numeric",
   "tieredValue": null,
-  "valueDisplay": "1,325",
+  "valueDisplay": "1,400",
   "range": {
-    "min": 1325,
-    "max": 1375,
-    "display": "1,325 - 1,375"
+    "min": 1400,
+    "max": 1450,
+    "display": "1,400 - 1,450"
   },
-  "score": 0.9071925754060325,
+  "score": 0.9118329466357309,
   "scoreClass": "val-top",
   "stability": "Doing Well",
   "demand": 6,
   "rarity": 4,
   "origin": "Halloween 2024 (Tier 20)",
-  "difference": 25,
-  "percentageChange": 1.9,
+  "difference": 75,
+  "percentageChange": 5.7,
   "aliases": [
     "Vamp Axe",
     "VA"

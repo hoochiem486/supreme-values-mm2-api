@@ -3,14 +3,14 @@
   "slug": "vampire-s-set",
   "name": "Vampire's Set",
   "category": "sets",
-  "value": 3275,
+  "value": 3350,
   "valueType": "numeric",
   "tieredValue": null,
-  "valueDisplay": "3,275",
+  "valueDisplay": "3,350",
   "range": {
-    "min": 3275,
-    "max": 3325,
-    "display": "3,275 - 3,325"
+    "min": 3350,
+    "max": 3400,
+    "display": "3,350 - 3,400"
   },
   "score": 0.9489559164733179,
   "scoreClass": "val-top",
@@ -18,8 +18,8 @@
   "demand": 6,
   "rarity": 4,
   "origin": null,
-  "difference": 25,
-  "percentageChange": 0.8,
+  "difference": 75,
+  "percentageChange": 2.3,
   "aliases": [
     "Vamp Set"
   ],
