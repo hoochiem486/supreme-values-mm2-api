@@ -3,14 +3,14 @@
   "slug": "chroma-blizzard",
   "name": "Chroma Blizzard",
   "category": "chromas",
-  "value": 6500,
+  "value": 6000,
   "valueType": "numeric",
   "tieredValue": null,
-  "valueDisplay": "6,500",
+  "valueDisplay": "6,000",
   "range": {
-    "min": 6000,
-    "max": 6500,
-    "display": "6,000 - 6,500"
+    "min": 5500,
+    "max": 6000,
+    "display": "5,500 - 6,000"
   },
   "score": 0.962877030162413,
   "scoreClass": "val-top",
@@ -19,7 +19,7 @@
   "rarity": 5,
   "origin": "Christmas 2025 (Item Pack)",
   "difference": -500,
-  "percentageChange": -7.1,
+  "percentageChange": -7.7,
   "aliases": [
     "CBlizz"
   ],

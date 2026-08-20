@@ -3,10 +3,10 @@
   "slug": "chroma-snow-dagger",
   "name": "Chroma Snow Dagger",
   "category": "chromas",
-  "value": 3000,
+  "value": 2750,
   "valueType": "numeric",
   "tieredValue": null,
-  "valueDisplay": "3,000",
+  "valueDisplay": "2,750",
   "range": null,
   "score": 0.9489559164733179,
   "scoreClass": "val-top",
@@ -15,7 +15,7 @@
   "rarity": 4,
   "origin": "Christmas 2025 (Unboxed)",
   "difference": -250,
-  "percentageChange": -7.7,
+  "percentageChange": -8.3,
   "aliases": [
     "CDagger",
     "CDag"

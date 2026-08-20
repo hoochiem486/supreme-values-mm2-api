@@ -3,10 +3,10 @@
   "slug": "chroma-sweet",
   "name": "Chroma Sweet",
   "category": "chromas",
-  "value": 2100,
+  "value": 2050,
   "valueType": "numeric",
   "tieredValue": null,
-  "valueDisplay": "2,100",
+  "valueDisplay": "2,050",
   "range": null,
   "score": 0.9327146171693735,
   "scoreClass": "val-top",
@@ -15,7 +15,7 @@
   "rarity": 4,
   "origin": "Valentine's 2026 (Item Pack)",
   "difference": -50,
-  "percentageChange": -2.3,
+  "percentageChange": -2.4,
   "aliases": [
     "CSweet"
   ],

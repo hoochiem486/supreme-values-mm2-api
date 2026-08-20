@@ -3,14 +3,14 @@
   "slug": "chroma-icecream",
   "name": "Chroma Icecream",
   "category": "chromas",
-  "value": 1600,
+  "value": 1450,
   "valueType": "numeric",
   "tieredValue": null,
-  "valueDisplay": "1,600",
+  "valueDisplay": "1,450",
   "range": {
-    "min": 1400,
-    "max": 1600,
-    "display": "1,400 - 1,600"
+    "min": 1300,
+    "max": 1450,
+    "display": "1,300 - 1,450"
   },
   "score": 0.9187935034802784,
   "scoreClass": "val-top",
@@ -18,8 +18,8 @@
   "demand": 5,
   "rarity": 4,
   "origin": "Summer 2026 (Unboxed)",
-  "difference": -200,
-  "percentageChange": -11.1,
+  "difference": -150,
+  "percentageChange": -9.4,
   "aliases": [
     "CIC",
     "CCream",
