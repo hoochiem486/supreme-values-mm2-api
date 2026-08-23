@@ -3,23 +3,23 @@
   "slug": "chroma-beach-set",
   "name": "Chroma Beach Set",
   "category": "sets",
-  "value": 2850,
+  "value": 2550,
   "valueType": "numeric",
   "tieredValue": null,
-  "valueDisplay": "2,850",
+  "valueDisplay": "2,550",
   "range": {
-    "min": 2550,
-    "max": 2850,
-    "display": "2,550 - 2,850"
+    "min": 2250,
+    "max": 2550,
+    "display": "2,250 - 2,550"
   },
-  "score": 0.9489559164733179,
+  "score": 0.9419953596287703,
   "scoreClass": "val-top",
   "stability": "Underpaid For",
   "demand": 5,
   "rarity": 4,
   "origin": null,
-  "difference": -150,
-  "percentageChange": -5,
+  "difference": -300,
+  "percentageChange": -10.5,
   "aliases": [
     "CBeach Set"
   ],

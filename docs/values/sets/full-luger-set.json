@@ -3,14 +3,14 @@
   "slug": "full-luger-set",
   "name": "Full Luger Set",
   "category": "sets",
-  "value": 172,
+  "value": 170,
   "valueType": "numeric",
   "tieredValue": null,
-  "valueDisplay": "172",
+  "valueDisplay": "170",
   "range": {
-    "min": 168,
-    "max": 172,
-    "display": "168 - 172"
+    "min": 167,
+    "max": 170,
+    "display": "167 - 170"
   },
   "score": 0.8352668213457076,
   "scoreClass": "val-mid",
@@ -18,8 +18,8 @@
   "demand": 1,
   "rarity": 2,
   "origin": null,
-  "difference": -3,
-  "percentageChange": -1.7,
+  "difference": -2,
+  "percentageChange": -1.2,
   "aliases": [
     "Full Lug Set"
   ],

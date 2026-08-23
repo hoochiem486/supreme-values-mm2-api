@@ -3,23 +3,23 @@
   "slug": "chroma-sands",
   "name": "Chroma Sands",
   "category": "chromas",
-  "value": 1450,
+  "value": 1300,
   "valueType": "numeric",
   "tieredValue": null,
-  "valueDisplay": "1,450",
+  "valueDisplay": "1,300",
   "range": {
-    "min": 1300,
-    "max": 1450,
-    "display": "1,300 - 1,450"
+    "min": 1150,
+    "max": 1300,
+    "display": "1,150 - 1,300"
   },
-  "score": 0.9187935034802784,
+  "score": 0.9118329466357309,
   "scoreClass": "val-top",
   "stability": "Underpaid For",
   "demand": 5,
   "rarity": 4,
   "origin": "Summer 2026 (Item Pack)",
-  "difference": -100,
-  "percentageChange": -6.5,
+  "difference": -150,
+  "percentageChange": -10.3,
   "aliases": [
     "CSands",
     "CSand"

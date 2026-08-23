@@ -3,23 +3,23 @@
   "slug": "chroma-beachy",
   "name": "Chroma Beachy",
   "category": "chromas",
-  "value": 1400,
+  "value": 1250,
   "valueType": "numeric",
   "tieredValue": null,
-  "valueDisplay": "1,400",
+  "valueDisplay": "1,250",
   "range": {
-    "min": 1250,
-    "max": 1400,
-    "display": "1,250 - 1,400"
+    "min": 1100,
+    "max": 1250,
+    "display": "1,100 - 1,250"
   },
-  "score": 0.9118329466357309,
+  "score": 0.9095127610208816,
   "scoreClass": "val-top",
   "stability": "Underpaid For",
   "demand": 5,
   "rarity": 4,
   "origin": "Summer 2026 (Item Pack)",
-  "difference": -50,
-  "percentageChange": -3.4,
+  "difference": -150,
+  "percentageChange": -10.7,
   "aliases": [
     "CBeachy",
     "CBeach"

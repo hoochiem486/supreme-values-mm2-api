@@ -3,14 +3,14 @@
   "slug": "icecream",
   "name": "Icecream",
   "category": "godlies",
-  "value": 110,
+  "value": 105,
   "valueType": "numeric",
   "tieredValue": null,
-  "valueDisplay": "110",
+  "valueDisplay": "105",
   "range": {
-    "min": 90,
-    "max": 110,
-    "display": "90 - 110"
+    "min": 85,
+    "max": 105,
+    "display": "85 - 105"
   },
   "score": 0.802784222737819,
   "scoreClass": "val-mid",
@@ -18,8 +18,8 @@
   "demand": 2,
   "rarity": 3,
   "origin": "Summer 2026 (Unboxed)",
-  "difference": -10,
-  "percentageChange": -8.3,
+  "difference": -5,
+  "percentageChange": -4.5,
   "aliases": [
     "IC"
   ],

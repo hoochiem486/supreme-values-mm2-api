@@ -3,14 +3,14 @@
   "slug": "vampire-s-axe",
   "name": "Vampire's Axe",
   "category": "ancients",
-  "value": 1450,
+  "value": 1500,
   "valueType": "numeric",
   "tieredValue": null,
-  "valueDisplay": "1,450",
+  "valueDisplay": "1,500",
   "range": {
-    "min": 1450,
-    "max": 1550,
-    "display": "1,450 - 1,550"
+    "min": 1500,
+    "max": 1600,
+    "display": "1,500 - 1,600"
   },
   "score": 0.9187935034802784,
   "scoreClass": "val-top",
@@ -19,13 +19,13 @@
   "rarity": 4,
   "origin": "Halloween 2024 (Tier 20)",
   "difference": 50,
-  "percentageChange": 3.6,
+  "percentageChange": 3.4,
   "aliases": [
     "Vamp Axe",
     "VA"
   ],
   "flippability": "Highly Flippable",
-  "riseChance": 70,
+  "riseChance": 60,
   "wikiLink": "Vampire%27s_Axe",
   "imageKey": "mm2ancients/Vampires_Axe",
   "className": null,
