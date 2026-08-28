@@ -3,14 +3,14 @@
   "slug": "dungeon",
   "name": "Dungeon",
   "category": "rares",
-  "value": 170,
+  "value": 165,
   "valueType": "numeric",
   "tieredValue": null,
-  "valueDisplay": "170",
+  "valueDisplay": "165",
   "range": {
-    "min": 160,
-    "max": 170,
-    "display": "160 - 170"
+    "min": 155,
+    "max": 165,
+    "display": "155 - 165"
   },
   "score": 0.8375870069605569,
   "scoreClass": "val-mid",

@@ -8,13 +8,13 @@
   "tieredValue": null,
   "valueDisplay": "210",
   "range": {
-    "min": 190,
-    "max": 210,
-    "display": "190 - 210"
+    "min": 200,
+    "max": 220,
+    "display": "200 - 220"
   },
   "score": 0.839907192575406,
   "scoreClass": "val-mid",
-  "stability": "Underpaid For",
+  "stability": "Fluctuating",
   "demand": 2,
   "rarity": 3,
   "origin": null,
@@ -22,7 +22,7 @@
   "percentageChange": -4.5,
   "aliases": [],
   "flippability": "Rarely Flippable",
-  "riseChance": 0,
+  "riseChance": 10,
   "wikiLink": null,
   "imageKey": "mm2godlies/Beachy",
   "className": null,

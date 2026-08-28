@@ -3,16 +3,16 @@
   "slug": "small-set-103",
   "name": "Small Set (103)",
   "category": "sets",
-  "value": 1250,
+  "value": 1245,
   "valueType": "numeric",
   "tieredValue": null,
-  "valueDisplay": "1,250",
+  "valueDisplay": "1,245",
   "range": {
-    "min": 1200,
-    "max": 1300,
-    "display": "1,200 - 1,300"
+    "min": 1195,
+    "max": 1295,
+    "display": "1,195 - 1,295"
   },
-  "score": 0.9071925754060325,
+  "score": 0.9025522041763341,
   "scoreClass": "val-top",
   "stability": "Fluctuating",
   "demand": 4,

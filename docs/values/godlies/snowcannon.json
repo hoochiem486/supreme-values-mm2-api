@@ -3,10 +3,10 @@
   "slug": "snowcannon",
   "name": "Snowcannon",
   "category": "godlies",
-  "value": 850,
+  "value": 825,
   "valueType": "numeric",
   "tieredValue": null,
-  "valueDisplay": "850",
+  "valueDisplay": "825",
   "range": null,
   "score": 0.9025522041763341,
   "scoreClass": "val-top",
@@ -14,8 +14,8 @@
   "demand": 5,
   "rarity": 3,
   "origin": "Christmas 2025 (Tier 30)",
-  "difference": 25,
-  "percentageChange": 3,
+  "difference": -25,
+  "percentageChange": -2.9,
   "aliases": [
     "Cannon"
   ],

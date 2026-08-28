@@ -8,13 +8,13 @@
   "tieredValue": null,
   "valueDisplay": "105",
   "range": {
-    "min": 95,
-    "max": 105,
-    "display": "95 - 105"
+    "min": 100,
+    "max": 110,
+    "display": "100 - 110"
   },
   "score": 0.8051044083526682,
   "scoreClass": "val-mid",
-  "stability": "Underpaid For",
+  "stability": "Fluctuating",
   "demand": 2,
   "rarity": 3,
   "origin": "Summer 2026 (Item Pack)",
@@ -22,7 +22,7 @@
   "percentageChange": -4.5,
   "aliases": [],
   "flippability": "Rarely Flippable",
-  "riseChance": 0,
+  "riseChance": 10,
   "wikiLink": "Beachy",
   "imageKey": "mm2godlies/Beachy",
   "className": null,
