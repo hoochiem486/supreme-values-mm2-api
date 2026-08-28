@@ -3,14 +3,14 @@
   "slug": "bauble-set",
   "name": "Bauble Set",
   "category": "sets",
-  "value": 875,
+  "value": 885,
   "valueType": "numeric",
   "tieredValue": null,
-  "valueDisplay": "875",
+  "valueDisplay": "885",
   "range": {
-    "min": 875,
-    "max": 885,
-    "display": "875 - 885"
+    "min": 885,
+    "max": 895,
+    "display": "885 - 895"
   },
   "score": 0.9025522041763341,
   "scoreClass": "val-top",
@@ -19,7 +19,7 @@
   "rarity": 4,
   "origin": null,
   "difference": 10,
-  "percentageChange": 1.2,
+  "percentageChange": 1.1,
   "aliases": [
     "Ornament Set",
     "Orn Set"

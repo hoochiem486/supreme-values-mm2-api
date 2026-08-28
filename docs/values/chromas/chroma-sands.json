@@ -8,13 +8,13 @@
   "tieredValue": null,
   "valueDisplay": "1,300",
   "range": {
-    "min": 1150,
-    "max": 1300,
-    "display": "1,150 - 1,300"
+    "min": 1250,
+    "max": 1350,
+    "display": "1,250 - 1,350"
   },
-  "score": 0.9118329466357309,
+  "score": 0.9095127610208816,
   "scoreClass": "val-top",
-  "stability": "Underpaid For",
+  "stability": "Fluctuating",
   "demand": 5,
   "rarity": 4,
   "origin": "Summer 2026 (Item Pack)",
@@ -24,8 +24,8 @@
     "CSands",
     "CSand"
   ],
-  "flippability": "Rarely Flippable",
-  "riseChance": 0,
+  "flippability": "Flippable",
+  "riseChance": 10,
   "wikiLink": "Chroma_Sands",
   "imageKey": "mm2chromas/CSands",
   "className": null,

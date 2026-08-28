@@ -3,14 +3,14 @@
   "slug": "dungeon",
   "name": "Dungeon",
   "category": "rares",
-  "value": 175,
+  "value": 170,
   "valueType": "numeric",
   "tieredValue": null,
-  "valueDisplay": "175",
+  "valueDisplay": "170",
   "range": {
-    "min": 165,
-    "max": 175,
-    "display": "165 - 175"
+    "min": 160,
+    "max": 170,
+    "display": "160 - 170"
   },
   "score": 0.8375870069605569,
   "scoreClass": "val-mid",
@@ -19,7 +19,7 @@
   "rarity": 5,
   "origin": "Halloween 2019 (Unboxed)",
   "difference": -5,
-  "percentageChange": -2.8,
+  "percentageChange": -2.9,
   "aliases": [],
   "flippability": "Rarely Flippable",
   "riseChance": 0,

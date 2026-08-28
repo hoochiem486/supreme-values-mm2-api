@@ -3,14 +3,14 @@
   "slug": "chroma-sweet-set",
   "name": "Chroma Sweet Set",
   "category": "sets",
-  "value": 4150,
+  "value": 4050,
   "valueType": "numeric",
   "tieredValue": null,
-  "valueDisplay": "4,150",
+  "valueDisplay": "4,050",
   "range": {
-    "min": 4100,
-    "max": 4150,
-    "display": "4,100 - 4,150"
+    "min": 4000,
+    "max": 4050,
+    "display": "4,000 - 4,050"
   },
   "score": 0.9535962877030162,
   "scoreClass": "val-top",

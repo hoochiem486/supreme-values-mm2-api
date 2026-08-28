@@ -3,14 +3,14 @@
   "slug": "chroma-constellation",
   "name": "Chroma Constellation",
   "category": "chromas",
-  "value": 29000,
+  "value": 30000,
   "valueType": "numeric",
   "tieredValue": null,
-  "valueDisplay": "29,000",
+  "valueDisplay": "30,000",
   "range": {
-    "min": 29000,
-    "max": 30000,
-    "display": "29,000 - 30,000"
+    "min": 30000,
+    "max": 31000,
+    "display": "30,000 - 31,000"
   },
   "score": 0.9837587006960556,
   "scoreClass": "val-top",
@@ -19,7 +19,7 @@
   "rarity": 6,
   "origin": "Christmas 2024 (Unboxed)",
   "difference": 1000,
-  "percentageChange": 3.6,
+  "percentageChange": 3.4,
   "aliases": [
     "CConst"
   ],

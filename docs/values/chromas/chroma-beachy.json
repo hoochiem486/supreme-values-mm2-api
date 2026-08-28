@@ -8,13 +8,13 @@
   "tieredValue": null,
   "valueDisplay": "1,250",
   "range": {
-    "min": 1100,
-    "max": 1250,
-    "display": "1,100 - 1,250"
+    "min": 1200,
+    "max": 1300,
+    "display": "1,200 - 1,300"
   },
-  "score": 0.9095127610208816,
+  "score": 0.9071925754060325,
   "scoreClass": "val-top",
-  "stability": "Underpaid For",
+  "stability": "Fluctuating",
   "demand": 5,
   "rarity": 4,
   "origin": "Summer 2026 (Item Pack)",
@@ -24,8 +24,8 @@
     "CBeachy",
     "CBeach"
   ],
-  "flippability": "Rarely Flippable",
-  "riseChance": 0,
+  "flippability": "Flippable",
+  "riseChance": 10,
   "wikiLink": "Chroma_Beachy",
   "imageKey": "mm2chromas/CBeachy",
   "className": null,

@@ -6,11 +6,11 @@
   "value": null,
   "valueType": "tiered-items",
   "tieredValue": {
-    "quantity": 3,
+    "quantity": 2,
     "tier": 1,
     "rarity": "legendary"
   },
-  "valueDisplay": "x3 T1 Legendaries",
+  "valueDisplay": "x2 T1 Legendaries",
   "range": null,
   "score": null,
   "scoreClass": "val-sub1",

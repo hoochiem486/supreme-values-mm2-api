@@ -3,10 +3,10 @@
   "slug": "chroma-sunrise",
   "name": "Chroma Sunrise",
   "category": "chromas",
-  "value": 13250,
+  "value": 13000,
   "valueType": "numeric",
   "tieredValue": null,
-  "valueDisplay": "13,250",
+  "valueDisplay": "13,000",
   "range": null,
   "score": 0.9721577726218097,
   "scoreClass": "val-top",
@@ -14,8 +14,8 @@
   "demand": 6,
   "rarity": 5,
   "origin": "Summer 2025 (Unboxed)",
-  "difference": 250,
-  "percentageChange": 1.9,
+  "difference": -250,
+  "percentageChange": -1.9,
   "aliases": [
     "CSunrise",
     "CSR"

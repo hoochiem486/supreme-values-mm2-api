@@ -8,13 +8,13 @@
   "tieredValue": null,
   "valueDisplay": "2,550",
   "range": {
-    "min": 2250,
-    "max": 2550,
-    "display": "2,250 - 2,550"
+    "min": 2450,
+    "max": 2650,
+    "display": "2,450 - 2,650"
   },
   "score": 0.9419953596287703,
   "scoreClass": "val-top",
-  "stability": "Underpaid For",
+  "stability": "Fluctuating",
   "demand": 5,
   "rarity": 4,
   "origin": null,
@@ -23,8 +23,8 @@
   "aliases": [
     "CBeach Set"
   ],
-  "flippability": "Rarely Flippable",
-  "riseChance": 0,
+  "flippability": "Flippable",
+  "riseChance": 10,
   "wikiLink": null,
   "imageKey": "mm2chromas/CBeachy",
   "className": null,
