@@ -3,14 +3,14 @@
   "slug": "chroma-sunset",
   "name": "Chroma Sunset",
   "category": "chromas",
-  "value": 8500,
+  "value": 8250,
   "valueType": "numeric",
   "tieredValue": null,
-  "valueDisplay": "8,500",
+  "valueDisplay": "8,250",
   "range": {
-    "min": 8250,
-    "max": 8500,
-    "display": "8,250 - 8,500"
+    "min": 8000,
+    "max": 8250,
+    "display": "8,000 - 8,250"
   },
   "score": 0.9698375870069605,
   "scoreClass": "val-top",

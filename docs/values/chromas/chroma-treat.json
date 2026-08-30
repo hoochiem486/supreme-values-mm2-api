@@ -3,16 +3,16 @@
   "slug": "chroma-treat",
   "name": "Chroma Treat",
   "category": "chromas",
-  "value": 2050,
+  "value": 2000,
   "valueType": "numeric",
   "tieredValue": null,
-  "valueDisplay": "2,050",
+  "valueDisplay": "2,000",
   "range": {
-    "min": 2000,
-    "max": 2050,
-    "display": "2,000 - 2,050"
+    "min": 1950,
+    "max": 2000,
+    "display": "1,950 - 2,000"
   },
-  "score": 0.9327146171693735,
+  "score": 0.9303944315545244,
   "scoreClass": "val-top",
   "stability": "Receding",
   "demand": 5,

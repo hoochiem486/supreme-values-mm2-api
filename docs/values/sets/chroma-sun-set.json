@@ -3,23 +3,23 @@
   "slug": "chroma-sun-set",
   "name": "Chroma Sun Set",
   "category": "sets",
-  "value": 21250,
+  "value": 20750,
   "valueType": "numeric",
   "tieredValue": null,
-  "valueDisplay": "21,250",
+  "valueDisplay": "20,750",
   "range": {
-    "min": 21000,
-    "max": 21250,
-    "display": "21,000 - 21,250"
+    "min": 20500,
+    "max": 20750,
+    "display": "20,500 - 20,750"
   },
   "score": 0.9767981438515081,
   "scoreClass": "val-top",
   "stability": "Underpaid For",
-  "demand": 6,
+  "demand": 5,
   "rarity": 5,
   "origin": null,
   "difference": -500,
-  "percentageChange": -2.3,
+  "percentageChange": -2.4,
   "aliases": [
     "CSun Set",
     "CSunrise Set"

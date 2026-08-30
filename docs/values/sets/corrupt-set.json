@@ -3,16 +3,16 @@
   "slug": "corrupt-set",
   "name": "Corrupt Set",
   "category": "sets",
-  "value": 375,
+  "value": 372,
   "valueType": "numeric",
   "tieredValue": null,
-  "valueDisplay": "375",
+  "valueDisplay": "372",
   "range": {
-    "min": 372,
-    "max": 375,
-    "display": "372 - 375"
+    "min": 370,
+    "max": 372,
+    "display": "370 - 372"
   },
-  "score": 0.8747099767981439,
+  "score": 0.8700696055684455,
   "scoreClass": "val-top",
   "stability": "Underpaid For",
   "demand": 3,

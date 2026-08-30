@@ -3,14 +3,14 @@
   "slug": "xenoknife",
   "name": "Xenoknife",
   "category": "godlies",
-  "value": 350,
+  "value": 375,
   "valueType": "numeric",
   "tieredValue": null,
-  "valueDisplay": "350",
+  "valueDisplay": "375",
   "range": {
-    "min": 350,
-    "max": 375,
-    "display": "350 - 375"
+    "min": 375,
+    "max": 400,
+    "display": "375 - 400"
   },
   "score": 0.8747099767981439,
   "scoreClass": "val-top",
@@ -19,7 +19,7 @@
   "rarity": 3,
   "origin": "Halloween 2025 (Item Pack)",
   "difference": 25,
-  "percentageChange": 7.7,
+  "percentageChange": 7.1,
   "aliases": [],
   "flippability": "Highly Flippable",
   "riseChance": 65,

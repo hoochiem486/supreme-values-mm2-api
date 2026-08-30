@@ -3,14 +3,14 @@
   "slug": "full-luger-set",
   "name": "Full Luger Set",
   "category": "sets",
-  "value": 165,
+  "value": 162,
   "valueType": "numeric",
   "tieredValue": null,
-  "valueDisplay": "165",
+  "valueDisplay": "162",
   "range": {
-    "min": 162,
-    "max": 165,
-    "display": "162 - 165"
+    "min": 160,
+    "max": 162,
+    "display": "160 - 162"
   },
   "score": 0.8375870069605569,
   "scoreClass": "val-mid",

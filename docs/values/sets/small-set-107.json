@@ -3,14 +3,14 @@
   "slug": "small-set-107",
   "name": "Small Set (107)",
   "category": "sets",
-  "value": 1280,
+  "value": 1275,
   "valueType": "numeric",
   "tieredValue": null,
-  "valueDisplay": "1,280",
+  "valueDisplay": "1,275",
   "range": {
-    "min": 1230,
-    "max": 1330,
-    "display": "1,230 - 1,330"
+    "min": 1273,
+    "max": 1275,
+    "display": "1,273 - 1,275"
   },
   "score": 0.9025522041763341,
   "scoreClass": "val-top",
