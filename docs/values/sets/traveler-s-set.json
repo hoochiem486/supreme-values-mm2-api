@@ -3,10 +3,10 @@
   "slug": "traveler-s-set",
   "name": "Traveler's Set",
   "category": "sets",
-  "value": 13700,
+  "value": 13600,
   "valueType": "numeric",
   "tieredValue": null,
-  "valueDisplay": "13,700",
+  "valueDisplay": "13,600",
   "range": null,
   "score": 0.9721577726218097,
   "scoreClass": "val-top",
@@ -14,8 +14,8 @@
   "demand": 5,
   "rarity": 5,
   "origin": null,
-  "difference": 100,
-  "percentageChange": 0.7,
+  "difference": -100,
+  "percentageChange": -0.7,
   "aliases": [
     "Trav Set"
   ],

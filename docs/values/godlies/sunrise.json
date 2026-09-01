@@ -7,15 +7,11 @@
   "valueType": "numeric",
   "tieredValue": null,
   "valueDisplay": "1,350",
-  "range": {
-    "min": 1350,
-    "max": 1400,
-    "display": "1,350 - 1,400"
-  },
-  "score": 0.9071925754060325,
+  "range": null,
+  "score": 0.9048723897911833,
   "scoreClass": "val-top",
-  "stability": "Doing Well",
-  "demand": 6,
+  "stability": "Stable",
+  "demand": 5,
   "rarity": 4,
   "origin": "Summer 2025 (Unboxed)",
   "difference": 50,
@@ -23,8 +19,8 @@
   "aliases": [
     "SR"
   ],
-  "flippability": "Flippable",
-  "riseChance": 40,
+  "flippability": "Rarely Flippable",
+  "riseChance": 10,
   "wikiLink": "Sunrise",
   "imageKey": "mm2godlies/Sunrise",
   "className": null,

@@ -3,10 +3,10 @@
   "slug": "bauble",
   "name": "Bauble",
   "category": "godlies",
-  "value": 775,
+  "value": 750,
   "valueType": "numeric",
   "tieredValue": null,
-  "valueDisplay": "775",
+  "valueDisplay": "750",
   "range": null,
   "score": 0.9002320185614849,
   "scoreClass": "val-top",
@@ -15,7 +15,7 @@
   "rarity": 4,
   "origin": "Christmas 2024 (Gifting 100 Gifts)",
   "difference": -25,
-  "percentageChange": -3.1,
+  "percentageChange": -3.2,
   "aliases": [
     "Baub"
   ],

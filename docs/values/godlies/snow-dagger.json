@@ -3,23 +3,23 @@
   "slug": "snow-dagger",
   "name": "Snow Dagger",
   "category": "godlies",
-  "value": 210,
+  "value": 200,
   "valueType": "numeric",
   "tieredValue": null,
-  "valueDisplay": "210",
+  "valueDisplay": "200",
   "range": {
-    "min": 200,
-    "max": 210,
-    "display": "200 - 210"
+    "min": 190,
+    "max": 200,
+    "display": "190 - 200"
   },
-  "score": 0.8445475638051044,
+  "score": 0.8422273781902552,
   "scoreClass": "val-mid",
   "stability": "Underpaid For",
   "demand": 3,
   "rarity": 3,
   "origin": "Christmas 2025 (Unboxed)",
   "difference": -10,
-  "percentageChange": -4.5,
+  "percentageChange": -4.8,
   "aliases": [
     "Dagger"
   ],

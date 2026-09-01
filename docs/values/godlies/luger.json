@@ -3,23 +3,23 @@
   "slug": "luger",
   "name": "Luger",
   "category": "godlies",
-  "value": 22,
+  "value": 20,
   "valueType": "numeric",
   "tieredValue": null,
-  "valueDisplay": "22",
+  "valueDisplay": "20",
   "range": {
-    "min": 20,
-    "max": 22,
-    "display": "20 - 22"
+    "min": 18,
+    "max": 20,
+    "display": "18 - 20"
   },
-  "score": 0.6264501160092807,
+  "score": 0.617169373549884,
   "scoreClass": "val-mid",
   "stability": "Underpaid For",
   "demand": 1,
   "rarity": 2,
   "origin": "Gun Box #1",
-  "difference": -3,
-  "percentageChange": -12,
+  "difference": -2,
+  "percentageChange": -9.1,
   "aliases": [
     "Lug"
   ],

@@ -3,14 +3,14 @@
   "slug": "turkey",
   "name": "Turkey",
   "category": "godlies",
-  "value": 2350,
+  "value": 2300,
   "valueType": "numeric",
   "tieredValue": null,
-  "valueDisplay": "2,350",
+  "valueDisplay": "2,300",
   "range": {
-    "min": 2300,
-    "max": 2350,
-    "display": "2,300 - 2,350"
+    "min": 2250,
+    "max": 2300,
+    "display": "2,250 - 2,300"
   },
   "score": 0.9373549883990719,
   "scoreClass": "val-top",

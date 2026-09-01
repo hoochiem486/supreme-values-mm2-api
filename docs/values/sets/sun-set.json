@@ -7,15 +7,11 @@
   "valueType": "numeric",
   "tieredValue": null,
   "valueDisplay": "2,150",
-  "range": {
-    "min": 2150,
-    "max": 2250,
-    "display": "2,150 - 2,250"
-  },
+  "range": null,
   "score": 0.9350348027842227,
   "scoreClass": "val-top",
-  "stability": "Doing Well",
-  "demand": 6,
+  "stability": "Stable",
+  "demand": 5,
   "rarity": 4,
   "origin": null,
   "difference": 100,
@@ -23,8 +19,8 @@
   "aliases": [
     "Sunrise Set"
   ],
-  "flippability": "Flippable",
-  "riseChance": 40,
+  "flippability": "Rarely Flippable",
+  "riseChance": 10,
   "wikiLink": null,
   "imageKey": "mm2godlies/Sunrise",
   "className": null,

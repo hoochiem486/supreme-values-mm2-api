@@ -3,10 +3,10 @@
   "slug": "traveler-s-gun",
   "name": "Traveler's Gun",
   "category": "godlies",
-  "value": 5600,
+  "value": 5500,
   "valueType": "numeric",
   "tieredValue": null,
-  "valueDisplay": "5,600",
+  "valueDisplay": "5,500",
   "range": null,
   "score": 0.962877030162413,
   "scoreClass": "val-top",
@@ -14,8 +14,8 @@
   "demand": 5,
   "rarity": 5,
   "origin": "Halloween 2023 (Unboxed)",
-  "difference": 100,
-  "percentageChange": 1.8,
+  "difference": -100,
+  "percentageChange": -1.8,
   "aliases": [
     "Trav Gun",
     "TVG"

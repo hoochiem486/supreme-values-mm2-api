@@ -8,9 +8,9 @@
   "tieredValue": null,
   "valueDisplay": "1,275",
   "range": {
-    "min": 1273,
-    "max": 1275,
-    "display": "1,273 - 1,275"
+    "min": 1225,
+    "max": 1325,
+    "display": "1,225 - 1,325"
   },
   "score": 0.9025522041763341,
   "scoreClass": "val-top",
@@ -18,8 +18,8 @@
   "demand": 4,
   "rarity": 4,
   "origin": null,
-  "difference": -5,
-  "percentageChange": -0.4,
+  "difference": 0,
+  "percentageChange": 0,
   "aliases": [
     "SS107"
   ],

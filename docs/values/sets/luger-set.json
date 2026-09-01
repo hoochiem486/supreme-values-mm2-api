@@ -3,14 +3,14 @@
   "slug": "luger-set",
   "name": "Luger Set",
   "category": "sets",
-  "value": 112,
+  "value": 110,
   "valueType": "numeric",
   "tieredValue": null,
-  "valueDisplay": "112",
+  "valueDisplay": "110",
   "range": {
-    "min": 110,
-    "max": 112,
-    "display": "110 - 112"
+    "min": 108,
+    "max": 110,
+    "display": "108 - 110"
   },
   "score": 0.8051044083526682,
   "scoreClass": "val-mid",
@@ -18,8 +18,8 @@
   "demand": 1,
   "rarity": 2,
   "origin": null,
-  "difference": -3,
-  "percentageChange": -2.6,
+  "difference": -2,
+  "percentageChange": -1.8,
   "aliases": [
     "Lug Set"
   ],
