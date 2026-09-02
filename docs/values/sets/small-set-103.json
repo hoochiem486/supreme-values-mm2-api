@@ -9,8 +9,8 @@
   "valueDisplay": "1,240",
   "range": {
     "min": 1190,
-    "max": 1240,
-    "display": "1,190 - 1,240"
+    "max": 1290,
+    "display": "1,190 - 1,290"
   },
   "score": 0.9025522041763341,
   "scoreClass": "val-top",
@@ -18,8 +18,8 @@
   "demand": 4,
   "rarity": 4,
   "origin": null,
-  "difference": -2,
-  "percentageChange": -0.2,
+  "difference": 0,
+  "percentageChange": 0,
   "aliases": [
     "SS103"
   ],

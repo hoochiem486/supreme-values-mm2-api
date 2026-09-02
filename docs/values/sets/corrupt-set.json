@@ -3,14 +3,14 @@
   "slug": "corrupt-set",
   "name": "Corrupt Set",
   "category": "sets",
-  "value": 370,
+  "value": 368,
   "valueType": "numeric",
   "tieredValue": null,
-  "valueDisplay": "370",
+  "valueDisplay": "368",
   "range": {
-    "min": 368,
-    "max": 370,
-    "display": "368 - 370"
+    "min": 367,
+    "max": 368,
+    "display": "367 - 368"
   },
   "score": 0.8700696055684455,
   "scoreClass": "val-top",

@@ -3,14 +3,14 @@
   "slug": "turkey",
   "name": "Turkey",
   "category": "godlies",
-  "value": 2300,
+  "value": 2250,
   "valueType": "numeric",
   "tieredValue": null,
-  "valueDisplay": "2,300",
+  "valueDisplay": "2,250",
   "range": {
-    "min": 2250,
-    "max": 2300,
-    "display": "2,250 - 2,300"
+    "min": 2200,
+    "max": 2250,
+    "display": "2,200 - 2,250"
   },
   "score": 0.9373549883990719,
   "scoreClass": "val-top",
@@ -19,7 +19,7 @@
   "rarity": 4,
   "origin": "Thanksgiving 2023 (Item Pack)",
   "difference": -50,
-  "percentageChange": -2.1,
+  "percentageChange": -2.2,
   "aliases": [],
   "flippability": "Rarely Flippable",
   "riseChance": 0,

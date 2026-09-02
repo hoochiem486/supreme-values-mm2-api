@@ -3,14 +3,14 @@
   "slug": "luger-set",
   "name": "Luger Set",
   "category": "sets",
-  "value": 110,
+  "value": 108,
   "valueType": "numeric",
   "tieredValue": null,
-  "valueDisplay": "110",
+  "valueDisplay": "108",
   "range": {
-    "min": 108,
-    "max": 110,
-    "display": "108 - 110"
+    "min": 107,
+    "max": 108,
+    "display": "107 - 108"
   },
   "score": 0.8051044083526682,
   "scoreClass": "val-mid",

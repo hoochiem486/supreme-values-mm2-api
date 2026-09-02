@@ -3,23 +3,23 @@
   "slug": "chroma-treat",
   "name": "Chroma Treat",
   "category": "chromas",
-  "value": 1950,
+  "value": 1900,
   "valueType": "numeric",
   "tieredValue": null,
-  "valueDisplay": "1,950",
+  "valueDisplay": "1,900",
   "range": {
-    "min": 1900,
-    "max": 1950,
-    "display": "1,900 - 1,950"
+    "min": 1850,
+    "max": 1900,
+    "display": "1,850 - 1,900"
   },
-  "score": 0.9303944315545244,
+  "score": 0.9280742459396751,
   "scoreClass": "val-top",
   "stability": "Receding",
   "demand": 5,
   "rarity": 4,
   "origin": "Valentine's 2026 (Item Pack)",
   "difference": -50,
-  "percentageChange": -2.5,
+  "percentageChange": -2.6,
   "aliases": [
     "CTreat"
   ],
