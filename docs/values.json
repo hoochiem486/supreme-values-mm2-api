@@ -1,7 +1,7 @@
 {
   "source": "Supreme Values MM2",
   "sourceBaseUrl": "https://supremevalues.com/mm2",
-  "fetchedAt": "2026-09-02T23:02:45.509Z",
+  "fetchedAt": "2026-09-02T23:20:20.022Z",
   "categoryCount": 12,
   "count": 1053,
   "items": [
@@ -30235,7 +30235,7 @@
     "refreshing": false,
     "stale": false,
     "refreshIntervalMs": 600000,
-    "lastSuccessAt": "2026-09-02T23:02:45.509Z",
+    "lastSuccessAt": "2026-09-02T23:20:20.022Z",
     "count": 1053
   }
 }
