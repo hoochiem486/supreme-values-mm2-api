@@ -7,14 +7,10 @@
   "valueType": "numeric",
   "tieredValue": null,
   "valueDisplay": "18",
-  "range": {
-    "min": 17,
-    "max": 18,
-    "display": "17 - 18"
-  },
+  "range": null,
   "score": 0.5893271461716937,
   "scoreClass": "val-mid",
-  "stability": "Underpaid For",
+  "stability": "Stable",
   "demand": 1,
   "rarity": 2,
   "origin": "Gun Box #1",
@@ -24,7 +20,7 @@
     "Lug"
   ],
   "flippability": "Rarely Flippable",
-  "riseChance": 0,
+  "riseChance": 5,
   "wikiLink": "Luger",
   "imageKey": "mm2godlies/Luger",
   "className": null,

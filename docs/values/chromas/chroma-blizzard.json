@@ -3,14 +3,14 @@
   "slug": "chroma-blizzard",
   "name": "Chroma Blizzard",
   "category": "chromas",
-  "value": 4500,
+  "value": 4400,
   "valueType": "numeric",
   "tieredValue": null,
-  "valueDisplay": "4,500",
+  "valueDisplay": "4,400",
   "range": {
     "min": 4300,
-    "max": 4500,
-    "display": "4,300 - 4,500"
+    "max": 4400,
+    "display": "4,300 - 4,400"
   },
   "score": 0.9605568445475638,
   "scoreClass": "val-top",

@@ -3,10 +3,10 @@
   "slug": "red-luger",
   "name": "Red Luger",
   "category": "godlies",
-  "value": 37,
+  "value": 35,
   "valueType": "numeric",
   "tieredValue": null,
-  "valueDisplay": "37",
+  "valueDisplay": "35",
   "range": null,
   "score": 0.7215777262180975,
   "scoreClass": "val-mid",
@@ -14,8 +14,8 @@
   "demand": 1,
   "rarity": 2,
   "origin": "Christmas 2015 (Crafting)",
-  "difference": -1,
-  "percentageChange": -2.6,
+  "difference": -2,
+  "percentageChange": -5.4,
   "aliases": [
     "RL"
   ],

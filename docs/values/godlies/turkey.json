@@ -3,16 +3,16 @@
   "slug": "turkey",
   "name": "Turkey",
   "category": "godlies",
-  "value": 2250,
+  "value": 2200,
   "valueType": "numeric",
   "tieredValue": null,
-  "valueDisplay": "2,250",
+  "valueDisplay": "2,200",
   "range": {
-    "min": 2200,
-    "max": 2250,
-    "display": "2,200 - 2,250"
+    "min": 2150,
+    "max": 2200,
+    "display": "2,150 - 2,200"
   },
-  "score": 0.9373549883990719,
+  "score": 0.9350348027842227,
   "scoreClass": "val-top",
   "stability": "Underpaid For",
   "demand": 5,

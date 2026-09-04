@@ -7,14 +7,10 @@
   "valueType": "numeric",
   "tieredValue": null,
   "valueDisplay": "368",
-  "range": {
-    "min": 367,
-    "max": 368,
-    "display": "367 - 368"
-  },
+  "range": null,
   "score": 0.8700696055684455,
   "scoreClass": "val-top",
-  "stability": "Underpaid For",
+  "stability": "Stable",
   "demand": 3,
   "rarity": 3,
   "origin": null,

@@ -3,16 +3,16 @@
   "slug": "celestial-set",
   "name": "Celestial Set",
   "category": "sets",
-  "value": 5400,
+  "value": 5500,
   "valueType": "numeric",
   "tieredValue": null,
-  "valueDisplay": "5,400",
+  "valueDisplay": "5,500",
   "range": {
-    "min": 5400,
-    "max": 5500,
-    "display": "5,400 - 5,500"
+    "min": 5500,
+    "max": 5600,
+    "display": "5,500 - 5,600"
   },
-  "score": 0.9605568445475638,
+  "score": 0.962877030162413,
   "scoreClass": "val-top",
   "stability": "Overpaid For",
   "demand": 6,

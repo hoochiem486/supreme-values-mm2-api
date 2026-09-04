@@ -3,14 +3,14 @@
   "slug": "chroma-sweet-set",
   "name": "Chroma Sweet Set",
   "category": "sets",
-  "value": 3700,
+  "value": 3600,
   "valueType": "numeric",
   "tieredValue": null,
-  "valueDisplay": "3,700",
+  "valueDisplay": "3,600",
   "range": {
-    "min": 3650,
-    "max": 3700,
-    "display": "3,650 - 3,700"
+    "min": 3550,
+    "max": 3600,
+    "display": "3,550 - 3,600"
   },
   "score": 0.9535962877030162,
   "scoreClass": "val-top",
@@ -19,7 +19,7 @@
   "rarity": 4,
   "origin": null,
   "difference": -100,
-  "percentageChange": -2.6,
+  "percentageChange": -2.7,
   "aliases": [
     "CSweet Set"
   ],

@@ -3,14 +3,14 @@
   "slug": "watergun",
   "name": "Watergun",
   "category": "godlies",
-  "value": 195,
+  "value": 185,
   "valueType": "numeric",
   "tieredValue": null,
-  "valueDisplay": "195",
+  "valueDisplay": "185",
   "range": {
-    "min": 185,
-    "max": 195,
-    "display": "185 - 195"
+    "min": 175,
+    "max": 185,
+    "display": "175 - 185"
   },
   "score": 0.8422273781902552,
   "scoreClass": "val-mid",
@@ -18,8 +18,8 @@
   "demand": 3,
   "rarity": 3,
   "origin": "Summer 2024 (Unboxed)",
-  "difference": -5,
-  "percentageChange": -2.5,
+  "difference": -10,
+  "percentageChange": -5.1,
   "aliases": [
     "WTG"
   ],
