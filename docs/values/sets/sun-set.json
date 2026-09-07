@@ -3,14 +3,14 @@
   "slug": "sun-set",
   "name": "Sun Set",
   "category": "sets",
-  "value": 2000,
+  "value": 1900,
   "valueType": "numeric",
   "tieredValue": null,
-  "valueDisplay": "2,000",
+  "valueDisplay": "1,900",
   "range": {
-    "min": 1875,
-    "max": 2000,
-    "display": "1,875 - 2,000"
+    "min": 1775,
+    "max": 1900,
+    "display": "1,775 - 1,900"
   },
   "score": 0.9303944315545244,
   "scoreClass": "val-top",
@@ -18,8 +18,8 @@
   "demand": 5,
   "rarity": 4,
   "origin": null,
-  "difference": -75,
-  "percentageChange": -3.6,
+  "difference": -100,
+  "percentageChange": -5,
   "aliases": [
     "Sunrise Set"
   ],

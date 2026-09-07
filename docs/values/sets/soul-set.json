@@ -3,14 +3,14 @@
   "slug": "soul-set",
   "name": "Soul Set",
   "category": "sets",
-  "value": 1270,
+  "value": 1290,
   "valueType": "numeric",
   "tieredValue": null,
-  "valueDisplay": "1,270",
+  "valueDisplay": "1,290",
   "range": {
-    "min": 1270,
-    "max": 1290,
-    "display": "1,270 - 1,290"
+    "min": 1290,
+    "max": 1310,
+    "display": "1,290 - 1,310"
   },
   "score": 0.9048723897911833,
   "scoreClass": "val-top",
@@ -22,7 +22,7 @@
   "percentageChange": 1.6,
   "aliases": [],
   "flippability": "Flippable",
-  "riseChance": 40,
+  "riseChance": 35,
   "wikiLink": null,
   "imageKey": "mm2godlies/Soul",
   "className": null,

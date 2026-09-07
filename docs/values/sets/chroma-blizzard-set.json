@@ -3,23 +3,19 @@
   "slug": "chroma-blizzard-set",
   "name": "Chroma Blizzard Set",
   "category": "sets",
-  "value": 8650,
+  "value": 8550,
   "valueType": "numeric",
   "tieredValue": null,
-  "valueDisplay": "8,650",
-  "range": {
-    "min": 8550,
-    "max": 8650,
-    "display": "8,550 - 8,650"
-  },
+  "valueDisplay": "8,550",
+  "range": null,
   "score": 0.9698375870069605,
   "scoreClass": "val-top",
-  "stability": "Underpaid For",
+  "stability": "Stable",
   "demand": 5,
   "rarity": 5,
   "origin": null,
   "difference": -100,
-  "percentageChange": -1.1,
+  "percentageChange": -1.2,
   "aliases": [
     "CBlizz Set"
   ],

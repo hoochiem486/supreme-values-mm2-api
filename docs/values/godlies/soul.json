@@ -3,14 +3,14 @@
   "slug": "soul",
   "name": "Soul",
   "category": "godlies",
-  "value": 640,
+  "value": 650,
   "valueType": "numeric",
   "tieredValue": null,
-  "valueDisplay": "640",
+  "valueDisplay": "650",
   "range": {
-    "min": 640,
-    "max": 650,
-    "display": "640 - 650"
+    "min": 650,
+    "max": 660,
+    "display": "650 - 660"
   },
   "score": 0.8932714617169374,
   "scoreClass": "val-top",
@@ -22,7 +22,7 @@
   "percentageChange": 1.6,
   "aliases": [],
   "flippability": "Flippable",
-  "riseChance": 40,
+  "riseChance": 35,
   "wikiLink": "Soul",
   "imageKey": "mm2godlies/Soul",
   "className": null,

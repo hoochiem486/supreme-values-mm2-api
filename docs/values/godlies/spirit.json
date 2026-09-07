@@ -3,14 +3,14 @@
   "slug": "spirit",
   "name": "Spirit",
   "category": "godlies",
-  "value": 630,
+  "value": 640,
   "valueType": "numeric",
   "tieredValue": null,
-  "valueDisplay": "630",
+  "valueDisplay": "640",
   "range": {
-    "min": 630,
-    "max": 640,
-    "display": "630 - 640"
+    "min": 640,
+    "max": 650,
+    "display": "640 - 650"
   },
   "score": 0.8909512761020881,
   "scoreClass": "val-top",
@@ -22,7 +22,7 @@
   "percentageChange": 1.6,
   "aliases": [],
   "flippability": "Flippable",
-  "riseChance": 40,
+  "riseChance": 35,
   "wikiLink": "Spirit",
   "imageKey": "mm2godlies/Spirit",
   "className": null,
