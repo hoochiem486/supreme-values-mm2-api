@@ -3,14 +3,14 @@
   "slug": "sunrise",
   "name": "Sunrise",
   "category": "godlies",
-  "value": 1200,
+  "value": 1100,
   "valueType": "numeric",
   "tieredValue": null,
-  "valueDisplay": "1,200",
+  "valueDisplay": "1,100",
   "range": {
-    "min": 1100,
-    "max": 1200,
-    "display": "1,100 - 1,200"
+    "min": 1050,
+    "max": 1100,
+    "display": "1,050 - 1,100"
   },
   "score": 0.9048723897911833,
   "scoreClass": "val-top",
@@ -18,8 +18,8 @@
   "demand": 5,
   "rarity": 4,
   "origin": "Summer 2025 (Unboxed)",
-  "difference": -50,
-  "percentageChange": -4,
+  "difference": -100,
+  "percentageChange": -8.3,
   "aliases": [
     "SR"
   ],

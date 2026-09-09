@@ -12,7 +12,7 @@
     "max": 3250,
     "display": "3,150 - 3,250"
   },
-  "score": 0.951276102088167,
+  "score": 0.9489559164733179,
   "scoreClass": "val-top",
   "stability": "Doing Well",
   "demand": 6,
@@ -24,7 +24,7 @@
     "CBeach Set"
   ],
   "flippability": "Flippable",
-  "riseChance": 40,
+  "riseChance": 35,
   "wikiLink": null,
   "imageKey": "mm2chromas/CBeachy",
   "className": null,

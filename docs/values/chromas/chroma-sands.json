@@ -25,7 +25,7 @@
     "CSand"
   ],
   "flippability": "Flippable",
-  "riseChance": 40,
+  "riseChance": 35,
   "wikiLink": "Chroma_Sands",
   "imageKey": "mm2chromas/CSands",
   "className": null,

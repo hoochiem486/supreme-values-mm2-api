@@ -3,14 +3,14 @@
   "slug": "chroma-sun-set",
   "name": "Chroma Sun Set",
   "category": "sets",
-  "value": 19000,
+  "value": 18500,
   "valueType": "numeric",
   "tieredValue": null,
-  "valueDisplay": "19,000",
+  "valueDisplay": "18,500",
   "range": {
-    "min": 18500,
-    "max": 19000,
-    "display": "18,500 - 19,000"
+    "min": 18000,
+    "max": 18500,
+    "display": "18,000 - 18,500"
   },
   "score": 0.9767981438515081,
   "scoreClass": "val-top",

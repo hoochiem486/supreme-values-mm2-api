@@ -25,7 +25,7 @@
     "CBeach"
   ],
   "flippability": "Flippable",
-  "riseChance": 40,
+  "riseChance": 35,
   "wikiLink": "Chroma_Beachy",
   "imageKey": "mm2chromas/CBeachy",
   "className": null,

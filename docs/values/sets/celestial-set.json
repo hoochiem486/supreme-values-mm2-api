@@ -3,14 +3,14 @@
   "slug": "celestial-set",
   "name": "Celestial Set",
   "category": "sets",
-  "value": 5650,
+  "value": 5750,
   "valueType": "numeric",
   "tieredValue": null,
-  "valueDisplay": "5,650",
+  "valueDisplay": "5,750",
   "range": {
-    "min": 5650,
-    "max": 5700,
-    "display": "5,650 - 5,700"
+    "min": 5750,
+    "max": 5800,
+    "display": "5,750 - 5,800"
   },
   "score": 0.962877030162413,
   "scoreClass": "val-top",
@@ -18,13 +18,13 @@
   "demand": 6,
   "rarity": 4,
   "origin": null,
-  "difference": 150,
-  "percentageChange": 2.7,
+  "difference": 100,
+  "percentageChange": 1.8,
   "aliases": [
     "Cel Set"
   ],
   "flippability": "Flippable",
-  "riseChance": 35,
+  "riseChance": 40,
   "wikiLink": null,
   "imageKey": "mm2ancients/Celestial",
   "className": null,
