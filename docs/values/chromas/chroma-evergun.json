@@ -3,14 +3,14 @@
   "slug": "chroma-evergun",
   "name": "Chroma Evergun",
   "category": "chromas",
-  "value": 68000,
+  "value": 66000,
   "valueType": "numeric",
   "tieredValue": null,
-  "valueDisplay": "68,000",
+  "valueDisplay": "66,000",
   "range": {
-    "min": 66000,
-    "max": 68000,
-    "display": "66,000 - 68,000"
+    "min": 64000,
+    "max": 66000,
+    "display": "64,000 - 66,000"
   },
   "score": 0.9907192575406032,
   "scoreClass": "val-top",

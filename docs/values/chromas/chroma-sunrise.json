@@ -3,14 +3,14 @@
   "slug": "chroma-sunrise",
   "name": "Chroma Sunrise",
   "category": "chromas",
-  "value": 11250,
+  "value": 11000,
   "valueType": "numeric",
   "tieredValue": null,
-  "valueDisplay": "11,250",
+  "valueDisplay": "11,000",
   "range": {
-    "min": 11000,
-    "max": 11250,
-    "display": "11,000 - 11,250"
+    "min": 10750,
+    "max": 11000,
+    "display": "10,750 - 11,000"
   },
   "score": 0.9721577726218097,
   "scoreClass": "val-top",

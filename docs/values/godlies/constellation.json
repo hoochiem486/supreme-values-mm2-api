@@ -3,10 +3,10 @@
   "slug": "constellation",
   "name": "Constellation",
   "category": "godlies",
-  "value": 3200,
+  "value": 3150,
   "valueType": "numeric",
   "tieredValue": null,
-  "valueDisplay": "3,200",
+  "valueDisplay": "3,150",
   "range": null,
   "score": 0.951276102088167,
   "scoreClass": "val-top",
@@ -14,8 +14,8 @@
   "demand": 5,
   "rarity": 4,
   "origin": "Christmas 2024 (Unboxed)",
-  "difference": 50,
-  "percentageChange": 1.6,
+  "difference": -50,
+  "percentageChange": -1.6,
   "aliases": [
     "Const"
   ],

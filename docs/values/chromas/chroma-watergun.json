@@ -3,10 +3,10 @@
   "slug": "chroma-watergun",
   "name": "Chroma Watergun",
   "category": "chromas",
-  "value": 2700,
+  "value": 2600,
   "valueType": "numeric",
   "tieredValue": null,
-  "valueDisplay": "2,700",
+  "valueDisplay": "2,600",
   "range": null,
   "score": 0.9466357308584686,
   "scoreClass": "val-top",
@@ -15,7 +15,7 @@
   "rarity": 5,
   "origin": "Summer 2024 (Unboxed)",
   "difference": -100,
-  "percentageChange": -3.6,
+  "percentageChange": -3.7,
   "aliases": [
     "CWTG",
     "CWG"

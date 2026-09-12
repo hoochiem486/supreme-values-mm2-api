@@ -3,14 +3,14 @@
   "slug": "bauble-set",
   "name": "Bauble Set",
   "category": "sets",
-  "value": 780,
+  "value": 775,
   "valueType": "numeric",
   "tieredValue": null,
-  "valueDisplay": "780",
+  "valueDisplay": "775",
   "range": {
-    "min": 775,
-    "max": 785,
-    "display": "775 - 785"
+    "min": 765,
+    "max": 780,
+    "display": "765 - 780"
   },
   "score": 0.9025522041763341,
   "scoreClass": "val-top",

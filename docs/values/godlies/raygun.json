@@ -7,14 +7,10 @@
   "valueType": "numeric",
   "tieredValue": null,
   "valueDisplay": "1,750",
-  "range": {
-    "min": 1650,
-    "max": 1750,
-    "display": "1,650 - 1,750"
-  },
+  "range": null,
   "score": 0.9211136890951276,
   "scoreClass": "val-top",
-  "stability": "Receding",
+  "stability": "Stable",
   "demand": 5,
   "rarity": 3,
   "origin": "Halloween 2025 (Tier 25)",
@@ -25,7 +21,7 @@
     "Ray"
   ],
   "flippability": "Rarely Flippable",
-  "riseChance": 0,
+  "riseChance": 15,
   "wikiLink": "Raygun",
   "imageKey": "mm2godlies/Raygun",
   "className": null,
