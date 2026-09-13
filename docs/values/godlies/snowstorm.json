@@ -3,14 +3,14 @@
   "slug": "snowstorm",
   "name": "Snowstorm",
   "category": "godlies",
-  "value": 290,
+  "value": 300,
   "valueType": "numeric",
   "tieredValue": null,
-  "valueDisplay": "290",
+  "valueDisplay": "300",
   "range": {
-    "min": 290,
-    "max": 300,
-    "display": "290 - 300"
+    "min": 300,
+    "max": 315,
+    "display": "300 - 315"
   },
   "score": 0.8654292343387471,
   "scoreClass": "val-top",
@@ -19,7 +19,7 @@
   "rarity": 3,
   "origin": "Christmas 2025 (Item Pack)",
   "difference": 10,
-  "percentageChange": 3.6,
+  "percentageChange": 3.4,
   "aliases": [],
   "flippability": "Flippable",
   "riseChance": 40,

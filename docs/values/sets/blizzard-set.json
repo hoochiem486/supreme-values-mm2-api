@@ -3,14 +3,14 @@
   "slug": "blizzard-set",
   "name": "Blizzard Set",
   "category": "sets",
-  "value": 580,
+  "value": 600,
   "valueType": "numeric",
   "tieredValue": null,
-  "valueDisplay": "580",
+  "valueDisplay": "600",
   "range": {
-    "min": 580,
-    "max": 600,
-    "display": "580 - 600"
+    "min": 600,
+    "max": 630,
+    "display": "600 - 630"
   },
   "score": 0.8863109048723898,
   "scoreClass": "val-top",
@@ -19,7 +19,7 @@
   "rarity": 3,
   "origin": null,
   "difference": 20,
-  "percentageChange": 3.6,
+  "percentageChange": 3.4,
   "aliases": [
     "Blizz Set"
   ],

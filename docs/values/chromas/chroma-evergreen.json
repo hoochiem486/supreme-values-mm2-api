@@ -3,14 +3,14 @@
   "slug": "chroma-evergreen",
   "name": "Chroma Evergreen",
   "category": "chromas",
-  "value": 45000,
+  "value": 44000,
   "valueType": "numeric",
   "tieredValue": null,
-  "valueDisplay": "45,000",
+  "valueDisplay": "44,000",
   "range": {
-    "min": 43000,
-    "max": 45000,
-    "display": "43,000 - 45,000"
+    "min": 42000,
+    "max": 44000,
+    "display": "42,000 - 44,000"
   },
   "score": 0.988399071925754,
   "scoreClass": "val-top",
@@ -18,8 +18,8 @@
   "demand": 7,
   "rarity": 7,
   "origin": "Christmas 2023 (Unboxed)",
-  "difference": -2000,
-  "percentageChange": -4.3,
+  "difference": -1000,
+  "percentageChange": -2.2,
   "aliases": [
     "CEvergreen",
     "CEGreen",

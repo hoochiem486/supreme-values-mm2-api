@@ -3,14 +3,14 @@
   "slug": "ornament",
   "name": "Ornament",
   "category": "godlies",
-  "value": 100,
+  "value": 95,
   "valueType": "numeric",
   "tieredValue": null,
-  "valueDisplay": "100",
+  "valueDisplay": "95",
   "range": {
-    "min": 90,
-    "max": 105,
-    "display": "90 - 105"
+    "min": 85,
+    "max": 100,
+    "display": "85 - 100"
   },
   "score": 0.8004640371229699,
   "scoreClass": "val-mid",
@@ -19,7 +19,7 @@
   "rarity": 2,
   "origin": "Christmas 2025 (Gifting 100 Gifts)",
   "difference": -5,
-  "percentageChange": -4.8,
+  "percentageChange": -5,
   "aliases": [
     "Orn"
   ],
