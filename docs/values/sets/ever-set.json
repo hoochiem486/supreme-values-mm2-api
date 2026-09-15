@@ -3,14 +3,14 @@
   "slug": "ever-set",
   "name": "Ever Set",
   "category": "sets",
-  "value": 6150,
+  "value": 6050,
   "valueType": "numeric",
   "tieredValue": null,
-  "valueDisplay": "6,150",
+  "valueDisplay": "6,050",
   "range": {
-    "min": 6050,
-    "max": 6150,
-    "display": "6,050 - 6,150"
+    "min": 5950,
+    "max": 6050,
+    "display": "5,950 - 6,050"
   },
   "score": 0.962877030162413,
   "scoreClass": "val-top",

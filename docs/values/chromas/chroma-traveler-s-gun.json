@@ -3,14 +3,14 @@
   "slug": "chroma-traveler-s-gun",
   "name": "Chroma Traveler's Gun",
   "category": "chromas",
-  "value": 175000,
+  "value": 170000,
   "valueType": "numeric",
   "tieredValue": null,
-  "valueDisplay": "175,000",
+  "valueDisplay": "170,000",
   "range": {
-    "min": 165000,
-    "max": 175000,
-    "display": "165,000 - 175,000"
+    "min": 160000,
+    "max": 170000,
+    "display": "160,000 - 170,000"
   },
   "score": 0.9930394431554525,
   "scoreClass": "val-top",
@@ -19,7 +19,7 @@
   "rarity": 10,
   "origin": "Halloween 2023 (Unboxed)",
   "difference": -5000,
-  "percentageChange": -2.8,
+  "percentageChange": -2.9,
   "aliases": [
     "CTG",
     "CTVG",

@@ -3,14 +3,14 @@
   "slug": "blizzard",
   "name": "Blizzard",
   "category": "godlies",
-  "value": 300,
+  "value": 305,
   "valueType": "numeric",
   "tieredValue": null,
-  "valueDisplay": "300",
+  "valueDisplay": "305",
   "range": {
-    "min": 300,
+    "min": 305,
     "max": 315,
-    "display": "300 - 315"
+    "display": "305 - 315"
   },
   "score": 0.8654292343387471,
   "scoreClass": "val-top",
@@ -18,8 +18,8 @@
   "demand": 5,
   "rarity": 3,
   "origin": "Christmas 2025 (Item Pack)",
-  "difference": 10,
-  "percentageChange": 3.4,
+  "difference": 5,
+  "percentageChange": 1.7,
   "aliases": [
     "Blizz"
   ],

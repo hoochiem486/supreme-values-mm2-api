@@ -3,14 +3,14 @@
   "slug": "chroma-ever-set",
   "name": "Chroma Ever Set",
   "category": "sets",
-  "value": 108000,
+  "value": 105000,
   "valueType": "numeric",
   "tieredValue": null,
-  "valueDisplay": "108,000",
+  "valueDisplay": "105,000",
   "range": {
-    "min": 104000,
-    "max": 108000,
-    "display": "104,000 - 108,000"
+    "min": 101000,
+    "max": 105000,
+    "display": "101,000 - 105,000"
   },
   "score": 0.9907192575406032,
   "scoreClass": "val-top",
@@ -19,7 +19,7 @@
   "rarity": 8,
   "origin": null,
   "difference": -3000,
-  "percentageChange": -2.7,
+  "percentageChange": -2.8,
   "aliases": [
     "CEver Set"
   ],

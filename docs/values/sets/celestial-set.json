@@ -3,10 +3,10 @@
   "slug": "celestial-set",
   "name": "Celestial Set",
   "category": "sets",
-  "value": 5750,
+  "value": 5600,
   "valueType": "numeric",
   "tieredValue": null,
-  "valueDisplay": "5,750",
+  "valueDisplay": "5,600",
   "range": null,
   "score": 0.962877030162413,
   "scoreClass": "val-top",
@@ -14,8 +14,8 @@
   "demand": 5,
   "rarity": 4,
   "origin": null,
-  "difference": 100,
-  "percentageChange": 1.8,
+  "difference": -150,
+  "percentageChange": -2.6,
   "aliases": [
     "Cel Set"
   ],
