@@ -3,23 +3,23 @@
   "slug": "vampire-s-gun",
   "name": "Vampire's Gun",
   "category": "godlies",
-  "value": 1800,
+  "value": 1775,
   "valueType": "numeric",
   "tieredValue": null,
-  "valueDisplay": "1,800",
+  "valueDisplay": "1,775",
   "range": {
-    "min": 1750,
-    "max": 1800,
-    "display": "1,750 - 1,800"
+    "min": 1725,
+    "max": 1775,
+    "display": "1,725 - 1,775"
   },
-  "score": 0.9327146171693735,
+  "score": 0.9280742459396751,
   "scoreClass": "val-top",
   "stability": "Receding",
   "demand": 5,
   "rarity": 4,
   "origin": "Halloween 2024 (Unboxed)",
-  "difference": -50,
-  "percentageChange": -2.7,
+  "difference": -25,
+  "percentageChange": -1.4,
   "aliases": [
     "Vamp Gun",
     "VG"

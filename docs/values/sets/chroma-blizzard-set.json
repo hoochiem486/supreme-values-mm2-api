@@ -9,12 +9,12 @@
   "valueDisplay": "9,500",
   "range": {
     "min": 9500,
-    "max": 10000,
-    "display": "9,500 - 10,000"
+    "max": 9750,
+    "display": "9,500 - 9,750"
   },
   "score": 0.9698375870069605,
   "scoreClass": "val-top",
-  "stability": "Overpaid For",
+  "stability": "Doing Well",
   "demand": 6,
   "rarity": 5,
   "origin": null,
@@ -23,8 +23,8 @@
   "aliases": [
     "CBlizz Set"
   ],
-  "flippability": "Highly Flippable",
-  "riseChance": 65,
+  "flippability": "Flippable",
+  "riseChance": 35,
   "wikiLink": null,
   "imageKey": "mm2chromas/CBZ",
   "className": null,

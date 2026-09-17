@@ -3,14 +3,14 @@
   "slug": "raygun",
   "name": "Raygun",
   "category": "godlies",
-  "value": 1900,
+  "value": 1950,
   "valueType": "numeric",
   "tieredValue": null,
-  "valueDisplay": "1,900",
+  "valueDisplay": "1,950",
   "range": {
-    "min": 1900,
-    "max": 1950,
-    "display": "1,900 - 1,950"
+    "min": 1950,
+    "max": 2000,
+    "display": "1,950 - 2,000"
   },
   "score": 0.9373549883990719,
   "scoreClass": "val-top",
@@ -18,8 +18,8 @@
   "demand": 6,
   "rarity": 3,
   "origin": "Halloween 2025 (Tier 25)",
-  "difference": 100,
-  "percentageChange": 5.6,
+  "difference": 50,
+  "percentageChange": 2.6,
   "aliases": [
     "RG",
     "Ray"

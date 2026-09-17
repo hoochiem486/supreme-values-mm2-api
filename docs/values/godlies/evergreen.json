@@ -3,23 +3,23 @@
   "slug": "evergreen",
   "name": "Evergreen",
   "category": "godlies",
-  "value": 2600,
+  "value": 2550,
   "valueType": "numeric",
   "tieredValue": null,
-  "valueDisplay": "2,600",
+  "valueDisplay": "2,550",
   "range": {
-    "min": 2500,
-    "max": 2600,
-    "display": "2,500 - 2,600"
+    "min": 2450,
+    "max": 2550,
+    "display": "2,450 - 2,550"
   },
-  "score": 0.9489559164733179,
+  "score": 0.9466357308584686,
   "scoreClass": "val-top",
   "stability": "Receding",
   "demand": 5,
   "rarity": 4,
   "origin": "Christmas 2023 (Unboxed)",
-  "difference": -100,
-  "percentageChange": -3.7,
+  "difference": -50,
+  "percentageChange": -1.9,
   "aliases": [
     "EGreen"
   ],

@@ -3,14 +3,14 @@
   "slug": "chroma-traveler-s-gun",
   "name": "Chroma Traveler's Gun",
   "category": "chromas",
-  "value": 170000,
+  "value": 165000,
   "valueType": "numeric",
   "tieredValue": null,
-  "valueDisplay": "170,000",
+  "valueDisplay": "165,000",
   "range": {
-    "min": 160000,
-    "max": 170000,
-    "display": "160,000 - 170,000"
+    "min": 155000,
+    "max": 165000,
+    "display": "155,000 - 165,000"
   },
   "score": 0.9930394431554525,
   "scoreClass": "val-top",
