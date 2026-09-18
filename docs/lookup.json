@@ -257,6 +257,7 @@
     "uniques:corrupt": "values/uniques/corrupt.json",
     "sets:corrupt-set": "values/sets/corrupt-set.json",
     "legendaries:cotton-candy": "values/legendaries/cotton-candy.json",
+    "rares:cowboy": "values/rares/cowboy.json",
     "vintages:cowboy": "values/vintages/cowboy.json",
     "commons:cracks-gun": "values/commons/cracks-gun.json",
     "commons:cracks-knife": "values/commons/cracks-knife.json",
@@ -384,6 +385,7 @@
     "godlies:gemstone": "values/godlies/gemstone.json",
     "rares:ghastly-gun": "values/rares/ghastly-gun.json",
     "rares:ghastly-knife": "values/rares/ghastly-knife.json",
+    "uncommons:ghost": "values/uncommons/ghost.json",
     "vintages:ghost": "values/vintages/ghost.json",
     "legendaries:ghost-gun": "values/legendaries/ghost-gun.json",
     "legendaries:ghost-knife": "values/legendaries/ghost-knife.json",
@@ -434,6 +436,7 @@
     "commons:glitch2": "values/commons/glitch2.json",
     "uncommons:glowy": "values/uncommons/glowy.json",
     "misc:gold-papers": "values/misc/gold-papers.json",
+    "legendaries:golden": "values/legendaries/golden.json",
     "vintages:golden": "values/vintages/golden.json",
     "commons:goo": "values/commons/goo.json",
     "uncommons:gothic-gun": "values/uncommons/gothic-gun.json",
@@ -528,6 +531,7 @@
     "rares:krypto": "values/rares/krypto.json",
     "uncommons:lantern": "values/uncommons/lantern.json",
     "godlies:laser": "values/godlies/laser.json",
+    "rares:laser": "values/rares/laser.json",
     "vintages:laser": "values/vintages/laser.json",
     "legendaries:latte-gun": "values/legendaries/latte-gun.json",
     "legendaries:latte-knife": "values/legendaries/latte-knife.json",
@@ -653,6 +657,7 @@
     "commons:peppermint-knife": "values/commons/peppermint-knife.json",
     "commons:phantom": "values/commons/phantom.json",
     "godlies:phantom": "values/godlies/phantom.json",
+    "rares:phaser": "values/rares/phaser.json",
     "vintages:phaser": "values/vintages/phaser.json",
     "pets:phoenix": "values/pets/phoenix.json",
     "rares:pier": "values/rares/pier.json",
@@ -685,6 +690,7 @@
     "legendaries:predator-knife": "values/legendaries/predator-knife.json",
     "commons:present": "values/commons/present.json",
     "commons:present-2023": "values/commons/present-2023.json",
+    "rares:prince": "values/rares/prince.json",
     "vintages:prince": "values/vintages/prince.json",
     "commons:prism": "values/commons/prism.json",
     "godlies:prismatic": "values/godlies/prismatic.json",
@@ -766,6 +772,7 @@
     "pets:seahorsey": "values/pets/seahorsey.json",
     "godlies:seer": "values/godlies/seer.json",
     "commons:shaded": "values/commons/shaded.json",
+    "legendaries:shadow": "values/legendaries/shadow.json",
     "vintages:shadow": "values/vintages/shadow.json",
     "pets:shadow-pumpkin": "values/pets/shadow-pumpkin.json",
     "godlies:shark": "values/godlies/shark.json",
@@ -1801,6 +1808,7 @@
       "values/legendaries/cotton-candy.json"
     ],
     "cowboy": [
+      "values/rares/cowboy.json",
       "values/vintages/cowboy.json"
     ],
     "cracks-gun": [
@@ -2172,6 +2180,7 @@
       "values/rares/ghastly-knife.json"
     ],
     "ghost": [
+      "values/uncommons/ghost.json",
       "values/vintages/ghost.json"
     ],
     "ghost-gun": [
@@ -2316,6 +2325,7 @@
       "values/misc/gold-papers.json"
     ],
     "golden": [
+      "values/legendaries/golden.json",
       "values/vintages/golden.json"
     ],
     "goo": [
@@ -2596,6 +2606,7 @@
     ],
     "laser": [
       "values/godlies/laser.json",
+      "values/rares/laser.json",
       "values/vintages/laser.json"
     ],
     "latte-gun": [
@@ -2961,6 +2972,7 @@
       "values/godlies/phantom.json"
     ],
     "phaser": [
+      "values/rares/phaser.json",
       "values/vintages/phaser.json"
     ],
     "phoenix": [
@@ -3057,6 +3069,7 @@
       "values/commons/present-2023.json"
     ],
     "prince": [
+      "values/rares/prince.json",
       "values/vintages/prince.json"
     ],
     "prism": [
@@ -3294,6 +3307,7 @@
       "values/commons/shaded.json"
     ],
     "shadow": [
+      "values/legendaries/shadow.json",
       "values/vintages/shadow.json"
     ],
     "shadow-pumpkin": [
@@ -4874,6 +4888,7 @@
       "values/legendaries/cotton-candy.json"
     ],
     "cowboy": [
+      "values/rares/cowboy.json",
       "values/vintages/cowboy.json"
     ],
     "cracks (gun)": [
@@ -5245,6 +5260,7 @@
       "values/rares/ghastly-knife.json"
     ],
     "ghost": [
+      "values/uncommons/ghost.json",
       "values/vintages/ghost.json"
     ],
     "ghost (gun)": [
@@ -5389,6 +5405,7 @@
       "values/misc/gold-papers.json"
     ],
     "golden": [
+      "values/legendaries/golden.json",
       "values/vintages/golden.json"
     ],
     "goo": [
@@ -5669,6 +5686,7 @@
     ],
     "laser": [
       "values/godlies/laser.json",
+      "values/rares/laser.json",
       "values/vintages/laser.json"
     ],
     "latte (gun)": [
@@ -6034,6 +6052,7 @@
       "values/godlies/phantom.json"
     ],
     "phaser": [
+      "values/rares/phaser.json",
       "values/vintages/phaser.json"
     ],
     "phoenix": [
@@ -6130,6 +6149,7 @@
       "values/commons/present-2023.json"
     ],
     "prince": [
+      "values/rares/prince.json",
       "values/vintages/prince.json"
     ],
     "prism": [
@@ -6369,6 +6389,7 @@
       "values/commons/shaded.json"
     ],
     "shadow": [
+      "values/legendaries/shadow.json",
       "values/vintages/shadow.json"
     ],
     "shadow pumpkin": [
