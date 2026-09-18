@@ -3,14 +3,14 @@
   "slug": "chroma-evergun",
   "name": "Chroma Evergun",
   "category": "chromas",
-  "value": 60000,
+  "value": 58000,
   "valueType": "numeric",
   "tieredValue": null,
-  "valueDisplay": "60,000",
+  "valueDisplay": "58,000",
   "range": {
-    "min": 58000,
-    "max": 60000,
-    "display": "58,000 - 60,000"
+    "min": 56000,
+    "max": 58000,
+    "display": "56,000 - 58,000"
   },
   "score": 0.9907192575406032,
   "scoreClass": "val-top",
@@ -19,7 +19,7 @@
   "rarity": 8,
   "origin": "Christmas 2023 (Gifting)",
   "difference": -2000,
-  "percentageChange": -3.2,
+  "percentageChange": -3.3,
   "aliases": [
     "CEvergun",
     "CEGun",

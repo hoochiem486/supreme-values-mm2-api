@@ -736,6 +736,7 @@
     "commons:reindeer-xmas2025": "values/commons/reindeer-xmas2025.json",
     "commons:reptile": "values/commons/reptile.json",
     "uncommons:retro": "values/uncommons/retro.json",
+    "sets:retro-set": "values/sets/retro-set.json",
     "commons:ribbon": "values/commons/ribbon.json",
     "commons:ribbons": "values/commons/ribbons.json",
     "commons:rip": "values/commons/rip.json",
@@ -3197,6 +3198,9 @@
     ],
     "retro": [
       "values/uncommons/retro.json"
+    ],
+    "retro-set": [
+      "values/sets/retro-set.json"
     ],
     "ribbon": [
       "values/commons/ribbon.json"
@@ -6279,6 +6283,9 @@
     ],
     "retro": [
       "values/uncommons/retro.json"
+    ],
+    "retro set": [
+      "values/sets/retro-set.json"
     ],
     "ribbon": [
       "values/commons/ribbon.json"

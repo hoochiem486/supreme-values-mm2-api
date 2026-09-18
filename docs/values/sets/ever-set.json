@@ -3,18 +3,18 @@
   "slug": "ever-set",
   "name": "Ever Set",
   "category": "sets",
-  "value": 6000,
+  "value": 5950,
   "valueType": "numeric",
   "tieredValue": null,
-  "valueDisplay": "6,000",
+  "valueDisplay": "5,950",
   "range": {
     "min": 5900,
-    "max": 6000,
-    "display": "5,900 - 6,000"
+    "max": 5950,
+    "display": "5,900 - 5,950"
   },
   "score": 0.962877030162413,
   "scoreClass": "val-top",
-  "stability": "Receding",
+  "stability": "Stable",
   "demand": 5,
   "rarity": 4,
   "origin": null,
