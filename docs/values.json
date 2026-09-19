@@ -1,7 +1,7 @@
 {
   "source": "Supreme Values MM2",
   "sourceBaseUrl": "https://supremevalues.com/mm2",
-  "fetchedAt": "2026-09-19T21:25:41.506Z",
+  "fetchedAt": "2026-09-19T23:28:32.476Z",
   "categoryCount": 12,
   "count": 1061,
   "items": [
@@ -6150,7 +6150,7 @@
         "CSunrise Set"
       ],
       "flippability": "Rarely Flippable",
-      "riseChance": 10,
+      "riseChance": 15,
       "wikiLink": null,
       "imageKey": "mm2chromas/CSR",
       "className": null,
@@ -9202,7 +9202,7 @@
       },
       "score": 0.962877030162413,
       "scoreClass": "val-top",
-      "stability": "Stable",
+      "stability": "Underpaid For",
       "demand": 5,
       "rarity": 4,
       "origin": null,
@@ -30371,7 +30371,7 @@
     "refreshing": false,
     "stale": false,
     "refreshIntervalMs": 600000,
-    "lastSuccessAt": "2026-09-19T21:25:41.506Z",
+    "lastSuccessAt": "2026-09-19T23:28:32.476Z",
     "count": 1061
   }
 }
