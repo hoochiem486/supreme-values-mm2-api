@@ -9,12 +9,12 @@
   "valueDisplay": "760",
   "range": {
     "min": 755,
-    "max": 765,
-    "display": "755 - 765"
+    "max": 760,
+    "display": "755 - 760"
   },
-  "score": 0.9025522041763341,
+  "score": 0.9041095890410958,
   "scoreClass": "val-top",
-  "stability": "Fluctuating",
+  "stability": "Underpaid For",
   "demand": 5,
   "rarity": 4,
   "origin": null,
@@ -24,7 +24,7 @@
     "Ornament Set",
     "Orn Set"
   ],
-  "flippability": "Flippable",
+  "flippability": "Rarely Flippable",
   "riseChance": 10,
   "wikiLink": null,
   "imageKey": "mm2godlies/Bauble",

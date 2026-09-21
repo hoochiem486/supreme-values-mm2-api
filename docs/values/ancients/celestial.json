@@ -3,23 +3,23 @@
   "slug": "celestial",
   "name": "Celestial",
   "category": "ancients",
-  "value": 2450,
+  "value": 2350,
   "valueType": "numeric",
   "tieredValue": null,
-  "valueDisplay": "2,450",
+  "valueDisplay": "2,350",
   "range": {
-    "min": 2400,
-    "max": 2450,
-    "display": "2,400 - 2,450"
+    "min": 2300,
+    "max": 2350,
+    "display": "2,300 - 2,350"
   },
-  "score": 0.9443155452436195,
+  "score": 0.9452054794520548,
   "scoreClass": "val-top",
   "stability": "Receding",
   "demand": 5,
   "rarity": 4,
   "origin": "Christmas 2024 (Tier 20)",
   "difference": -100,
-  "percentageChange": -3.9,
+  "percentageChange": -4.1,
   "aliases": [
     "Cel",
     "Celest"

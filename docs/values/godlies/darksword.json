@@ -8,7 +8,7 @@
   "tieredValue": null,
   "valueDisplay": "1,775",
   "range": null,
-  "score": 0.9280742459396751,
+  "score": 0.9269406392694064,
   "scoreClass": "val-top",
   "stability": "Stable",
   "demand": 6,
@@ -20,7 +20,7 @@
     "DSword"
   ],
   "flippability": "Rarely Flippable",
-  "riseChance": 15,
+  "riseChance": 10,
   "wikiLink": "Darksword",
   "imageKey": "mm2godlies/Darksword",
   "className": null,

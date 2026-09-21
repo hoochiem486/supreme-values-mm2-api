@@ -3,23 +3,23 @@
   "slug": "celestial-set",
   "name": "Celestial Set",
   "category": "sets",
-  "value": 5250,
+  "value": 5100,
   "valueType": "numeric",
   "tieredValue": null,
-  "valueDisplay": "5,250",
+  "valueDisplay": "5,100",
   "range": {
-    "min": 5200,
-    "max": 5250,
-    "display": "5,200 - 5,250"
+    "min": 5050,
+    "max": 5100,
+    "display": "5,050 - 5,100"
   },
-  "score": 0.9605568445475638,
+  "score": 0.958904109589041,
   "scoreClass": "val-top",
   "stability": "Receding",
   "demand": 5,
   "rarity": 4,
   "origin": null,
-  "difference": -200,
-  "percentageChange": -3.7,
+  "difference": -150,
+  "percentageChange": -2.9,
   "aliases": [
     "Cel Set"
   ],

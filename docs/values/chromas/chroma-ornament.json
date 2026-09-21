@@ -8,7 +8,7 @@
   "tieredValue": null,
   "valueDisplay": "1,825",
   "range": null,
-  "score": 0.9327146171693735,
+  "score": 0.9337899543378996,
   "scoreClass": "val-top",
   "stability": "Stable",
   "demand": 5,
@@ -21,7 +21,7 @@
     "COrn"
   ],
   "flippability": "Rarely Flippable",
-  "riseChance": 15,
+  "riseChance": 10,
   "wikiLink": "Chroma_Ornament",
   "imageKey": "mm2chromas/COR",
   "className": null,
