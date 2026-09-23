@@ -3,14 +3,14 @@
   "slug": "beach-set",
   "name": "Beach Set",
   "category": "sets",
-  "value": 200,
+  "value": 190,
   "valueType": "numeric",
   "tieredValue": null,
-  "valueDisplay": "200",
+  "valueDisplay": "190",
   "range": {
-    "min": 190,
-    "max": 210,
-    "display": "190 - 210"
+    "min": 180,
+    "max": 200,
+    "display": "180 - 200"
   },
   "score": 0.8447488584474886,
   "scoreClass": "val-mid",
@@ -19,7 +19,7 @@
   "rarity": 3,
   "origin": null,
   "difference": -10,
-  "percentageChange": -4.8,
+  "percentageChange": -5,
   "aliases": [],
   "flippability": "Flippable",
   "riseChance": 10,

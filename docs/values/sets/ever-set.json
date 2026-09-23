@@ -7,14 +7,10 @@
   "valueType": "numeric",
   "tieredValue": null,
   "valueDisplay": "5,950",
-  "range": {
-    "min": 5900,
-    "max": 5950,
-    "display": "5,900 - 5,950"
-  },
+  "range": null,
   "score": 0.9634703196347032,
   "scoreClass": "val-top",
-  "stability": "Receding",
+  "stability": "Stable",
   "demand": 5,
   "rarity": 4,
   "origin": null,

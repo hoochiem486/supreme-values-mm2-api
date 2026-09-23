@@ -3,14 +3,14 @@
   "slug": "chroma-sunset",
   "name": "Chroma Sunset",
   "category": "chromas",
-  "value": 7250,
+  "value": 7500,
   "valueType": "numeric",
   "tieredValue": null,
-  "valueDisplay": "7,250",
+  "valueDisplay": "7,500",
   "range": {
-    "min": 7250,
-    "max": 7500,
-    "display": "7,250 - 7,500"
+    "min": 7500,
+    "max": 7750,
+    "display": "7,500 - 7,750"
   },
   "score": 0.9657534246575342,
   "scoreClass": "val-top",
@@ -19,7 +19,7 @@
   "rarity": 5,
   "origin": "Summer 2025 (Tier 25)",
   "difference": 250,
-  "percentageChange": 3.6,
+  "percentageChange": 3.4,
   "aliases": [
     "CSunset",
     "CSS"

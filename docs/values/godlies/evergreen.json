@@ -7,14 +7,10 @@
   "valueType": "numeric",
   "tieredValue": null,
   "valueDisplay": "2,500",
-  "range": {
-    "min": 2450,
-    "max": 2500,
-    "display": "2,450 - 2,500"
-  },
+  "range": null,
   "score": 0.9474885844748858,
   "scoreClass": "val-top",
-  "stability": "Receding",
+  "stability": "Stable",
   "demand": 5,
   "rarity": 4,
   "origin": "Christmas 2023 (Unboxed)",
@@ -24,7 +20,7 @@
     "EGreen"
   ],
   "flippability": "Rarely Flippable",
-  "riseChance": 0,
+  "riseChance": 10,
   "wikiLink": "Evergreen",
   "imageKey": "mm2godlies/Evergreen",
   "className": null,
